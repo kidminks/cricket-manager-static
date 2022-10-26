@@ -1,0 +1,85 @@
+[
+	{
+		"id": 1,
+		"name": "Afghanistan",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Afghanistan_%282004%E2%80%932021%29.svg/45px-Flag_of_Afghanistan_%282004%E2%80%932021%29.svg.png",
+		"cricket_board": "Afghanistan Cricket Board",
+		"abbr": "ACB"
+	},
+	{
+		"id": 2,
+		"name": "Australia",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png",
+		"cricket_board": "Cricket Australia",
+		"abbr": "CA"
+	},
+	{
+		"id": 3,
+		"name": "Bangladesh",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png",
+		"cricket_board": "Bangladesh Cricket Board",
+		"abbr": "BCB"
+	},
+	{
+		"id": 4,
+		"name": "England",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png",
+		"cricket_board": "England and Wales Cricket Board",
+		"abbr": "EWCB"
+	},
+	{
+		"id": 5,
+		"name": "India",
+		"flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png",
+		"cricket_board": "Board of Control for Cricket in India",
+		"abbr": "BCCI"
+	},
+	{
+		"id": 6,
+		"name": "Ireland",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cricket_Ireland_flag.svg/45px-Cricket_Ireland_flag.svg.png",
+		"cricket_board": "Cricket Ireland",
+		"abbr": "CI"
+	},
+	{
+		"id": 7,
+		"name": "New Zealand",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png",
+		"cricket_board": "New Zealand Cricket",
+		"abbr": "NZC"
+	},
+	{
+		"id": 8,
+		"name": "Pakistan",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png",
+		"cricket_board": "Pakistan Cricket Board"
+	},
+	{
+		"id": 9,
+		"name": "South Africa",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png",
+		"cricket_board": "Cricket South Africa",
+		"abbr": "CSA"
+	},
+	{
+		"id": 10,
+		"name": "Sri Lanka",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/46px-Flag_of_Sri_Lanka.svg.png",
+		"cricket_board": "Sri Lanka Cricket",
+		"abbr": "SLC"
+	},
+	{
+		"id": 11,
+		"name": "West Indies",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/WestIndiesCricketFlagPre1999.svg/46px-WestIndiesCricketFlagPre1999.svg.png",
+		"cricket_board": "Cricket West Indies",
+		"abbr": "WI"
+	},
+	{
+		"id": 12,
+		"name": "Zimbabwe",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/46px-Flag_of_Zimbabwe.svg.png",
+		"cricket_board": "Zimbabwe Cricket",
+		"abbr": "ZC"
+	},
+]
