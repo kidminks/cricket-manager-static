@@ -648,5 +648,145 @@
     "abbr": "Paktia Super Kings",
     "hiring_cond": "Skilled",
     "link": "https://en.wikipedia.org/wiki/Paktia_Super_Kings"
+  },
+  {
+    "id": 66,
+    "name": "New South Wales cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "New South Wales",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/New_South_Wales_cricket_team"
+  },
+  {
+    "id": 67,
+    "name": "Queensland cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Queensland",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Queensland_cricket_team"
+  },
+  {
+    "id": 68,
+    "name": "South Australia cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "South Australia",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/South_Australia_cricket_team"
+  },
+  {
+    "id": 69,
+    "name": "Tasmania cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Tasmania",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Tasmania_cricket_team"
+  },
+  {
+    "id": 70,
+    "name": "Victoria cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Victoria",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Victoria_cricket_team"
+  },
+  {
+    "id": 71,
+    "name": "Western Australia cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Western Australia",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Western_Australia_cricket_team"
+  },
+  {
+    "id": 72,
+    "name": "Adelaide Strikers",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Adelaide",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Adelaide_Strikers"
+  },
+  {
+    "id": 73,
+    "name": "Brisbane Heat",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Brisbane",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Brisbane_Heat"
+  },
+  {
+    "id": 74,
+    "name": "Hobart Hurricanes",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Hobart",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Hobart_Hurricanes"
+  },
+  {
+    "id": 75,
+    "name": "Melbourne Renegades",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Melbourne",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Melbourne_Renegades"
+  },
+  {
+    "id": 76,
+    "name": "Melbourne Stars",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Melbourne",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Melbourne_Stars"
+  },
+  {
+    "id": 77,
+    "name": "Perth Scorchers",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Perth",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Perth_Scorchers"
+  },
+  {
+    "id": 78,
+    "name": "Sydney Sixers",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Sydney",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sydney_Sixers"
+  },
+  {
+    "id": 79,
+    "name": "Sydney Thunder",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Sydney",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sydney_Thunder"
   }
 ]
