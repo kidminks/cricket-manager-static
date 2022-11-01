@@ -280,7 +280,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/County_Championship"
   },
   {
     "id": 26,
@@ -291,7 +292,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/2021_County_Championship#Bob_Willis_Trophy"
   },
   {
     "id": 27,
@@ -301,7 +303,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Royal_London_One-Day_Cup"
   },
   {
     "id": 28,
@@ -311,7 +314,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/T20_Blast"
   },
   {
     "id": 29,
@@ -322,7 +326,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Championship"
   },
   {
     "id": 30,
@@ -332,7 +337,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Cup"
   },
   {
     "id": 31,
@@ -342,7 +348,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Trophy"
   },
   {
     "id": 32,
@@ -352,7 +359,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Leinster_Senior_League_(cricket)"
   },
   {
     "id": 33,
@@ -362,7 +370,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/NCU_Senior_League"
   },
   {
     "id": 34,
@@ -372,7 +381,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/North_West_Senior_League"
   },
   {
     "id": 35,
@@ -382,7 +392,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 36,
@@ -392,7 +403,9 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Irish_Senior_Cup_(cricket)",
+    "defunct": true
   },
   {
     "id": 37,
@@ -402,7 +415,9 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Ulster_Cup_(cricket)",
+    "defunct": true
   },
   {
     "id": 38,
@@ -412,7 +427,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 39,
@@ -422,7 +438,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 40,
@@ -432,7 +449,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 41,
@@ -442,7 +460,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 42,
