@@ -788,5 +788,275 @@
     "abbr": "Sydney",
     "hiring_cond": "Ameture",
     "link": "https://en.wikipedia.org/wiki/Sydney_Thunder"
+  },
+  {
+    "id": 80,
+    "name": "Barisal Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Barisal Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Barisal_Division_cricket_team"
+  },
+  {
+    "id": 81,
+    "name": "Biman Bangladesh Airlines cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Biman Bangladesh Airlines",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines_cricket_team"
+  },
+  {
+    "id": 82,
+    "name": "Chittagong Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Chittagong Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Chittagong_Division_cricket_team"
+  },
+  {
+    "id": 83,
+    "name": "Dhaka Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Dhaka Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Dhaka_Division_cricket_team"
+  },
+  {
+    "id": 84,
+    "name": "Dhaka Metropolis cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Dhaka Metropolis",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Dhaka_Metropolis_cricket_team"
+  },
+  {
+    "id": 85,
+    "name": "Khulna Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Khulna Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Khulna_Division_cricket_team"
+  },
+  {
+    "id": 86,
+    "name": "Rajshahi Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rajshahi Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Rajshahi_Division_cricket_team"
+  },
+  {
+    "id": 87,
+    "name": "Rangpur Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rangpur Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Rangpur_Division_cricket_team"
+  },
+  {
+    "id": 88,
+    "name": "Sylhet Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Sylhet Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sylhet_Division_cricket_team"
+  },
+  {
+    "id": 89,
+    "name": "Abahani Limited cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Abahani Limited",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Abahani_Limited_cricket_team"
+  },
+  {
+    "id": 90,
+    "name": "Brothers Union cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Brothers Union",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Brothers_Union_cricket_team"
+  },
+  {
+    "id": 91,
+    "name": "City Club (cricket)",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "City Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/City_Club_(cricket)"
+  },
+  {
+    "id": 92,
+    "name": "Gazi Group Cricketers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Gazi Group Cricketers",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Gazi_Group_Cricketers"
+  },
+  {
+    "id": 93,
+    "name": "Khelaghar Samaj Kallyan Samity",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Khelaghar Samaj Kallyan Samity",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Khelaghar_Samaj_Kallyan_Samity"
+  },
+  {
+    "id": 94,
+    "name": "Legends of Rupganj",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Legends of Rupganj",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Legends_of_Rupganj"
+  },
+  {
+    "id": 95,
+    "name": "Mohammedan Sporting Club cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Mohammedan Sporting Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Mohammedan_Sporting_Club_cricket_team"
+  },
+  {
+    "id": 96,
+    "name": "Prime Bank Cricket Club",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Prime Bank Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Prime_Bank_Cricket_Club"
+  },
+  {
+    "id": 97,
+    "name": "Rupganj Tigers Cricket Club",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rupganj Tigers Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Rupganj_Tigers_Cricket_Club"
+  },
+  {
+    "id": 98,
+    "name": "Sheikh Jamal Dhanmondi Club cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Sheikh Jamal Dhanmondi Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
+  },
+  {
+    "id": 99,
+    "name": "Shinepukur Cricket Club",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Shinepukur Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Shinepukur_Cricket_Club"
+  },
+  {
+    "id": 100,
+    "name": "Chattogram Challengers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Chattogram Challengers",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Chattogram_Challengers"
+  },
+  {
+    "id": 101,
+    "name": "Comilla Victorians",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Comilla Victorians",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Comilla_Victorians"
+  },
+  {
+    "id": 102,
+    "name": "Minister Dhaka",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Dhaka Team",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Minister_Dhaka"
+  },
+  {
+    "id": 103,
+    "name": "Fortune Barishal",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Fortune Barishal",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Fortune_Barishal"
+  },
+  {
+    "id": 104,
+    "name": "Khulna Tigers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Khulna Tigers",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Khulna_Tigers"
+  },
+  {
+    "id": 105,
+    "name": "Rangpur Riders",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rangpur Riders",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Rangpur_Riders"
+  },
+  {
+    "id": 106,
+    "name": "Sylhet Strikers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Sylhet Strikers",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Sylhet_Strikers"
   }
 ]
