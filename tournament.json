@@ -8,18 +8,20 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Ranji_Trophy"
   },
   {
     "id": 2,
     "name": "Duleep Trophy",
     "country_id": 5,
-    "type": "State",
+    "type": "Regional",
     "invitation": false,
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Duleep_Trophy"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Irani_Cup"
   },
   {
     "id": 4,
@@ -40,7 +43,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Vijay_Hazare_Trophy"
   },
   {
     "id": 5,
@@ -50,7 +54,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Deodhar_Trophy"
   },
   {
     "id": 6,
@@ -60,7 +65,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Indian_Premier_League"
   },
   {
     "id": 7,
@@ -70,7 +76,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Syed_Mushtaq_Ali_Trophy"
   },
   {
     "id": 8,
@@ -81,7 +88,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Ahmad_Shah_Abdali_4-day_Tournament"
   },
   {
     "id": 9,
@@ -91,7 +99,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Ghazi_Amanullah_Khan_Regional_One_Day_Tournament"
   },
   {
     "id": 10,
@@ -101,7 +110,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Shpageeza_Cricket_League"
   },
   {
     "id": 11,
@@ -112,7 +122,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 3
+    "days": 3,
+    "link": "https://en.wikipedia.org/wiki/2018%E2%80%9319_Mirwais_Nika_Provincial_3-Day"
   },
   {
     "id": 12,
@@ -122,7 +133,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/2020_Afghanistan_Provincial_Challenge_Cup"
   },
   {
     "id": 13,
@@ -132,7 +144,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Afghanistan_Premier_League"
   },
   {
     "id": 14,
