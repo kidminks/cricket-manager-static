@@ -1,1 +1,2997 @@
-[{"id": 46, "tournament_id": 4, "team_id": 1}, {"id": 47, "tournament_id": 4, "team_id": 2}, {"id": 48, "tournament_id": 4, "team_id": 3}, {"id": 49, "tournament_id": 4, "team_id": 4}, {"id": 50, "tournament_id": 4, "team_id": 5}, {"id": 51, "tournament_id": 4, "team_id": 6}, {"id": 52, "tournament_id": 4, "team_id": 7}, {"id": 53, "tournament_id": 4, "team_id": 8}, {"id": 54, "tournament_id": 4, "team_id": 9}, {"id": 55, "tournament_id": 4, "team_id": 10}, {"id": 56, "tournament_id": 4, "team_id": 11}, {"id": 57, "tournament_id": 4, "team_id": 12}, {"id": 58, "tournament_id": 4, "team_id": 13}, {"id": 59, "tournament_id": 4, "team_id": 14}, {"id": 60, "tournament_id": 4, "team_id": 15}, {"id": 61, "tournament_id": 4, "team_id": 16}, {"id": 62, "tournament_id": 4, "team_id": 17}, {"id": 63, "tournament_id": 4, "team_id": 18}, {"id": 64, "tournament_id": 4, "team_id": 19}, {"id": 65, "tournament_id": 4, "team_id": 20}, {"id": 66, "tournament_id": 4, "team_id": 21}, {"id": 67, "tournament_id": 4, "team_id": 22}, {"id": 68, "tournament_id": 4, "team_id": 23}, {"id": 69, "tournament_id": 4, "team_id": 24}, {"id": 70, "tournament_id": 4, "team_id": 25}, {"id": 71, "tournament_id": 4, "team_id": 26}, {"id": 72, "tournament_id": 4, "team_id": 27}, {"id": 73, "tournament_id": 4, "team_id": 28}, {"id": 74, "tournament_id": 4, "team_id": 29}, {"id": 75, "tournament_id": 4, "team_id": 30}, {"id": 76, "tournament_id": 4, "team_id": 31}, {"id": 77, "tournament_id": 4, "team_id": 32}, {"id": 78, "tournament_id": 4, "team_id": 33}, {"id": 79, "tournament_id": 4, "team_id": 34}, {"id": 80, "tournament_id": 4, "team_id": 35}, {"id": 81, "tournament_id": 4, "team_id": 36}, {"id": 82, "tournament_id": 4, "team_id": 37}, {"id": 83, "tournament_id": 4, "team_id": 38}, {"id": 84, "tournament_id": 5, "team_id": 39}, {"id": 85, "tournament_id": 5, "team_id": 40}, {"id": 86, "tournament_id": 5, "team_id": 41}, {"id": 87, "tournament_id": 5, "team_id": 42}, {"id": 88, "tournament_id": 5, "team_id": 43}, {"id": 44, "tournament_id": 3, "team_id": 44}, {"id": 45, "tournament_id": 3, "winner_of": 1}, {"id": 46, "tournament_id": 4, "team_id": 1}, {"id": 47, "tournament_id": 4, "team_id": 2}, {"id": 48, "tournament_id": 4, "team_id": 3}, {"id": 49, "tournament_id": 4, "team_id": 4}, {"id": 50, "tournament_id": 4, "team_id": 5}, {"id": 51, "tournament_id": 4, "team_id": 6}, {"id": 52, "tournament_id": 4, "team_id": 7}, {"id": 53, "tournament_id": 4, "team_id": 8}, {"id": 54, "tournament_id": 4, "team_id": 9}, {"id": 55, "tournament_id": 4, "team_id": 10}, {"id": 56, "tournament_id": 4, "team_id": 11}, {"id": 57, "tournament_id": 4, "team_id": 12}, {"id": 58, "tournament_id": 4, "team_id": 13}, {"id": 59, "tournament_id": 4, "team_id": 14}, {"id": 60, "tournament_id": 4, "team_id": 15}, {"id": 61, "tournament_id": 4, "team_id": 16}, {"id": 62, "tournament_id": 4, "team_id": 17}, {"id": 63, "tournament_id": 4, "team_id": 18}, {"id": 64, "tournament_id": 4, "team_id": 19}, {"id": 65, "tournament_id": 4, "team_id": 20}, {"id": 66, "tournament_id": 4, "team_id": 21}, {"id": 67, "tournament_id": 4, "team_id": 22}, {"id": 68, "tournament_id": 4, "team_id": 23}, {"id": 69, "tournament_id": 4, "team_id": 24}, {"id": 70, "tournament_id": 4, "team_id": 25}, {"id": 71, "tournament_id": 4, "team_id": 26}, {"id": 72, "tournament_id": 4, "team_id": 27}, {"id": 73, "tournament_id": 4, "team_id": 28}, {"id": 74, "tournament_id": 4, "team_id": 29}, {"id": 75, "tournament_id": 4, "team_id": 30}, {"id": 76, "tournament_id": 4, "team_id": 31}, {"id": 77, "tournament_id": 4, "team_id": 32}, {"id": 78, "tournament_id": 4, "team_id": 33}, {"id": 79, "tournament_id": 4, "team_id": 34}, {"id": 80, "tournament_id": 4, "team_id": 35}, {"id": 81, "tournament_id": 4, "team_id": 36}, {"id": 82, "tournament_id": 4, "team_id": 37}, {"id": 83, "tournament_id": 4, "team_id": 38}, {"id": 84, "tournament_id": 5, "team_id": 39}, {"id": 85, "tournament_id": 5, "team_id": 40}, {"id": 86, "tournament_id": 5, "team_id": 41}, {"id": 87, "tournament_id": 5, "team_id": 42}, {"id": 88, "tournament_id": 5, "team_id": 43}, {"id": 89, "tournament_id": 6, "team_id": 45}, {"id": 90, "tournament_id": 6, "team_id": 46}, {"id": 91, "tournament_id": 6, "team_id": 47}, {"id": 92, "tournament_id": 6, "team_id": 48}, {"id": 93, "tournament_id": 6, "team_id": 49}, {"id": 94, "tournament_id": 6, "team_id": 50}, {"id": 95, "tournament_id": 6, "team_id": 51}, {"id": 96, "tournament_id": 6, "team_id": 52}, {"id": 97, "tournament_id": 6, "team_id": 53}, {"id": 98, "tournament_id": 6, "team_id": 54}, {"id": 105, "tournament_id": 9, "team_id": 55}, {"id": 106, "tournament_id": 9, "team_id": 56}, {"id": 107, "tournament_id": 9, "team_id": 57}, {"id": 108, "tournament_id": 9, "team_id": 58}, {"id": 109, "tournament_id": 9, "team_id": 59}, {"id": 110, "tournament_id": 9, "team_id": 60}, {"id": 105, "tournament_id": 9, "team_id": 55}, {"id": 106, "tournament_id": 9, "team_id": 56}, {"id": 107, "tournament_id": 9, "team_id": 57}, {"id": 108, "tournament_id": 9, "team_id": 58}, {"id": 109, "tournament_id": 9, "team_id": 59}, {"id": 110, "tournament_id": 9, "team_id": 60}, {"id": 111, "tournament_id": 13, "team_id": 61}, {"id": 112, "tournament_id": 13, "team_id": 62}, {"id": 113, "tournament_id": 13, "team_id": 63}, {"id": 114, "tournament_id": 13, "team_id": 64}, {"id": 115, "tournament_id": 13, "team_id": 65}, {"id": 122, "tournament_id": 15, "team_id": 66}, {"id": 123, "tournament_id": 15, "team_id": 67}, {"id": 124, "tournament_id": 15, "team_id": 68}, {"id": 125, "tournament_id": 15, "team_id": 69}, {"id": 126, "tournament_id": 15, "team_id": 70}, {"id": 127, "tournament_id": 15, "team_id": 71}, {"id": 122, "tournament_id": 15, "team_id": 66}, {"id": 123, "tournament_id": 15, "team_id": 67}, {"id": 124, "tournament_id": 15, "team_id": 68}, {"id": 125, "tournament_id": 15, "team_id": 69}, {"id": 126, "tournament_id": 15, "team_id": 70}, {"id": 127, "tournament_id": 15, "team_id": 71}, {"id": 136, "tournament_id": 18, "team_id": 72}, {"id": 137, "tournament_id": 18, "team_id": 73}, {"id": 138, "tournament_id": 18, "team_id": 74}, {"id": 139, "tournament_id": 18, "team_id": 75}, {"id": 140, "tournament_id": 18, "team_id": 76}, {"id": 141, "tournament_id": 18, "team_id": 77}, {"id": 142, "tournament_id": 18, "team_id": 78}, {"id": 143, "tournament_id": 18, "team_id": 79}, {"id": 136, "tournament_id": 18, "team_id": 72}, {"id": 137, "tournament_id": 18, "team_id": 73}, {"id": 138, "tournament_id": 18, "team_id": 74}, {"id": 139, "tournament_id": 18, "team_id": 75}, {"id": 140, "tournament_id": 18, "team_id": 76}, {"id": 141, "tournament_id": 18, "team_id": 77}, {"id": 142, "tournament_id": 18, "team_id": 78}, {"id": 143, "tournament_id": 18, "team_id": 79}, {"id": 153, "tournament_id": 20, "team_id": 80}, {"id": 154, "tournament_id": 20, "team_id": 81}, {"id": 155, "tournament_id": 20, "team_id": 82}, {"id": 156, "tournament_id": 20, "team_id": 83}, {"id": 157, "tournament_id": 20, "team_id": 84}, {"id": 158, "tournament_id": 20, "team_id": 85}, {"id": 159, "tournament_id": 20, "team_id": 86}, {"id": 160, "tournament_id": 20, "team_id": 87}, {"id": 161, "tournament_id": 20, "team_id": 88}, {"id": 153, "tournament_id": 20, "team_id": 80}, {"id": 154, "tournament_id": 20, "team_id": 81}, {"id": 155, "tournament_id": 20, "team_id": 82}, {"id": 156, "tournament_id": 20, "team_id": 83}, {"id": 157, "tournament_id": 20, "team_id": 84}, {"id": 158, "tournament_id": 20, "team_id": 85}, {"id": 159, "tournament_id": 20, "team_id": 86}, {"id": 160, "tournament_id": 20, "team_id": 87}, {"id": 161, "tournament_id": 20, "team_id": 88}, {"id": 180, "tournament_id": 23, "team_id": 89}, {"id": 181, "tournament_id": 23, "team_id": 90}, {"id": 182, "tournament_id": 23, "team_id": 91}, {"id": 183, "tournament_id": 23, "team_id": 92}, {"id": 184, "tournament_id": 23, "team_id": 93}, {"id": 185, "tournament_id": 23, "team_id": 94}, {"id": 186, "tournament_id": 23, "team_id": 95}, {"id": 187, "tournament_id": 23, "team_id": 96}, {"id": 188, "tournament_id": 23, "team_id": 97}, {"id": 189, "tournament_id": 23, "team_id": 98}, {"id": 190, "tournament_id": 23, "team_id": 99}, {"id": 173, "tournament_id": 22, "team_id": 100}, {"id": 174, "tournament_id": 22, "team_id": 101}, {"id": 175, "tournament_id": 22, "team_id": 102}, {"id": 176, "tournament_id": 22, "team_id": 103}, {"id": 177, "tournament_id": 22, "team_id": 104}, {"id": 178, "tournament_id": 22, "team_id": 105}, {"id": 179, "tournament_id": 22, "team_id": 106}, {"id": 180, "tournament_id": 23, "team_id": 89}, {"id": 181, "tournament_id": 23, "team_id": 90}, {"id": 182, "tournament_id": 23, "team_id": 91}, {"id": 183, "tournament_id": 23, "team_id": 92}, {"id": 184, "tournament_id": 23, "team_id": 93}, {"id": 185, "tournament_id": 23, "team_id": 94}, {"id": 186, "tournament_id": 23, "team_id": 95}, {"id": 187, "tournament_id": 23, "team_id": 96}, {"id": 188, "tournament_id": 23, "team_id": 97}, {"id": 189, "tournament_id": 23, "team_id": 98}, {"id": 190, "tournament_id": 23, "team_id": 99}, {"id": 209, "tournament_id": 26, "team_id": 107}, {"id": 210, "tournament_id": 26, "team_id": 108}, {"id": 211, "tournament_id": 26, "team_id": 109}, {"id": 212, "tournament_id": 26, "team_id": 110}, {"id": 213, "tournament_id": 26, "team_id": 111}, {"id": 214, "tournament_id": 26, "team_id": 112}, {"id": 215, "tournament_id": 26, "team_id": 113}, {"id": 216, "tournament_id": 26, "team_id": 114}, {"id": 217, "tournament_id": 26, "team_id": 115}, {"id": 218, "tournament_id": 26, "team_id": 116}, {"id": 219, "tournament_id": 26, "team_id": 117}, {"id": 220, "tournament_id": 26, "team_id": 118}, {"id": 221, "tournament_id": 26, "team_id": 119}, {"id": 222, "tournament_id": 26, "team_id": 120}, {"id": 223, "tournament_id": 26, "team_id": 121}, {"id": 224, "tournament_id": 26, "team_id": 122}, {"id": 225, "tournament_id": 26, "team_id": 123}, {"id": 226, "tournament_id": 26, "team_id": 124}, {"id": 209, "tournament_id": 26, "team_id": 107}, {"id": 210, "tournament_id": 26, "team_id": 108}, {"id": 211, "tournament_id": 26, "team_id": 109}, {"id": 212, "tournament_id": 26, "team_id": 110}, {"id": 213, "tournament_id": 26, "team_id": 111}, {"id": 214, "tournament_id": 26, "team_id": 112}, {"id": 215, "tournament_id": 26, "team_id": 113}, {"id": 216, "tournament_id": 26, "team_id": 114}, {"id": 217, "tournament_id": 26, "team_id": 115}, {"id": 218, "tournament_id": 26, "team_id": 116}, {"id": 219, "tournament_id": 26, "team_id": 117}, {"id": 220, "tournament_id": 26, "team_id": 118}, {"id": 221, "tournament_id": 26, "team_id": 119}, {"id": 222, "tournament_id": 26, "team_id": 120}, {"id": 223, "tournament_id": 26, "team_id": 121}, {"id": 224, "tournament_id": 26, "team_id": 122}, {"id": 225, "tournament_id": 26, "team_id": 123}, {"id": 226, "tournament_id": 26, "team_id": 124}, {"id": 230, "tournament_id": 30, "team_id": 125}, {"id": 231, "tournament_id": 30, "team_id": 126}, {"id": 232, "tournament_id": 30, "team_id": 127}, {"id": 230, "tournament_id": 30, "team_id": 125}, {"id": 231, "tournament_id": 30, "team_id": 126}, {"id": 232, "tournament_id": 30, "team_id": 127}, {"id": 277, "tournament_id": 36, "team_id": 128}, {"id": 278, "tournament_id": 36, "team_id": 129}, {"id": 279, "tournament_id": 36, "team_id": 130}, {"id": 280, "tournament_id": 36, "team_id": 131}, {"id": 281, "tournament_id": 36, "team_id": 132}, {"id": 282, "tournament_id": 36, "team_id": 133}, {"id": 283, "tournament_id": 36, "team_id": 134}, {"id": 284, "tournament_id": 36, "team_id": 135}, {"id": 285, "tournament_id": 36, "team_id": 136}, {"id": 286, "tournament_id": 36, "team_id": 137}, {"id": 287, "tournament_id": 36, "team_id": 138}, {"id": 288, "tournament_id": 36, "team_id": 139}, {"id": 289, "tournament_id": 36, "team_id": 140}, {"id": 246, "tournament_id": 33, "team_id": 141}, {"id": 247, "tournament_id": 33, "team_id": 142}, {"id": 248, "tournament_id": 33, "team_id": 143}, {"id": 249, "tournament_id": 33, "team_id": 144}, {"id": 250, "tournament_id": 33, "team_id": 145}, {"id": 251, "tournament_id": 33, "team_id": 146}, {"id": 252, "tournament_id": 33, "team_id": 147}, {"id": 253, "tournament_id": 33, "team_id": 148}, {"id": 254, "tournament_id": 33, "team_id": 149}, {"id": 255, "tournament_id": 33, "team_id": 150}, {"id": 256, "tournament_id": 33, "team_id": 151}, {"id": 257, "tournament_id": 33, "team_id": 152}, {"id": 258, "tournament_id": 33, "team_id": 153}, {"id": 259, "tournament_id": 33, "team_id": 154}, {"id": 260, "tournament_id": 33, "team_id": 155}, {"id": 261, "tournament_id": 33, "team_id": 156}, {"id": 262, "tournament_id": 33, "team_id": 157}, {"id": 263, "tournament_id": 33, "team_id": 158}, {"id": 264, "tournament_id": 33, "team_id": 159}, {"id": 265, "tournament_id": 33, "team_id": 160}, {"id": 266, "tournament_id": 33, "team_id": 161}, {"id": 267, "tournament_id": 34, "team_id": 162}, {"id": 268, "tournament_id": 34, "team_id": 163}, {"id": 269, "tournament_id": 34, "team_id": 164}, {"id": 270, "tournament_id": 34, "team_id": 165}, {"id": 271, "tournament_id": 34, "team_id": 166}, {"id": 272, "tournament_id": 34, "team_id": 167}, {"id": 273, "tournament_id": 34, "team_id": 168}, {"id": 274, "tournament_id": 34, "team_id": 169}, {"id": 275, "tournament_id": 34, "team_id": 170}, {"id": 276, "tournament_id": 34, "team_id": 171}, {"id": 277, "tournament_id": 36, "team_id": 128}, {"id": 278, "tournament_id": 36, "team_id": 129}, {"id": 279, "tournament_id": 36, "team_id": 130}, {"id": 280, "tournament_id": 36, "team_id": 131}, {"id": 281, "tournament_id": 36, "team_id": 132}, {"id": 282, "tournament_id": 36, "team_id": 133}, {"id": 283, "tournament_id": 36, "team_id": 134}, {"id": 284, "tournament_id": 36, "team_id": 135}, {"id": 285, "tournament_id": 36, "team_id": 136}, {"id": 286, "tournament_id": 36, "team_id": 137}, {"id": 287, "tournament_id": 36, "team_id": 138}, {"id": 288, "tournament_id": 36, "team_id": 139}, {"id": 289, "tournament_id": 36, "team_id": 140}, {"id": 296, "tournament_id": 43, "team_id": 172}, {"id": 297, "tournament_id": 43, "team_id": 173}, {"id": 298, "tournament_id": 43, "team_id": 174}, {"id": 299, "tournament_id": 43, "team_id": 175}, {"id": 300, "tournament_id": 43, "team_id": 176}, {"id": 301, "tournament_id": 43, "team_id": 177}, {"id": 296, "tournament_id": 43, "team_id": 172}, {"id": 297, "tournament_id": 43, "team_id": 173}, {"id": 298, "tournament_id": 43, "team_id": 174}, {"id": 299, "tournament_id": 43, "team_id": 175}, {"id": 300, "tournament_id": 43, "team_id": 176}, {"id": 301, "tournament_id": 43, "team_id": 177}, {"id": 302, "tournament_id": 45, "team_id": 178}, {"id": 303, "tournament_id": 45, "team_id": 179}, {"id": 304, "tournament_id": 45, "team_id": 180}, {"id": 305, "tournament_id": 45, "team_id": 181}, {"id": 306, "tournament_id": 45, "team_id": 182}, {"id": 307, "tournament_id": 45, "team_id": 183}, {"id": 313, "tournament_id": 48, "team_id": 184}, {"id": 314, "tournament_id": 48, "team_id": 185}, {"id": 315, "tournament_id": 48, "team_id": 186}, {"id": 316, "tournament_id": 48, "team_id": 187}, {"id": 317, "tournament_id": 48, "team_id": 188}, {"id": 313, "tournament_id": 48, "team_id": 184}, {"id": 314, "tournament_id": 48, "team_id": 185}, {"id": 315, "tournament_id": 48, "team_id": 186}, {"id": 316, "tournament_id": 48, "team_id": 187}, {"id": 317, "tournament_id": 48, "team_id": 188}, {"id": 333, "tournament_id": 51, "team_id": 189}, {"id": 334, "tournament_id": 51, "team_id": 190}, {"id": 335, "tournament_id": 51, "team_id": 191}, {"id": 336, "tournament_id": 51, "team_id": 192}, {"id": 337, "tournament_id": 51, "team_id": 193}, {"id": 338, "tournament_id": 51, "team_id": 194}, {"id": 339, "tournament_id": 51, "team_id": 195}, {"id": 340, "tournament_id": 51, "team_id": 196}, {"id": 341, "tournament_id": 51, "team_id": 197}, {"id": 342, "tournament_id": 51, "team_id": 198}, {"id": 343, "tournament_id": 51, "team_id": 199}, {"id": 344, "tournament_id": 51, "team_id": 200}, {"id": 345, "tournament_id": 51, "team_id": 201}, {"id": 346, "tournament_id": 51, "team_id": 202}, {"id": 347, "tournament_id": 51, "team_id": 203}, {"id": 333, "tournament_id": 51, "team_id": 189}, {"id": 334, "tournament_id": 51, "team_id": 190}, {"id": 335, "tournament_id": 51, "team_id": 191}, {"id": 336, "tournament_id": 51, "team_id": 192}, {"id": 337, "tournament_id": 51, "team_id": 193}, {"id": 338, "tournament_id": 51, "team_id": 194}, {"id": 339, "tournament_id": 51, "team_id": 195}, {"id": 340, "tournament_id": 51, "team_id": 196}, {"id": 341, "tournament_id": 51, "team_id": 197}, {"id": 342, "tournament_id": 51, "team_id": 198}, {"id": 343, "tournament_id": 51, "team_id": 199}, {"id": 344, "tournament_id": 51, "team_id": 200}, {"id": 345, "tournament_id": 51, "team_id": 201}, {"id": 346, "tournament_id": 51, "team_id": 202}, {"id": 347, "tournament_id": 51, "team_id": 203}, {"id": 374, "tournament_id": 55, "team_id": 204}, {"id": 375, "tournament_id": 55, "team_id": 205}, {"id": 376, "tournament_id": 55, "team_id": 206}, {"id": 377, "tournament_id": 55, "team_id": 207}, {"id": 378, "tournament_id": 55, "team_id": 208}, {"id": 379, "tournament_id": 55, "team_id": 209}, {"id": 380, "tournament_id": 55, "team_id": 210}, {"id": 381, "tournament_id": 55, "team_id": 211}, {"id": 382, "tournament_id": 55, "team_id": 212}, {"id": 383, "tournament_id": 55, "team_id": 213}, {"id": 384, "tournament_id": 55, "team_id": 214}, {"id": 385, "tournament_id": 55, "team_id": 215}, {"id": 386, "tournament_id": 55, "team_id": 216}, {"id": 387, "tournament_id": 55, "team_id": 217}, {"id": 388, "tournament_id": 55, "team_id": 218}, {"id": 389, "tournament_id": 55, "team_id": 219}, {"id": 390, "tournament_id": 55, "team_id": 220}, {"id": 391, "tournament_id": 55, "team_id": 221}, {"id": 392, "tournament_id": 55, "team_id": 222}, {"id": 393, "tournament_id": 55, "team_id": 223}, {"id": 394, "tournament_id": 55, "team_id": 224}, {"id": 395, "tournament_id": 55, "team_id": 225}, {"id": 396, "tournament_id": 55, "team_id": 226}, {"id": 397, "tournament_id": 55, "team_id": 227}, {"id": 398, "tournament_id": 55, "team_id": 228}, {"id": 399, "tournament_id": 55, "team_id": 229}, {"id": 374, "tournament_id": 55, "team_id": 204}, {"id": 375, "tournament_id": 55, "team_id": 205}, {"id": 376, "tournament_id": 55, "team_id": 206}, {"id": 377, "tournament_id": 55, "team_id": 207}, {"id": 378, "tournament_id": 55, "team_id": 208}, {"id": 379, "tournament_id": 55, "team_id": 209}, {"id": 380, "tournament_id": 55, "team_id": 210}, {"id": 381, "tournament_id": 55, "team_id": 211}, {"id": 382, "tournament_id": 55, "team_id": 212}, {"id": 383, "tournament_id": 55, "team_id": 213}, {"id": 384, "tournament_id": 55, "team_id": 214}, {"id": 385, "tournament_id": 55, "team_id": 215}, {"id": 386, "tournament_id": 55, "team_id": 216}, {"id": 387, "tournament_id": 55, "team_id": 217}, {"id": 388, "tournament_id": 55, "team_id": 218}, {"id": 389, "tournament_id": 55, "team_id": 219}, {"id": 390, "tournament_id": 55, "team_id": 220}, {"id": 391, "tournament_id": 55, "team_id": 221}, {"id": 392, "tournament_id": 55, "team_id": 222}, {"id": 393, "tournament_id": 55, "team_id": 223}, {"id": 394, "tournament_id": 55, "team_id": 224}, {"id": 395, "tournament_id": 55, "team_id": 225}, {"id": 396, "tournament_id": 55, "team_id": 226}, {"id": 397, "tournament_id": 55, "team_id": 227}, {"id": 398, "tournament_id": 55, "team_id": 228}, {"id": 399, "tournament_id": 55, "team_id": 229}, {"id": 405, "tournament_id": 57, "team_id": 230}, {"id": 406, "tournament_id": 57, "team_id": 231}, {"id": 407, "tournament_id": 57, "team_id": 232}, {"id": 408, "tournament_id": 57, "team_id": 233}, {"id": 409, "tournament_id": 57, "team_id": 234}, {"id": 405, "tournament_id": 57, "team_id": 230}, {"id": 406, "tournament_id": 57, "team_id": 231}, {"id": 407, "tournament_id": 57, "team_id": 232}, {"id": 408, "tournament_id": 57, "team_id": 233}, {"id": 409, "tournament_id": 57, "team_id": 234}, {"id": 410, "tournament_id": 59, "team_id": 235}, {"id": 411, "tournament_id": 59, "team_id": 236}, {"id": 412, "tournament_id": 59, "team_id": 237}, {"id": 413, "tournament_id": 59, "team_id": 238}, {"id": 414, "tournament_id": 59, "team_id": 239}, {"id": 421, "tournament_id": 63, "team_id": 240}, {"id": 422, "tournament_id": 63, "team_id": 241}, {"id": 423, "tournament_id": 63, "team_id": 242}, {"id": 424, "tournament_id": 63, "team_id": 243}, {"id": 425, "tournament_id": 63, "team_id": 244}, {"id": 426, "tournament_id": 63, "team_id": 245}, {"id": 421, "tournament_id": 63, "team_id": 240}, {"id": 422, "tournament_id": 63, "team_id": 241}, {"id": 423, "tournament_id": 63, "team_id": 242}, {"id": 424, "tournament_id": 63, "team_id": 243}, {"id": 425, "tournament_id": 63, "team_id": 244}, {"id": 426, "tournament_id": 63, "team_id": 245}, {"id": 432, "tournament_id": 66, "team_id": 246}, {"id": 433, "tournament_id": 66, "team_id": 247}, {"id": 434, "tournament_id": 66, "team_id": 248}, {"id": 435, "tournament_id": 66, "team_id": 249}, {"id": 436, "tournament_id": 66, "team_id": 250}, {"id": 432, "tournament_id": 66, "team_id": 246}, {"id": 433, "tournament_id": 66, "team_id": 247}, {"id": 434, "tournament_id": 66, "team_id": 248}, {"id": 435, "tournament_id": 66, "team_id": 249}, {"id": 436, "tournament_id": 66, "team_id": 250}]
+[
+  {
+    "id": 1,
+    "tournament_id": 1,
+    "team_id": 1
+  },
+  {
+    "id": 2,
+    "tournament_id": 1,
+    "team_id": 2
+  },
+  {
+    "id": 3,
+    "tournament_id": 1,
+    "team_id": 3
+  },
+  {
+    "id": 4,
+    "tournament_id": 1,
+    "team_id": 4
+  },
+  {
+    "id": 5,
+    "tournament_id": 1,
+    "team_id": 5
+  },
+  {
+    "id": 6,
+    "tournament_id": 1,
+    "team_id": 6
+  },
+  {
+    "id": 7,
+    "tournament_id": 1,
+    "team_id": 7
+  },
+  {
+    "id": 8,
+    "tournament_id": 1,
+    "team_id": 8
+  },
+  {
+    "id": 9,
+    "tournament_id": 1,
+    "team_id": 9
+  },
+  {
+    "id": 10,
+    "tournament_id": 1,
+    "team_id": 10
+  },
+  {
+    "id": 11,
+    "tournament_id": 1,
+    "team_id": 11
+  },
+  {
+    "id": 12,
+    "tournament_id": 1,
+    "team_id": 12
+  },
+  {
+    "id": 13,
+    "tournament_id": 1,
+    "team_id": 13
+  },
+  {
+    "id": 14,
+    "tournament_id": 1,
+    "team_id": 14
+  },
+  {
+    "id": 15,
+    "tournament_id": 1,
+    "team_id": 15
+  },
+  {
+    "id": 16,
+    "tournament_id": 1,
+    "team_id": 16
+  },
+  {
+    "id": 17,
+    "tournament_id": 1,
+    "team_id": 17
+  },
+  {
+    "id": 18,
+    "tournament_id": 1,
+    "team_id": 18
+  },
+  {
+    "id": 19,
+    "tournament_id": 1,
+    "team_id": 19
+  },
+  {
+    "id": 20,
+    "tournament_id": 1,
+    "team_id": 20
+  },
+  {
+    "id": 21,
+    "tournament_id": 1,
+    "team_id": 21
+  },
+  {
+    "id": 22,
+    "tournament_id": 1,
+    "team_id": 22
+  },
+  {
+    "id": 23,
+    "tournament_id": 1,
+    "team_id": 23
+  },
+  {
+    "id": 24,
+    "tournament_id": 1,
+    "team_id": 24
+  },
+  {
+    "id": 25,
+    "tournament_id": 1,
+    "team_id": 25
+  },
+  {
+    "id": 26,
+    "tournament_id": 1,
+    "team_id": 26
+  },
+  {
+    "id": 27,
+    "tournament_id": 1,
+    "team_id": 27
+  },
+  {
+    "id": 28,
+    "tournament_id": 1,
+    "team_id": 28
+  },
+  {
+    "id": 29,
+    "tournament_id": 1,
+    "team_id": 29
+  },
+  {
+    "id": 30,
+    "tournament_id": 1,
+    "team_id": 30
+  },
+  {
+    "id": 31,
+    "tournament_id": 1,
+    "team_id": 31
+  },
+  {
+    "id": 32,
+    "tournament_id": 1,
+    "team_id": 32
+  },
+  {
+    "id": 33,
+    "tournament_id": 1,
+    "team_id": 33
+  },
+  {
+    "id": 34,
+    "tournament_id": 1,
+    "team_id": 34
+  },
+  {
+    "id": 35,
+    "tournament_id": 1,
+    "team_id": 35
+  },
+  {
+    "id": 36,
+    "tournament_id": 1,
+    "team_id": 36
+  },
+  {
+    "id": 37,
+    "tournament_id": 1,
+    "team_id": 37
+  },
+  {
+    "id": 38,
+    "tournament_id": 1,
+    "team_id": 38
+  },
+  {
+    "id": 39,
+    "tournament_id": 2,
+    "team_id": 39
+  },
+  {
+    "id": 40,
+    "tournament_id": 2,
+    "team_id": 40
+  },
+  {
+    "id": 41,
+    "tournament_id": 2,
+    "team_id": 41
+  },
+  {
+    "id": 42,
+    "tournament_id": 2,
+    "team_id": 42
+  },
+  {
+    "id": 43,
+    "tournament_id": 2,
+    "team_id": 43
+  },
+  {
+    "id": 44,
+    "tournament_id": 3,
+    "team_id": 44
+  },
+  {
+    "id": 45,
+    "tournament_id": 4,
+    "team_id": 1
+  },
+  {
+    "id": 46,
+    "tournament_id": 4,
+    "team_id": 2
+  },
+  {
+    "id": 47,
+    "tournament_id": 4,
+    "team_id": 3
+  },
+  {
+    "id": 48,
+    "tournament_id": 4,
+    "team_id": 4
+  },
+  {
+    "id": 49,
+    "tournament_id": 4,
+    "team_id": 5
+  },
+  {
+    "id": 50,
+    "tournament_id": 4,
+    "team_id": 6
+  },
+  {
+    "id": 51,
+    "tournament_id": 4,
+    "team_id": 7
+  },
+  {
+    "id": 52,
+    "tournament_id": 4,
+    "team_id": 8
+  },
+  {
+    "id": 53,
+    "tournament_id": 4,
+    "team_id": 9
+  },
+  {
+    "id": 54,
+    "tournament_id": 4,
+    "team_id": 10
+  },
+  {
+    "id": 55,
+    "tournament_id": 4,
+    "team_id": 11
+  },
+  {
+    "id": 56,
+    "tournament_id": 4,
+    "team_id": 12
+  },
+  {
+    "id": 57,
+    "tournament_id": 4,
+    "team_id": 13
+  },
+  {
+    "id": 58,
+    "tournament_id": 4,
+    "team_id": 14
+  },
+  {
+    "id": 59,
+    "tournament_id": 4,
+    "team_id": 15
+  },
+  {
+    "id": 60,
+    "tournament_id": 4,
+    "team_id": 16
+  },
+  {
+    "id": 61,
+    "tournament_id": 4,
+    "team_id": 17
+  },
+  {
+    "id": 62,
+    "tournament_id": 4,
+    "team_id": 18
+  },
+  {
+    "id": 63,
+    "tournament_id": 4,
+    "team_id": 19
+  },
+  {
+    "id": 64,
+    "tournament_id": 4,
+    "team_id": 20
+  },
+  {
+    "id": 65,
+    "tournament_id": 4,
+    "team_id": 21
+  },
+  {
+    "id": 66,
+    "tournament_id": 4,
+    "team_id": 22
+  },
+  {
+    "id": 67,
+    "tournament_id": 4,
+    "team_id": 23
+  },
+  {
+    "id": 68,
+    "tournament_id": 4,
+    "team_id": 24
+  },
+  {
+    "id": 69,
+    "tournament_id": 4,
+    "team_id": 25
+  },
+  {
+    "id": 70,
+    "tournament_id": 4,
+    "team_id": 26
+  },
+  {
+    "id": 71,
+    "tournament_id": 4,
+    "team_id": 27
+  },
+  {
+    "id": 72,
+    "tournament_id": 4,
+    "team_id": 28
+  },
+  {
+    "id": 73,
+    "tournament_id": 4,
+    "team_id": 29
+  },
+  {
+    "id": 74,
+    "tournament_id": 4,
+    "team_id": 30
+  },
+  {
+    "id": 75,
+    "tournament_id": 4,
+    "team_id": 31
+  },
+  {
+    "id": 76,
+    "tournament_id": 4,
+    "team_id": 32
+  },
+  {
+    "id": 77,
+    "tournament_id": 4,
+    "team_id": 33
+  },
+  {
+    "id": 78,
+    "tournament_id": 4,
+    "team_id": 34
+  },
+  {
+    "id": 79,
+    "tournament_id": 4,
+    "team_id": 35
+  },
+  {
+    "id": 80,
+    "tournament_id": 4,
+    "team_id": 36
+  },
+  {
+    "id": 81,
+    "tournament_id": 4,
+    "team_id": 37
+  },
+  {
+    "id": 82,
+    "tournament_id": 4,
+    "team_id": 38
+  },
+  {
+    "id": 83,
+    "tournament_id": 5,
+    "team_id": 39
+  },
+  {
+    "id": 84,
+    "tournament_id": 5,
+    "team_id": 40
+  },
+  {
+    "id": 85,
+    "tournament_id": 5,
+    "team_id": 41
+  },
+  {
+    "id": 86,
+    "tournament_id": 5,
+    "team_id": 42
+  },
+  {
+    "id": 87,
+    "tournament_id": 5,
+    "team_id": 43
+  },
+  {
+    "id": 88,
+    "tournament_id": 6,
+    "team_id": 45
+  },
+  {
+    "id": 89,
+    "tournament_id": 6,
+    "team_id": 46
+  },
+  {
+    "id": 90,
+    "tournament_id": 6,
+    "team_id": 47
+  },
+  {
+    "id": 91,
+    "tournament_id": 6,
+    "team_id": 48
+  },
+  {
+    "id": 92,
+    "tournament_id": 6,
+    "team_id": 49
+  },
+  {
+    "id": 93,
+    "tournament_id": 6,
+    "team_id": 50
+  },
+  {
+    "id": 94,
+    "tournament_id": 6,
+    "team_id": 51
+  },
+  {
+    "id": 95,
+    "tournament_id": 6,
+    "team_id": 52
+  },
+  {
+    "id": 96,
+    "tournament_id": 6,
+    "team_id": 53
+  },
+  {
+    "id": 97,
+    "tournament_id": 6,
+    "team_id": 54
+  },
+  {
+    "id": 98,
+    "tournament_id": 7,
+    "team_id": 1
+  },
+  {
+    "id": 99,
+    "tournament_id": 7,
+    "team_id": 2
+  },
+  {
+    "id": 100,
+    "tournament_id": 7,
+    "team_id": 3
+  },
+  {
+    "id": 101,
+    "tournament_id": 7,
+    "team_id": 4
+  },
+  {
+    "id": 102,
+    "tournament_id": 7,
+    "team_id": 5
+  },
+  {
+    "id": 103,
+    "tournament_id": 7,
+    "team_id": 6
+  },
+  {
+    "id": 104,
+    "tournament_id": 7,
+    "team_id": 7
+  },
+  {
+    "id": 105,
+    "tournament_id": 7,
+    "team_id": 8
+  },
+  {
+    "id": 106,
+    "tournament_id": 7,
+    "team_id": 9
+  },
+  {
+    "id": 107,
+    "tournament_id": 7,
+    "team_id": 10
+  },
+  {
+    "id": 108,
+    "tournament_id": 7,
+    "team_id": 11
+  },
+  {
+    "id": 109,
+    "tournament_id": 7,
+    "team_id": 12
+  },
+  {
+    "id": 110,
+    "tournament_id": 7,
+    "team_id": 13
+  },
+  {
+    "id": 111,
+    "tournament_id": 7,
+    "team_id": 14
+  },
+  {
+    "id": 112,
+    "tournament_id": 7,
+    "team_id": 15
+  },
+  {
+    "id": 113,
+    "tournament_id": 7,
+    "team_id": 16
+  },
+  {
+    "id": 114,
+    "tournament_id": 7,
+    "team_id": 17
+  },
+  {
+    "id": 115,
+    "tournament_id": 7,
+    "team_id": 18
+  },
+  {
+    "id": 116,
+    "tournament_id": 7,
+    "team_id": 19
+  },
+  {
+    "id": 117,
+    "tournament_id": 7,
+    "team_id": 20
+  },
+  {
+    "id": 118,
+    "tournament_id": 7,
+    "team_id": 21
+  },
+  {
+    "id": 119,
+    "tournament_id": 7,
+    "team_id": 22
+  },
+  {
+    "id": 120,
+    "tournament_id": 7,
+    "team_id": 23
+  },
+  {
+    "id": 121,
+    "tournament_id": 7,
+    "team_id": 24
+  },
+  {
+    "id": 122,
+    "tournament_id": 7,
+    "team_id": 25
+  },
+  {
+    "id": 123,
+    "tournament_id": 7,
+    "team_id": 26
+  },
+  {
+    "id": 124,
+    "tournament_id": 7,
+    "team_id": 27
+  },
+  {
+    "id": 125,
+    "tournament_id": 7,
+    "team_id": 28
+  },
+  {
+    "id": 126,
+    "tournament_id": 7,
+    "team_id": 29
+  },
+  {
+    "id": 127,
+    "tournament_id": 7,
+    "team_id": 30
+  },
+  {
+    "id": 128,
+    "tournament_id": 7,
+    "team_id": 31
+  },
+  {
+    "id": 129,
+    "tournament_id": 7,
+    "team_id": 32
+  },
+  {
+    "id": 130,
+    "tournament_id": 7,
+    "team_id": 33
+  },
+  {
+    "id": 131,
+    "tournament_id": 7,
+    "team_id": 34
+  },
+  {
+    "id": 132,
+    "tournament_id": 7,
+    "team_id": 35
+  },
+  {
+    "id": 133,
+    "tournament_id": 7,
+    "team_id": 36
+  },
+  {
+    "id": 134,
+    "tournament_id": 7,
+    "team_id": 37
+  },
+  {
+    "id": 135,
+    "tournament_id": 7,
+    "team_id": 38
+  },
+  {
+    "id": 136,
+    "tournament_id": 8,
+    "team_id": 55
+  },
+  {
+    "id": 137,
+    "tournament_id": 8,
+    "team_id": 56
+  },
+  {
+    "id": 138,
+    "tournament_id": 8,
+    "team_id": 57
+  },
+  {
+    "id": 139,
+    "tournament_id": 8,
+    "team_id": 58
+  },
+  {
+    "id": 140,
+    "tournament_id": 8,
+    "team_id": 59
+  },
+  {
+    "id": 141,
+    "tournament_id": 8,
+    "team_id": 60
+  },
+  {
+    "id": 142,
+    "tournament_id": 9,
+    "team_id": 55
+  },
+  {
+    "id": 143,
+    "tournament_id": 9,
+    "team_id": 56
+  },
+  {
+    "id": 144,
+    "tournament_id": 9,
+    "team_id": 57
+  },
+  {
+    "id": 145,
+    "tournament_id": 9,
+    "team_id": 58
+  },
+  {
+    "id": 146,
+    "tournament_id": 9,
+    "team_id": 59
+  },
+  {
+    "id": 147,
+    "tournament_id": 9,
+    "team_id": 60
+  },
+  {
+    "id": 148,
+    "tournament_id": 10,
+    "team_id": 55
+  },
+  {
+    "id": 149,
+    "tournament_id": 10,
+    "team_id": 56
+  },
+  {
+    "id": 150,
+    "tournament_id": 10,
+    "team_id": 57
+  },
+  {
+    "id": 151,
+    "tournament_id": 10,
+    "team_id": 58
+  },
+  {
+    "id": 152,
+    "tournament_id": 10,
+    "team_id": 59
+  },
+  {
+    "id": 153,
+    "tournament_id": 10,
+    "team_id": 60
+  },
+  {
+    "id": 154,
+    "tournament_id": 11,
+    "team_id": 55
+  },
+  {
+    "id": 155,
+    "tournament_id": 11,
+    "team_id": 56
+  },
+  {
+    "id": 156,
+    "tournament_id": 11,
+    "team_id": 57
+  },
+  {
+    "id": 157,
+    "tournament_id": 11,
+    "team_id": 58
+  },
+  {
+    "id": 158,
+    "tournament_id": 11,
+    "team_id": 59
+  },
+  {
+    "id": 159,
+    "tournament_id": 11,
+    "team_id": 60
+  },
+  {
+    "id": 160,
+    "tournament_id": 12,
+    "team_id": 55
+  },
+  {
+    "id": 161,
+    "tournament_id": 12,
+    "team_id": 56
+  },
+  {
+    "id": 162,
+    "tournament_id": 12,
+    "team_id": 57
+  },
+  {
+    "id": 163,
+    "tournament_id": 12,
+    "team_id": 58
+  },
+  {
+    "id": 164,
+    "tournament_id": 12,
+    "team_id": 59
+  },
+  {
+    "id": 165,
+    "tournament_id": 12,
+    "team_id": 60
+  },
+  {
+    "id": 166,
+    "tournament_id": 13,
+    "team_id": 61
+  },
+  {
+    "id": 167,
+    "tournament_id": 13,
+    "team_id": 62
+  },
+  {
+    "id": 168,
+    "tournament_id": 13,
+    "team_id": 63
+  },
+  {
+    "id": 169,
+    "tournament_id": 13,
+    "team_id": 64
+  },
+  {
+    "id": 170,
+    "tournament_id": 13,
+    "team_id": 65
+  },
+  {
+    "id": 171,
+    "tournament_id": 14,
+    "team_id": 66
+  },
+  {
+    "id": 172,
+    "tournament_id": 14,
+    "team_id": 67
+  },
+  {
+    "id": 173,
+    "tournament_id": 14,
+    "team_id": 68
+  },
+  {
+    "id": 174,
+    "tournament_id": 14,
+    "team_id": 69
+  },
+  {
+    "id": 175,
+    "tournament_id": 14,
+    "team_id": 70
+  },
+  {
+    "id": 176,
+    "tournament_id": 14,
+    "team_id": 71
+  },
+  {
+    "id": 177,
+    "tournament_id": 15,
+    "team_id": 66
+  },
+  {
+    "id": 178,
+    "tournament_id": 15,
+    "team_id": 67
+  },
+  {
+    "id": 179,
+    "tournament_id": 15,
+    "team_id": 68
+  },
+  {
+    "id": 180,
+    "tournament_id": 15,
+    "team_id": 69
+  },
+  {
+    "id": 181,
+    "tournament_id": 15,
+    "team_id": 70
+  },
+  {
+    "id": 182,
+    "tournament_id": 15,
+    "team_id": 71
+  },
+  {
+    "id": 183,
+    "tournament_id": 16,
+    "team_id": 66
+  },
+  {
+    "id": 184,
+    "tournament_id": 16,
+    "team_id": 67
+  },
+  {
+    "id": 185,
+    "tournament_id": 16,
+    "team_id": 68
+  },
+  {
+    "id": 186,
+    "tournament_id": 16,
+    "team_id": 69
+  },
+  {
+    "id": 187,
+    "tournament_id": 16,
+    "team_id": 70
+  },
+  {
+    "id": 188,
+    "tournament_id": 16,
+    "team_id": 71
+  },
+  {
+    "id": 189,
+    "tournament_id": 17,
+    "team_id": 72
+  },
+  {
+    "id": 190,
+    "tournament_id": 17,
+    "team_id": 73
+  },
+  {
+    "id": 191,
+    "tournament_id": 17,
+    "team_id": 74
+  },
+  {
+    "id": 192,
+    "tournament_id": 17,
+    "team_id": 75
+  },
+  {
+    "id": 193,
+    "tournament_id": 17,
+    "team_id": 76
+  },
+  {
+    "id": 194,
+    "tournament_id": 17,
+    "team_id": 77
+  },
+  {
+    "id": 195,
+    "tournament_id": 17,
+    "team_id": 78
+  },
+  {
+    "id": 196,
+    "tournament_id": 17,
+    "team_id": 79
+  },
+  {
+    "id": 197,
+    "tournament_id": 18,
+    "team_id": 66
+  },
+  {
+    "id": 198,
+    "tournament_id": 18,
+    "team_id": 67
+  },
+  {
+    "id": 199,
+    "tournament_id": 18,
+    "team_id": 68
+  },
+  {
+    "id": 200,
+    "tournament_id": 18,
+    "team_id": 69
+  },
+  {
+    "id": 201,
+    "tournament_id": 18,
+    "team_id": 70
+  },
+  {
+    "id": 202,
+    "tournament_id": 18,
+    "team_id": 71
+  },
+  {
+    "id": 203,
+    "tournament_id": 19,
+    "team_id": 80
+  },
+  {
+    "id": 204,
+    "tournament_id": 19,
+    "team_id": 81
+  },
+  {
+    "id": 205,
+    "tournament_id": 19,
+    "team_id": 82
+  },
+  {
+    "id": 206,
+    "tournament_id": 19,
+    "team_id": 83
+  },
+  {
+    "id": 207,
+    "tournament_id": 19,
+    "team_id": 84
+  },
+  {
+    "id": 208,
+    "tournament_id": 19,
+    "team_id": 85
+  },
+  {
+    "id": 209,
+    "tournament_id": 19,
+    "team_id": 86
+  },
+  {
+    "id": 210,
+    "tournament_id": 19,
+    "team_id": 87
+  },
+  {
+    "id": 211,
+    "tournament_id": 19,
+    "team_id": 88
+  },
+  {
+    "id": 212,
+    "tournament_id": 20,
+    "team_id": 80
+  },
+  {
+    "id": 213,
+    "tournament_id": 20,
+    "team_id": 81
+  },
+  {
+    "id": 214,
+    "tournament_id": 20,
+    "team_id": 82
+  },
+  {
+    "id": 215,
+    "tournament_id": 20,
+    "team_id": 83
+  },
+  {
+    "id": 216,
+    "tournament_id": 20,
+    "team_id": 84
+  },
+  {
+    "id": 217,
+    "tournament_id": 20,
+    "team_id": 85
+  },
+  {
+    "id": 218,
+    "tournament_id": 20,
+    "team_id": 86
+  },
+  {
+    "id": 219,
+    "tournament_id": 20,
+    "team_id": 87
+  },
+  {
+    "id": 220,
+    "tournament_id": 20,
+    "team_id": 88
+  },
+  {
+    "id": 221,
+    "tournament_id": 21,
+    "team_id": 89
+  },
+  {
+    "id": 222,
+    "tournament_id": 21,
+    "team_id": 90
+  },
+  {
+    "id": 223,
+    "tournament_id": 21,
+    "team_id": 91
+  },
+  {
+    "id": 224,
+    "tournament_id": 21,
+    "team_id": 92
+  },
+  {
+    "id": 225,
+    "tournament_id": 21,
+    "team_id": 93
+  },
+  {
+    "id": 226,
+    "tournament_id": 21,
+    "team_id": 94
+  },
+  {
+    "id": 227,
+    "tournament_id": 21,
+    "team_id": 95
+  },
+  {
+    "id": 228,
+    "tournament_id": 21,
+    "team_id": 96
+  },
+  {
+    "id": 229,
+    "tournament_id": 21,
+    "team_id": 97
+  },
+  {
+    "id": 230,
+    "tournament_id": 21,
+    "team_id": 98
+  },
+  {
+    "id": 231,
+    "tournament_id": 21,
+    "team_id": 99
+  },
+  {
+    "id": 232,
+    "tournament_id": 22,
+    "team_id": 100
+  },
+  {
+    "id": 233,
+    "tournament_id": 22,
+    "team_id": 101
+  },
+  {
+    "id": 234,
+    "tournament_id": 22,
+    "team_id": 102
+  },
+  {
+    "id": 235,
+    "tournament_id": 22,
+    "team_id": 103
+  },
+  {
+    "id": 236,
+    "tournament_id": 22,
+    "team_id": 104
+  },
+  {
+    "id": 237,
+    "tournament_id": 22,
+    "team_id": 105
+  },
+  {
+    "id": 238,
+    "tournament_id": 22,
+    "team_id": 106
+  },
+  {
+    "id": 239,
+    "tournament_id": 23,
+    "team_id": 100
+  },
+  {
+    "id": 240,
+    "tournament_id": 23,
+    "team_id": 101
+  },
+  {
+    "id": 241,
+    "tournament_id": 23,
+    "team_id": 102
+  },
+  {
+    "id": 242,
+    "tournament_id": 23,
+    "team_id": 103
+  },
+  {
+    "id": 243,
+    "tournament_id": 23,
+    "team_id": 104
+  },
+  {
+    "id": 244,
+    "tournament_id": 23,
+    "team_id": 105
+  },
+  {
+    "id": 245,
+    "tournament_id": 23,
+    "team_id": 106
+  },
+  {
+    "id": 246,
+    "tournament_id": 24,
+    "team_id": 80
+  },
+  {
+    "id": 247,
+    "tournament_id": 24,
+    "team_id": 81
+  },
+  {
+    "id": 248,
+    "tournament_id": 24,
+    "team_id": 82
+  },
+  {
+    "id": 249,
+    "tournament_id": 24,
+    "team_id": 83
+  },
+  {
+    "id": 250,
+    "tournament_id": 24,
+    "team_id": 84
+  },
+  {
+    "id": 251,
+    "tournament_id": 24,
+    "team_id": 85
+  },
+  {
+    "id": 252,
+    "tournament_id": 24,
+    "team_id": 86
+  },
+  {
+    "id": 253,
+    "tournament_id": 24,
+    "team_id": 87
+  },
+  {
+    "id": 254,
+    "tournament_id": 24,
+    "team_id": 88
+  },
+  {
+    "id": 255,
+    "tournament_id": 25,
+    "team_id": 107
+  },
+  {
+    "id": 256,
+    "tournament_id": 25,
+    "team_id": 108
+  },
+  {
+    "id": 257,
+    "tournament_id": 25,
+    "team_id": 109
+  },
+  {
+    "id": 258,
+    "tournament_id": 25,
+    "team_id": 110
+  },
+  {
+    "id": 259,
+    "tournament_id": 25,
+    "team_id": 111
+  },
+  {
+    "id": 260,
+    "tournament_id": 25,
+    "team_id": 112
+  },
+  {
+    "id": 261,
+    "tournament_id": 25,
+    "team_id": 113
+  },
+  {
+    "id": 262,
+    "tournament_id": 25,
+    "team_id": 114
+  },
+  {
+    "id": 263,
+    "tournament_id": 25,
+    "team_id": 115
+  },
+  {
+    "id": 264,
+    "tournament_id": 25,
+    "team_id": 116
+  },
+  {
+    "id": 265,
+    "tournament_id": 25,
+    "team_id": 117
+  },
+  {
+    "id": 266,
+    "tournament_id": 25,
+    "team_id": 118
+  },
+  {
+    "id": 267,
+    "tournament_id": 25,
+    "team_id": 119
+  },
+  {
+    "id": 268,
+    "tournament_id": 25,
+    "team_id": 120
+  },
+  {
+    "id": 269,
+    "tournament_id": 25,
+    "team_id": 121
+  },
+  {
+    "id": 270,
+    "tournament_id": 25,
+    "team_id": 122
+  },
+  {
+    "id": 271,
+    "tournament_id": 25,
+    "team_id": 123
+  },
+  {
+    "id": 272,
+    "tournament_id": 25,
+    "team_id": 124
+  },
+  {
+    "id": 273,
+    "tournament_id": 26,
+    "team_id": 107
+  },
+  {
+    "id": 274,
+    "tournament_id": 26,
+    "team_id": 108
+  },
+  {
+    "id": 275,
+    "tournament_id": 26,
+    "team_id": 109
+  },
+  {
+    "id": 276,
+    "tournament_id": 26,
+    "team_id": 110
+  },
+  {
+    "id": 277,
+    "tournament_id": 26,
+    "team_id": 111
+  },
+  {
+    "id": 278,
+    "tournament_id": 26,
+    "team_id": 112
+  },
+  {
+    "id": 279,
+    "tournament_id": 26,
+    "team_id": 113
+  },
+  {
+    "id": 280,
+    "tournament_id": 26,
+    "team_id": 114
+  },
+  {
+    "id": 281,
+    "tournament_id": 26,
+    "team_id": 115
+  },
+  {
+    "id": 282,
+    "tournament_id": 26,
+    "team_id": 116
+  },
+  {
+    "id": 283,
+    "tournament_id": 26,
+    "team_id": 117
+  },
+  {
+    "id": 284,
+    "tournament_id": 26,
+    "team_id": 118
+  },
+  {
+    "id": 285,
+    "tournament_id": 26,
+    "team_id": 119
+  },
+  {
+    "id": 286,
+    "tournament_id": 26,
+    "team_id": 120
+  },
+  {
+    "id": 287,
+    "tournament_id": 26,
+    "team_id": 121
+  },
+  {
+    "id": 288,
+    "tournament_id": 26,
+    "team_id": 122
+  },
+  {
+    "id": 289,
+    "tournament_id": 26,
+    "team_id": 123
+  },
+  {
+    "id": 290,
+    "tournament_id": 26,
+    "team_id": 124
+  },
+  {
+    "id": 291,
+    "tournament_id": 27,
+    "team_id": 107
+  },
+  {
+    "id": 292,
+    "tournament_id": 27,
+    "team_id": 108
+  },
+  {
+    "id": 293,
+    "tournament_id": 27,
+    "team_id": 109
+  },
+  {
+    "id": 294,
+    "tournament_id": 27,
+    "team_id": 110
+  },
+  {
+    "id": 295,
+    "tournament_id": 27,
+    "team_id": 111
+  },
+  {
+    "id": 296,
+    "tournament_id": 27,
+    "team_id": 112
+  },
+  {
+    "id": 297,
+    "tournament_id": 27,
+    "team_id": 113
+  },
+  {
+    "id": 298,
+    "tournament_id": 27,
+    "team_id": 114
+  },
+  {
+    "id": 299,
+    "tournament_id": 27,
+    "team_id": 115
+  },
+  {
+    "id": 300,
+    "tournament_id": 27,
+    "team_id": 116
+  },
+  {
+    "id": 301,
+    "tournament_id": 27,
+    "team_id": 117
+  },
+  {
+    "id": 302,
+    "tournament_id": 27,
+    "team_id": 118
+  },
+  {
+    "id": 303,
+    "tournament_id": 27,
+    "team_id": 119
+  },
+  {
+    "id": 304,
+    "tournament_id": 27,
+    "team_id": 120
+  },
+  {
+    "id": 305,
+    "tournament_id": 27,
+    "team_id": 121
+  },
+  {
+    "id": 306,
+    "tournament_id": 27,
+    "team_id": 122
+  },
+  {
+    "id": 307,
+    "tournament_id": 27,
+    "team_id": 123
+  },
+  {
+    "id": 308,
+    "tournament_id": 27,
+    "team_id": 124
+  },
+  {
+    "id": 309,
+    "tournament_id": 28,
+    "team_id": 107
+  },
+  {
+    "id": 310,
+    "tournament_id": 28,
+    "team_id": 108
+  },
+  {
+    "id": 311,
+    "tournament_id": 28,
+    "team_id": 109
+  },
+  {
+    "id": 312,
+    "tournament_id": 28,
+    "team_id": 110
+  },
+  {
+    "id": 313,
+    "tournament_id": 28,
+    "team_id": 111
+  },
+  {
+    "id": 314,
+    "tournament_id": 28,
+    "team_id": 112
+  },
+  {
+    "id": 315,
+    "tournament_id": 28,
+    "team_id": 113
+  },
+  {
+    "id": 316,
+    "tournament_id": 28,
+    "team_id": 114
+  },
+  {
+    "id": 317,
+    "tournament_id": 28,
+    "team_id": 115
+  },
+  {
+    "id": 318,
+    "tournament_id": 28,
+    "team_id": 116
+  },
+  {
+    "id": 319,
+    "tournament_id": 28,
+    "team_id": 117
+  },
+  {
+    "id": 320,
+    "tournament_id": 28,
+    "team_id": 118
+  },
+  {
+    "id": 321,
+    "tournament_id": 28,
+    "team_id": 119
+  },
+  {
+    "id": 322,
+    "tournament_id": 28,
+    "team_id": 120
+  },
+  {
+    "id": 323,
+    "tournament_id": 28,
+    "team_id": 121
+  },
+  {
+    "id": 324,
+    "tournament_id": 28,
+    "team_id": 122
+  },
+  {
+    "id": 325,
+    "tournament_id": 28,
+    "team_id": 123
+  },
+  {
+    "id": 326,
+    "tournament_id": 28,
+    "team_id": 124
+  },
+  {
+    "id": 327,
+    "tournament_id": 29,
+    "team_id": 125
+  },
+  {
+    "id": 328,
+    "tournament_id": 29,
+    "team_id": 126
+  },
+  {
+    "id": 329,
+    "tournament_id": 29,
+    "team_id": 127
+  },
+  {
+    "id": 330,
+    "tournament_id": 30,
+    "team_id": 125
+  },
+  {
+    "id": 331,
+    "tournament_id": 30,
+    "team_id": 126
+  },
+  {
+    "id": 332,
+    "tournament_id": 30,
+    "team_id": 127
+  },
+  {
+    "id": 333,
+    "tournament_id": 31,
+    "team_id": 125
+  },
+  {
+    "id": 334,
+    "tournament_id": 31,
+    "team_id": 126
+  },
+  {
+    "id": 335,
+    "tournament_id": 31,
+    "team_id": 127
+  },
+  {
+    "id": 336,
+    "tournament_id": 32,
+    "team_id": 128
+  },
+  {
+    "id": 337,
+    "tournament_id": 32,
+    "team_id": 129
+  },
+  {
+    "id": 338,
+    "tournament_id": 32,
+    "team_id": 130
+  },
+  {
+    "id": 339,
+    "tournament_id": 32,
+    "team_id": 131
+  },
+  {
+    "id": 340,
+    "tournament_id": 32,
+    "team_id": 132
+  },
+  {
+    "id": 341,
+    "tournament_id": 32,
+    "team_id": 133
+  },
+  {
+    "id": 342,
+    "tournament_id": 32,
+    "team_id": 134
+  },
+  {
+    "id": 343,
+    "tournament_id": 32,
+    "team_id": 135
+  },
+  {
+    "id": 344,
+    "tournament_id": 32,
+    "team_id": 136
+  },
+  {
+    "id": 345,
+    "tournament_id": 32,
+    "team_id": 137
+  },
+  {
+    "id": 346,
+    "tournament_id": 32,
+    "team_id": 138
+  },
+  {
+    "id": 347,
+    "tournament_id": 32,
+    "team_id": 139
+  },
+  {
+    "id": 348,
+    "tournament_id": 32,
+    "team_id": 140
+  },
+  {
+    "id": 349,
+    "tournament_id": 33,
+    "team_id": 141
+  },
+  {
+    "id": 350,
+    "tournament_id": 33,
+    "team_id": 142
+  },
+  {
+    "id": 351,
+    "tournament_id": 33,
+    "team_id": 143
+  },
+  {
+    "id": 352,
+    "tournament_id": 33,
+    "team_id": 144
+  },
+  {
+    "id": 353,
+    "tournament_id": 33,
+    "team_id": 145
+  },
+  {
+    "id": 354,
+    "tournament_id": 33,
+    "team_id": 146
+  },
+  {
+    "id": 355,
+    "tournament_id": 33,
+    "team_id": 147
+  },
+  {
+    "id": 356,
+    "tournament_id": 33,
+    "team_id": 148
+  },
+  {
+    "id": 357,
+    "tournament_id": 33,
+    "team_id": 149
+  },
+  {
+    "id": 358,
+    "tournament_id": 33,
+    "team_id": 150
+  },
+  {
+    "id": 359,
+    "tournament_id": 33,
+    "team_id": 151
+  },
+  {
+    "id": 360,
+    "tournament_id": 33,
+    "team_id": 152
+  },
+  {
+    "id": 361,
+    "tournament_id": 33,
+    "team_id": 153
+  },
+  {
+    "id": 362,
+    "tournament_id": 33,
+    "team_id": 154
+  },
+  {
+    "id": 363,
+    "tournament_id": 33,
+    "team_id": 155
+  },
+  {
+    "id": 364,
+    "tournament_id": 33,
+    "team_id": 156
+  },
+  {
+    "id": 365,
+    "tournament_id": 33,
+    "team_id": 157
+  },
+  {
+    "id": 366,
+    "tournament_id": 33,
+    "team_id": 158
+  },
+  {
+    "id": 367,
+    "tournament_id": 33,
+    "team_id": 159
+  },
+  {
+    "id": 368,
+    "tournament_id": 33,
+    "team_id": 160
+  },
+  {
+    "id": 369,
+    "tournament_id": 33,
+    "team_id": 161
+  },
+  {
+    "id": 370,
+    "tournament_id": 34,
+    "team_id": 162
+  },
+  {
+    "id": 371,
+    "tournament_id": 34,
+    "team_id": 163
+  },
+  {
+    "id": 372,
+    "tournament_id": 34,
+    "team_id": 164
+  },
+  {
+    "id": 373,
+    "tournament_id": 34,
+    "team_id": 165
+  },
+  {
+    "id": 374,
+    "tournament_id": 34,
+    "team_id": 166
+  },
+  {
+    "id": 375,
+    "tournament_id": 34,
+    "team_id": 167
+  },
+  {
+    "id": 376,
+    "tournament_id": 34,
+    "team_id": 168
+  },
+  {
+    "id": 377,
+    "tournament_id": 34,
+    "team_id": 169
+  },
+  {
+    "id": 378,
+    "tournament_id": 34,
+    "team_id": 170
+  },
+  {
+    "id": 379,
+    "tournament_id": 34,
+    "team_id": 171
+  },
+  {
+    "id": 380,
+    "tournament_id": 42,
+    "team_id": 172
+  },
+  {
+    "id": 381,
+    "tournament_id": 42,
+    "team_id": 173
+  },
+  {
+    "id": 382,
+    "tournament_id": 42,
+    "team_id": 174
+  },
+  {
+    "id": 383,
+    "tournament_id": 42,
+    "team_id": 175
+  },
+  {
+    "id": 384,
+    "tournament_id": 42,
+    "team_id": 176
+  },
+  {
+    "id": 385,
+    "tournament_id": 42,
+    "team_id": 177
+  },
+  {
+    "id": 386,
+    "tournament_id": 43,
+    "team_id": 172
+  },
+  {
+    "id": 387,
+    "tournament_id": 43,
+    "team_id": 173
+  },
+  {
+    "id": 388,
+    "tournament_id": 43,
+    "team_id": 174
+  },
+  {
+    "id": 389,
+    "tournament_id": 43,
+    "team_id": 175
+  },
+  {
+    "id": 390,
+    "tournament_id": 43,
+    "team_id": 176
+  },
+  {
+    "id": 391,
+    "tournament_id": 43,
+    "team_id": 177
+  },
+  {
+    "id": 392,
+    "tournament_id": 44,
+    "team_id": 172
+  },
+  {
+    "id": 393,
+    "tournament_id": 44,
+    "team_id": 173
+  },
+  {
+    "id": 394,
+    "tournament_id": 44,
+    "team_id": 174
+  },
+  {
+    "id": 395,
+    "tournament_id": 44,
+    "team_id": 175
+  },
+  {
+    "id": 396,
+    "tournament_id": 44,
+    "team_id": 176
+  },
+  {
+    "id": 397,
+    "tournament_id": 44,
+    "team_id": 177
+  },
+  {
+    "id": 398,
+    "tournament_id": 45,
+    "team_id": 178
+  },
+  {
+    "id": 399,
+    "tournament_id": 45,
+    "team_id": 179
+  },
+  {
+    "id": 400,
+    "tournament_id": 45,
+    "team_id": 180
+  },
+  {
+    "id": 401,
+    "tournament_id": 45,
+    "team_id": 181
+  },
+  {
+    "id": 402,
+    "tournament_id": 45,
+    "team_id": 182
+  },
+  {
+    "id": 403,
+    "tournament_id": 45,
+    "team_id": 183
+  },
+  {
+    "id": 404,
+    "tournament_id": 47,
+    "team_id": 184
+  },
+  {
+    "id": 405,
+    "tournament_id": 47,
+    "team_id": 185
+  },
+  {
+    "id": 406,
+    "tournament_id": 47,
+    "team_id": 186
+  },
+  {
+    "id": 407,
+    "tournament_id": 47,
+    "team_id": 187
+  },
+  {
+    "id": 408,
+    "tournament_id": 47,
+    "team_id": 188
+  },
+  {
+    "id": 409,
+    "tournament_id": 48,
+    "team_id": 184
+  },
+  {
+    "id": 410,
+    "tournament_id": 48,
+    "team_id": 185
+  },
+  {
+    "id": 411,
+    "tournament_id": 48,
+    "team_id": 186
+  },
+  {
+    "id": 412,
+    "tournament_id": 48,
+    "team_id": 187
+  },
+  {
+    "id": 413,
+    "tournament_id": 48,
+    "team_id": 188
+  },
+  {
+    "id": 414,
+    "tournament_id": 49,
+    "team_id": 184
+  },
+  {
+    "id": 415,
+    "tournament_id": 49,
+    "team_id": 185
+  },
+  {
+    "id": 416,
+    "tournament_id": 49,
+    "team_id": 186
+  },
+  {
+    "id": 417,
+    "tournament_id": 49,
+    "team_id": 187
+  },
+  {
+    "id": 418,
+    "tournament_id": 49,
+    "team_id": 188
+  },
+  {
+    "id": 419,
+    "tournament_id": 50,
+    "team_id": 189
+  },
+  {
+    "id": 420,
+    "tournament_id": 50,
+    "team_id": 190
+  },
+  {
+    "id": 421,
+    "tournament_id": 50,
+    "team_id": 191
+  },
+  {
+    "id": 422,
+    "tournament_id": 50,
+    "team_id": 192
+  },
+  {
+    "id": 423,
+    "tournament_id": 50,
+    "team_id": 193
+  },
+  {
+    "id": 424,
+    "tournament_id": 50,
+    "team_id": 194
+  },
+  {
+    "id": 425,
+    "tournament_id": 50,
+    "team_id": 195
+  },
+  {
+    "id": 426,
+    "tournament_id": 50,
+    "team_id": 196
+  },
+  {
+    "id": 427,
+    "tournament_id": 50,
+    "team_id": 197
+  },
+  {
+    "id": 428,
+    "tournament_id": 50,
+    "team_id": 198
+  },
+  {
+    "id": 429,
+    "tournament_id": 50,
+    "team_id": 199
+  },
+  {
+    "id": 430,
+    "tournament_id": 50,
+    "team_id": 200
+  },
+  {
+    "id": 431,
+    "tournament_id": 50,
+    "team_id": 201
+  },
+  {
+    "id": 432,
+    "tournament_id": 50,
+    "team_id": 202
+  },
+  {
+    "id": 433,
+    "tournament_id": 50,
+    "team_id": 203
+  },
+  {
+    "id": 434,
+    "tournament_id": 51,
+    "team_id": 189
+  },
+  {
+    "id": 435,
+    "tournament_id": 51,
+    "team_id": 190
+  },
+  {
+    "id": 436,
+    "tournament_id": 51,
+    "team_id": 191
+  },
+  {
+    "id": 437,
+    "tournament_id": 51,
+    "team_id": 192
+  },
+  {
+    "id": 438,
+    "tournament_id": 51,
+    "team_id": 193
+  },
+  {
+    "id": 439,
+    "tournament_id": 51,
+    "team_id": 194
+  },
+  {
+    "id": 440,
+    "tournament_id": 51,
+    "team_id": 195
+  },
+  {
+    "id": 441,
+    "tournament_id": 51,
+    "team_id": 196
+  },
+  {
+    "id": 442,
+    "tournament_id": 51,
+    "team_id": 197
+  },
+  {
+    "id": 443,
+    "tournament_id": 51,
+    "team_id": 198
+  },
+  {
+    "id": 444,
+    "tournament_id": 51,
+    "team_id": 199
+  },
+  {
+    "id": 445,
+    "tournament_id": 51,
+    "team_id": 200
+  },
+  {
+    "id": 446,
+    "tournament_id": 51,
+    "team_id": 201
+  },
+  {
+    "id": 447,
+    "tournament_id": 51,
+    "team_id": 202
+  },
+  {
+    "id": 448,
+    "tournament_id": 51,
+    "team_id": 203
+  },
+  {
+    "id": 449,
+    "tournament_id": 52,
+    "team_id": 189
+  },
+  {
+    "id": 450,
+    "tournament_id": 52,
+    "team_id": 190
+  },
+  {
+    "id": 451,
+    "tournament_id": 52,
+    "team_id": 191
+  },
+  {
+    "id": 452,
+    "tournament_id": 52,
+    "team_id": 192
+  },
+  {
+    "id": 453,
+    "tournament_id": 52,
+    "team_id": 193
+  },
+  {
+    "id": 454,
+    "tournament_id": 52,
+    "team_id": 194
+  },
+  {
+    "id": 455,
+    "tournament_id": 52,
+    "team_id": 195
+  },
+  {
+    "id": 456,
+    "tournament_id": 52,
+    "team_id": 196
+  },
+  {
+    "id": 457,
+    "tournament_id": 52,
+    "team_id": 197
+  },
+  {
+    "id": 458,
+    "tournament_id": 52,
+    "team_id": 198
+  },
+  {
+    "id": 459,
+    "tournament_id": 52,
+    "team_id": 199
+  },
+  {
+    "id": 460,
+    "tournament_id": 52,
+    "team_id": 200
+  },
+  {
+    "id": 461,
+    "tournament_id": 52,
+    "team_id": 201
+  },
+  {
+    "id": 462,
+    "tournament_id": 52,
+    "team_id": 202
+  },
+  {
+    "id": 463,
+    "tournament_id": 52,
+    "team_id": 203
+  },
+  {
+    "id": 464,
+    "tournament_id": 53,
+    "team_id": 189
+  },
+  {
+    "id": 465,
+    "tournament_id": 53,
+    "team_id": 190
+  },
+  {
+    "id": 466,
+    "tournament_id": 53,
+    "team_id": 191
+  },
+  {
+    "id": 467,
+    "tournament_id": 53,
+    "team_id": 192
+  },
+  {
+    "id": 468,
+    "tournament_id": 53,
+    "team_id": 193
+  },
+  {
+    "id": 469,
+    "tournament_id": 53,
+    "team_id": 194
+  },
+  {
+    "id": 470,
+    "tournament_id": 53,
+    "team_id": 195
+  },
+  {
+    "id": 471,
+    "tournament_id": 53,
+    "team_id": 196
+  },
+  {
+    "id": 472,
+    "tournament_id": 53,
+    "team_id": 197
+  },
+  {
+    "id": 473,
+    "tournament_id": 53,
+    "team_id": 198
+  },
+  {
+    "id": 474,
+    "tournament_id": 53,
+    "team_id": 199
+  },
+  {
+    "id": 475,
+    "tournament_id": 53,
+    "team_id": 200
+  },
+  {
+    "id": 476,
+    "tournament_id": 53,
+    "team_id": 201
+  },
+  {
+    "id": 477,
+    "tournament_id": 53,
+    "team_id": 202
+  },
+  {
+    "id": 478,
+    "tournament_id": 53,
+    "team_id": 203
+  },
+  {
+    "id": 479,
+    "tournament_id": 54,
+    "team_id": 204
+  },
+  {
+    "id": 480,
+    "tournament_id": 54,
+    "team_id": 205
+  },
+  {
+    "id": 481,
+    "tournament_id": 54,
+    "team_id": 206
+  },
+  {
+    "id": 482,
+    "tournament_id": 54,
+    "team_id": 207
+  },
+  {
+    "id": 483,
+    "tournament_id": 54,
+    "team_id": 208
+  },
+  {
+    "id": 484,
+    "tournament_id": 54,
+    "team_id": 209
+  },
+  {
+    "id": 485,
+    "tournament_id": 54,
+    "team_id": 210
+  },
+  {
+    "id": 486,
+    "tournament_id": 54,
+    "team_id": 211
+  },
+  {
+    "id": 487,
+    "tournament_id": 54,
+    "team_id": 212
+  },
+  {
+    "id": 488,
+    "tournament_id": 54,
+    "team_id": 213
+  },
+  {
+    "id": 489,
+    "tournament_id": 54,
+    "team_id": 214
+  },
+  {
+    "id": 490,
+    "tournament_id": 54,
+    "team_id": 215
+  },
+  {
+    "id": 491,
+    "tournament_id": 54,
+    "team_id": 216
+  },
+  {
+    "id": 492,
+    "tournament_id": 54,
+    "team_id": 217
+  },
+  {
+    "id": 493,
+    "tournament_id": 54,
+    "team_id": 218
+  },
+  {
+    "id": 494,
+    "tournament_id": 54,
+    "team_id": 219
+  },
+  {
+    "id": 495,
+    "tournament_id": 54,
+    "team_id": 220
+  },
+  {
+    "id": 496,
+    "tournament_id": 54,
+    "team_id": 221
+  },
+  {
+    "id": 497,
+    "tournament_id": 54,
+    "team_id": 222
+  },
+  {
+    "id": 498,
+    "tournament_id": 54,
+    "team_id": 223
+  },
+  {
+    "id": 499,
+    "tournament_id": 54,
+    "team_id": 224
+  },
+  {
+    "id": 500,
+    "tournament_id": 54,
+    "team_id": 225
+  },
+  {
+    "id": 501,
+    "tournament_id": 54,
+    "team_id": 226
+  },
+  {
+    "id": 502,
+    "tournament_id": 54,
+    "team_id": 227
+  },
+  {
+    "id": 503,
+    "tournament_id": 54,
+    "team_id": 228
+  },
+  {
+    "id": 504,
+    "tournament_id": 54,
+    "team_id": 229
+  },
+  {
+    "id": 505,
+    "tournament_id": 56,
+    "team_id": 230
+  },
+  {
+    "id": 506,
+    "tournament_id": 56,
+    "team_id": 231
+  },
+  {
+    "id": 507,
+    "tournament_id": 56,
+    "team_id": 232
+  },
+  {
+    "id": 508,
+    "tournament_id": 56,
+    "team_id": 233
+  },
+  {
+    "id": 509,
+    "tournament_id": 56,
+    "team_id": 234
+  },
+  {
+    "id": 510,
+    "tournament_id": 57,
+    "team_id": 204
+  },
+  {
+    "id": 511,
+    "tournament_id": 57,
+    "team_id": 205
+  },
+  {
+    "id": 512,
+    "tournament_id": 57,
+    "team_id": 206
+  },
+  {
+    "id": 513,
+    "tournament_id": 57,
+    "team_id": 207
+  },
+  {
+    "id": 514,
+    "tournament_id": 57,
+    "team_id": 208
+  },
+  {
+    "id": 515,
+    "tournament_id": 57,
+    "team_id": 209
+  },
+  {
+    "id": 516,
+    "tournament_id": 57,
+    "team_id": 210
+  },
+  {
+    "id": 517,
+    "tournament_id": 57,
+    "team_id": 211
+  },
+  {
+    "id": 518,
+    "tournament_id": 57,
+    "team_id": 212
+  },
+  {
+    "id": 519,
+    "tournament_id": 57,
+    "team_id": 213
+  },
+  {
+    "id": 520,
+    "tournament_id": 57,
+    "team_id": 214
+  },
+  {
+    "id": 521,
+    "tournament_id": 57,
+    "team_id": 215
+  },
+  {
+    "id": 522,
+    "tournament_id": 57,
+    "team_id": 216
+  },
+  {
+    "id": 523,
+    "tournament_id": 57,
+    "team_id": 217
+  },
+  {
+    "id": 524,
+    "tournament_id": 57,
+    "team_id": 218
+  },
+  {
+    "id": 525,
+    "tournament_id": 57,
+    "team_id": 219
+  },
+  {
+    "id": 526,
+    "tournament_id": 57,
+    "team_id": 220
+  },
+  {
+    "id": 527,
+    "tournament_id": 57,
+    "team_id": 221
+  },
+  {
+    "id": 528,
+    "tournament_id": 57,
+    "team_id": 222
+  },
+  {
+    "id": 529,
+    "tournament_id": 57,
+    "team_id": 223
+  },
+  {
+    "id": 530,
+    "tournament_id": 57,
+    "team_id": 224
+  },
+  {
+    "id": 531,
+    "tournament_id": 57,
+    "team_id": 225
+  },
+  {
+    "id": 532,
+    "tournament_id": 57,
+    "team_id": 226
+  },
+  {
+    "id": 533,
+    "tournament_id": 57,
+    "team_id": 227
+  },
+  {
+    "id": 534,
+    "tournament_id": 57,
+    "team_id": 228
+  },
+  {
+    "id": 535,
+    "tournament_id": 57,
+    "team_id": 229
+  },
+  {
+    "id": 536,
+    "tournament_id": 58,
+    "team_id": 204
+  },
+  {
+    "id": 537,
+    "tournament_id": 58,
+    "team_id": 205
+  },
+  {
+    "id": 538,
+    "tournament_id": 58,
+    "team_id": 206
+  },
+  {
+    "id": 539,
+    "tournament_id": 58,
+    "team_id": 207
+  },
+  {
+    "id": 540,
+    "tournament_id": 58,
+    "team_id": 208
+  },
+  {
+    "id": 541,
+    "tournament_id": 58,
+    "team_id": 209
+  },
+  {
+    "id": 542,
+    "tournament_id": 58,
+    "team_id": 210
+  },
+  {
+    "id": 543,
+    "tournament_id": 58,
+    "team_id": 211
+  },
+  {
+    "id": 544,
+    "tournament_id": 58,
+    "team_id": 212
+  },
+  {
+    "id": 545,
+    "tournament_id": 58,
+    "team_id": 213
+  },
+  {
+    "id": 546,
+    "tournament_id": 58,
+    "team_id": 214
+  },
+  {
+    "id": 547,
+    "tournament_id": 58,
+    "team_id": 215
+  },
+  {
+    "id": 548,
+    "tournament_id": 58,
+    "team_id": 216
+  },
+  {
+    "id": 549,
+    "tournament_id": 58,
+    "team_id": 217
+  },
+  {
+    "id": 550,
+    "tournament_id": 58,
+    "team_id": 218
+  },
+  {
+    "id": 551,
+    "tournament_id": 58,
+    "team_id": 219
+  },
+  {
+    "id": 552,
+    "tournament_id": 58,
+    "team_id": 220
+  },
+  {
+    "id": 553,
+    "tournament_id": 58,
+    "team_id": 221
+  },
+  {
+    "id": 554,
+    "tournament_id": 58,
+    "team_id": 222
+  },
+  {
+    "id": 555,
+    "tournament_id": 58,
+    "team_id": 223
+  },
+  {
+    "id": 556,
+    "tournament_id": 58,
+    "team_id": 224
+  },
+  {
+    "id": 557,
+    "tournament_id": 58,
+    "team_id": 225
+  },
+  {
+    "id": 558,
+    "tournament_id": 58,
+    "team_id": 226
+  },
+  {
+    "id": 559,
+    "tournament_id": 58,
+    "team_id": 227
+  },
+  {
+    "id": 560,
+    "tournament_id": 58,
+    "team_id": 228
+  },
+  {
+    "id": 561,
+    "tournament_id": 58,
+    "team_id": 229
+  },
+  {
+    "id": 562,
+    "tournament_id": 59,
+    "team_id": 235
+  },
+  {
+    "id": 563,
+    "tournament_id": 59,
+    "team_id": 236
+  },
+  {
+    "id": 564,
+    "tournament_id": 59,
+    "team_id": 237
+  },
+  {
+    "id": 565,
+    "tournament_id": 59,
+    "team_id": 238
+  },
+  {
+    "id": 566,
+    "tournament_id": 59,
+    "team_id": 239
+  },
+  {
+    "id": 567,
+    "tournament_id": 62,
+    "team_id": 240
+  },
+  {
+    "id": 568,
+    "tournament_id": 62,
+    "team_id": 241
+  },
+  {
+    "id": 569,
+    "tournament_id": 62,
+    "team_id": 242
+  },
+  {
+    "id": 570,
+    "tournament_id": 62,
+    "team_id": 243
+  },
+  {
+    "id": 571,
+    "tournament_id": 62,
+    "team_id": 244
+  },
+  {
+    "id": 572,
+    "tournament_id": 62,
+    "team_id": 245
+  },
+  {
+    "id": 573,
+    "tournament_id": 63,
+    "team_id": 240
+  },
+  {
+    "id": 574,
+    "tournament_id": 63,
+    "team_id": 241
+  },
+  {
+    "id": 575,
+    "tournament_id": 63,
+    "team_id": 242
+  },
+  {
+    "id": 576,
+    "tournament_id": 63,
+    "team_id": 243
+  },
+  {
+    "id": 577,
+    "tournament_id": 63,
+    "team_id": 244
+  },
+  {
+    "id": 578,
+    "tournament_id": 63,
+    "team_id": 245
+  },
+  {
+    "id": 579,
+    "tournament_id": 64,
+    "team_id": 240
+  },
+  {
+    "id": 580,
+    "tournament_id": 64,
+    "team_id": 241
+  },
+  {
+    "id": 581,
+    "tournament_id": 64,
+    "team_id": 242
+  },
+  {
+    "id": 582,
+    "tournament_id": 64,
+    "team_id": 243
+  },
+  {
+    "id": 583,
+    "tournament_id": 64,
+    "team_id": 244
+  },
+  {
+    "id": 584,
+    "tournament_id": 64,
+    "team_id": 245
+  },
+  {
+    "id": 585,
+    "tournament_id": 65,
+    "team_id": 246
+  },
+  {
+    "id": 586,
+    "tournament_id": 65,
+    "team_id": 247
+  },
+  {
+    "id": 587,
+    "tournament_id": 65,
+    "team_id": 248
+  },
+  {
+    "id": 588,
+    "tournament_id": 65,
+    "team_id": 249
+  },
+  {
+    "id": 589,
+    "tournament_id": 65,
+    "team_id": 250
+  },
+  {
+    "id": 590,
+    "tournament_id": 66,
+    "team_id": 246
+  },
+  {
+    "id": 591,
+    "tournament_id": 66,
+    "team_id": 247
+  },
+  {
+    "id": 592,
+    "tournament_id": 66,
+    "team_id": 248
+  },
+  {
+    "id": 593,
+    "tournament_id": 66,
+    "team_id": 249
+  },
+  {
+    "id": 594,
+    "tournament_id": 66,
+    "team_id": 250
+  },
+  {
+    "id": 595,
+    "tournament_id": 67,
+    "team_id": 246
+  },
+  {
+    "id": 596,
+    "tournament_id": 67,
+    "team_id": 247
+  },
+  {
+    "id": 597,
+    "tournament_id": 67,
+    "team_id": 248
+  },
+  {
+    "id": 598,
+    "tournament_id": 67,
+    "team_id": 249
+  },
+  {
+    "id": 599,
+    "tournament_id": 67,
+    "team_id": 250
+  }
+]
