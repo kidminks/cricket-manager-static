@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "name": "Andhra cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Andhra",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Andhra_cricket_team"
+  },
+  {
+    "id": 2,
+    "name": "Arunachal Pradesh cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Arunachal Pradesh",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Arunachal_Pradesh_cricket_team"
+  },
+  {
+    "id": 3,
+    "name": "Assam cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Assam",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Assam_cricket_team"
+  },
+  {
+    "id": 4,
+    "name": "Baroda cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Baroda",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Baroda_cricket_team"
+  },
+  {
+    "id": 5,
+    "name": "Bengal cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Bengal",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Bengal_cricket_team"
+  },
+  {
+    "id": 6,
+    "name": "Bihar cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Bihar",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Bihar_cricket_team"
+  },
+  {
+    "id": 7,
+    "name": "Chhattisgarh cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Chhattisgarh",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Chhattisgarh_cricket_team"
+  },
+  {
+    "id": 8,
+    "name": "Chandigarh cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Chandigarh",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Chandigarh_cricket_team"
+  },
+  {
+    "id": 9,
+    "name": "Delhi cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Delhi",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Delhi_cricket_team"
+  },
+  {
+    "id": 10,
+    "name": "Goa cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Goa",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Goa_cricket_team"
+  },
+  {
+    "id": 11,
+    "name": "Gujarat cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Gujarat",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Gujarat_cricket_team"
+  },
+  {
+    "id": 12,
+    "name": "Haryana cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Haryana",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Haryana_cricket_team"
+  },
+  {
+    "id": 13,
+    "name": "Himachal Pradesh cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Himachal Pradesh",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Himachal_Pradesh_cricket_team"
+  },
+  {
+    "id": 14,
+    "name": "Hyderabad cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Hyderabad",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Hyderabad_cricket_team"
+  },
+  {
+    "id": 15,
+    "name": "Jammu and Kashmir cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Jammu and Kashmir",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_cricket_team"
+  },
+  {
+    "id": 16,
+    "name": "Jharkhand cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Jharkhand",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Jharkhand_cricket_team"
+  },
+  {
+    "id": 17,
+    "name": "Karnataka cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Karnataka",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Karnataka_cricket_team"
+  },
+  {
+    "id": 18,
+    "name": "Kerala cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Kerala",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Kerala_cricket_team"
+  },
+  {
+    "id": 19,
+    "name": "Madhya Pradesh cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Madhya Pradesh",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Madhya_Pradesh_cricket_team"
+  },
+  {
+    "id": 20,
+    "name": "Maharashtra cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Maharashtra",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Maharashtra_cricket_team"
+  },
+  {
+    "id": 21,
+    "name": "Manipur cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Manipur",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Manipur_cricket_team"
+  },
+  {
+    "id": 22,
+    "name": "Meghalaya cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Meghalaya",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Meghalaya_cricket_team"
+  },
+  {
+    "id": 23,
+    "name": "Mizoram cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Mizoram",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Mizoram_cricket_team"
+  },
+  {
+    "id": 24,
+    "name": "Mumbai cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Mumbai",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Mumbai_cricket_team"
+  },
+  {
+    "id": 25,
+    "name": "Nagaland cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Nagaland",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Nagaland_cricket_team"
+  },
+  {
+    "id": 26,
+    "name": "Odisha cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Odisha",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Odisha_cricket_team"
+  },
+  {
+    "id": 27,
+    "name": "Puducherry cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Puducherry",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Puducherry_cricket_team"
+  },
+  {
+    "id": 28,
+    "name": "Punjab cricket team (India)",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Punjab",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Punjab_cricket_team_(India)"
+  },
+  {
+    "id": 29,
+    "name": "Railways cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Railways",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Railways_cricket_team"
+  },
+  {
+    "id": 30,
+    "name": "Rajasthan cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Rajasthan",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Rajasthan_cricket_team"
+  },
+  {
+    "id": 31,
+    "name": "Saurashtra cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Saurashtra",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Saurashtra_cricket_team"
+  },
+  {
+    "id": 32,
+    "name": "Sikkim cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Sikkim",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sikkim_cricket_team"
+  },
+  {
+    "id": 33,
+    "name": "Services cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Services",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Services_cricket_team"
+  },
+  {
+    "id": 34,
+    "name": "Tamil Nadu cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Tamil Nadu",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Tamil_Nadu_cricket_team"
+  },
+  {
+    "id": 35,
+    "name": "Tripura cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Tripura",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Tripura_cricket_team"
+  },
+  {
+    "id": 36,
+    "name": "Uttar Pradesh cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Uttar Pradesh",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Uttar_Pradesh_cricket_team"
+  },
+  {
+    "id": 37,
+    "name": "Uttarakhand cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Uttarakhand",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Uttarakhand_cricket_team"
+  },
+  {
+    "id": 38,
+    "name": "Vidarbha cricket team",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Vidarbha",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Vidarbha_cricket_team"
+  },
+  {
+    "id": 39,
+    "name": "North Zone cricket team",
+    "type": "Regional",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "North Zone",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/North_Zone_cricket_team"
+  },
+  {
+    "id": 40,
+    "name": "South Zone cricket team",
+    "type": "Regional",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "South Zone",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/South_Zone_cricket_team"
+  },
+  {
+    "id": 41,
+    "name": "Central Zone cricket team",
+    "type": "Regional",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Central Zone",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Central_Zone_cricket_team"
+  },
+  {
+    "id": 42,
+    "name": "East Zone cricket team",
+    "type": "Regional",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "East Zone",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/East_Zone_cricket_team"
+  },
+  {
+    "id": 43,
+    "name": "West Zone cricket team",
+    "type": "Regional",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "West Zone",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/West_Zone_cricket_team"
+  },
+  {
+    "id": 44,
+    "name": "Rest of India",
+    "type": "Regional",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Rest of India",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Rest_of_India_cricket_team"
+  },
+  {
+    "id": 45,
+    "name": "Chennai Super Kings",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Chennai Super Kings",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Chennai_Super_Kings"
+  },
+  {
+    "id": 46,
+    "name": "Delhi Capitals",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Delhi Capitals",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Delhi_Capitals"
+  },
+  {
+    "id": 47,
+    "name": "Gujarat Titans",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Gujarat Titans",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Gujarat_Titans"
+  },
+  {
+    "id": 48,
+    "name": "Kolkata Knight Riders",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Kolkata Knight Riders",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Kolkata_Knight_Riders"
+  },
+  {
+    "id": 49,
+    "name": "Lucknow Super Giants",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Lucknow Super Giants",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Lucknow_Super_Giants"
+  },
+  {
+    "id": 50,
+    "name": "Mumbai Indians",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Mumbai Indians",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Mumbai_Indians"
+  },
+  {
+    "id": 51,
+    "name": "Punjab Kings",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Punjab Kings",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Punjab_Kings"
+  },
+  {
+    "id": 52,
+    "name": "Rajasthan Royals",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Rajasthan Royals",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Rajasthan_Royals"
+  },
+  {
+    "id": 53,
+    "name": "Royal Challengers Bangalore",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Royal Challengers Bangalore",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore"
+  },
+  {
+    "id": 54,
+    "name": "Sunrisers Hyderabad",
+    "type": "State",
+    "country_id": 5,
+    "level": "Domestic",
+    "abbr": "Sunrisers Hyderabad",
+    "hiring_cond": "Pro",
+    "link": "https://en.wikipedia.org/wiki/Sunrisers_Hyderabad"
+  },
+  {
+    "id": 55,
+    "name": "Amo Region cricket team",
+    "type": "Regional",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Amo Region",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Amo_Region_cricket_team"
+  },
+  {
+    "id": 56,
+    "name": "Band-e-Amir Region cricket team",
+    "type": "Regional",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Band-e-Amir Region",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Band-e-Amir_Region_cricket_team"
+  },
+  {
+    "id": 57,
+    "name": "Boost Region cricket team",
+    "type": "Regional",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Boost Region",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Boost_Region_cricket_team"
+  },
+  {
+    "id": 58,
+    "name": "Kabul Eagles",
+    "type": "Regional",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Kabul Region",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Kabul_Eagles"
+  },
+  {
+    "id": 59,
+    "name": "Mis Ainak Region cricket team",
+    "type": "Regional",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Mis Ainak Region",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Mis_Ainak_Region_cricket_team"
+  },
+  {
+    "id": 60,
+    "name": "Speen Ghar Region cricket team",
+    "type": "Regional",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Speen Ghar Region",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Speen_Ghar_Region_cricket_team"
+  },
+  {
+    "id": 61,
+    "name": "Balkh Legends",
+    "type": "State",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Balkh Legends",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Balkh_Legends"
+  },
+  {
+    "id": 62,
+    "name": "Kabul Zwanan",
+    "type": "State",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Kabul Zwanan",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Kabul_Zwanan"
+  },
+  {
+    "id": 63,
+    "name": "Kandahar Knights",
+    "type": "State",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Kandahar Knights",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Kandahar_Knights"
+  },
+  {
+    "id": 64,
+    "name": "Nangarhar Leopards",
+    "type": "State",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Nangarhar Leopards",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Nangarhar_Leopards"
+  },
+  {
+    "id": 65,
+    "name": "Paktia Super Kings",
+    "type": "State",
+    "country_id": 1,
+    "level": "Domestic",
+    "abbr": "Paktia Super Kings",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Paktia_Super_Kings"
+  },
+  {
+    "id": 66,
+    "name": "New South Wales cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "New South Wales",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/New_South_Wales_cricket_team"
+  },
+  {
+    "id": 67,
+    "name": "Queensland cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Queensland",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Queensland_cricket_team"
+  },
+  {
+    "id": 68,
+    "name": "South Australia cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "South Australia",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/South_Australia_cricket_team"
+  },
+  {
+    "id": 69,
+    "name": "Tasmania cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Tasmania",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Tasmania_cricket_team"
+  },
+  {
+    "id": 70,
+    "name": "Victoria cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Victoria",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Victoria_cricket_team"
+  },
+  {
+    "id": 71,
+    "name": "Western Australia cricket team",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Western Australia",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Western_Australia_cricket_team"
+  },
+  {
+    "id": 72,
+    "name": "Adelaide Strikers",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Adelaide",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Adelaide_Strikers"
+  },
+  {
+    "id": 73,
+    "name": "Brisbane Heat",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Brisbane",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Brisbane_Heat"
+  },
+  {
+    "id": 74,
+    "name": "Hobart Hurricanes",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Hobart",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Hobart_Hurricanes"
+  },
+  {
+    "id": 75,
+    "name": "Melbourne Renegades",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Melbourne",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Melbourne_Renegades"
+  },
+  {
+    "id": 76,
+    "name": "Melbourne Stars",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Melbourne",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Melbourne_Stars"
+  },
+  {
+    "id": 77,
+    "name": "Perth Scorchers",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Perth",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Perth_Scorchers"
+  },
+  {
+    "id": 78,
+    "name": "Sydney Sixers",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Sydney",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sydney_Sixers"
+  },
+  {
+    "id": 79,
+    "name": "Sydney Thunder",
+    "type": "State",
+    "country_id": 2,
+    "level": "Domestic",
+    "abbr": "Sydney",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sydney_Thunder"
+  },
+  {
+    "id": 80,
+    "name": "Barisal Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Barisal Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Barisal_Division_cricket_team"
+  },
+  {
+    "id": 81,
+    "name": "Biman Bangladesh Airlines cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Biman Bangladesh Airlines",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines_cricket_team"
+  },
+  {
+    "id": 82,
+    "name": "Chittagong Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Chittagong Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Chittagong_Division_cricket_team"
+  },
+  {
+    "id": 83,
+    "name": "Dhaka Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Dhaka Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Dhaka_Division_cricket_team"
+  },
+  {
+    "id": 84,
+    "name": "Dhaka Metropolis cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Dhaka Metropolis",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Dhaka_Metropolis_cricket_team"
+  },
+  {
+    "id": 85,
+    "name": "Khulna Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Khulna Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Khulna_Division_cricket_team"
+  },
+  {
+    "id": 86,
+    "name": "Rajshahi Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rajshahi Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Rajshahi_Division_cricket_team"
+  },
+  {
+    "id": 87,
+    "name": "Rangpur Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rangpur Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Rangpur_Division_cricket_team"
+  },
+  {
+    "id": 88,
+    "name": "Sylhet Division cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Sylhet Division",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Sylhet_Division_cricket_team"
+  },
+  {
+    "id": 89,
+    "name": "Abahani Limited cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Abahani Limited",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Abahani_Limited_cricket_team"
+  },
+  {
+    "id": 90,
+    "name": "Brothers Union cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Brothers Union",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Brothers_Union_cricket_team"
+  },
+  {
+    "id": 91,
+    "name": "City Club (cricket)",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "City Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/City_Club_(cricket)"
+  },
+  {
+    "id": 92,
+    "name": "Gazi Group Cricketers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Gazi Group Cricketers",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Gazi_Group_Cricketers"
+  },
+  {
+    "id": 93,
+    "name": "Khelaghar Samaj Kallyan Samity",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Khelaghar Samaj Kallyan Samity",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Khelaghar_Samaj_Kallyan_Samity"
+  },
+  {
+    "id": 94,
+    "name": "Legends of Rupganj",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Legends of Rupganj",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Legends_of_Rupganj"
+  },
+  {
+    "id": 95,
+    "name": "Mohammedan Sporting Club cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Mohammedan Sporting Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Mohammedan_Sporting_Club_cricket_team"
+  },
+  {
+    "id": 96,
+    "name": "Prime Bank Cricket Club",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Prime Bank Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Prime_Bank_Cricket_Club"
+  },
+  {
+    "id": 97,
+    "name": "Rupganj Tigers Cricket Club",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rupganj Tigers Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Rupganj_Tigers_Cricket_Club"
+  },
+  {
+    "id": 98,
+    "name": "Sheikh Jamal Dhanmondi Club cricket team",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Sheikh Jamal Dhanmondi Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
+  },
+  {
+    "id": 99,
+    "name": "Shinepukur Cricket Club",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Shinepukur Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Shinepukur_Cricket_Club"
+  },
+  {
+    "id": 100,
+    "name": "Chattogram Challengers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Chattogram Challengers",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Chattogram_Challengers"
+  },
+  {
+    "id": 101,
+    "name": "Comilla Victorians",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Comilla Victorians",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Comilla_Victorians"
+  },
+  {
+    "id": 102,
+    "name": "Minister Dhaka",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Dhaka Team",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Minister_Dhaka"
+  },
+  {
+    "id": 103,
+    "name": "Fortune Barishal",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Fortune Barishal",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Fortune_Barishal"
+  },
+  {
+    "id": 104,
+    "name": "Khulna Tigers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Khulna Tigers",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Khulna_Tigers"
+  },
+  {
+    "id": 105,
+    "name": "Rangpur Riders",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Rangpur Riders",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Rangpur_Riders"
+  },
+  {
+    "id": 106,
+    "name": "Sylhet Strikers",
+    "type": "State",
+    "country_id": 3,
+    "level": "Domestic",
+    "abbr": "Sylhet Strikers",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Sylhet_Strikers"
+  },
+  {
+    "id": 107,
+    "name": "Derbyshire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Derbyshire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Derbyshire_County_Cricket_Club"
+  },
+  {
+    "id": 108,
+    "name": "Durham County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Durham",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Durham_County_Cricket_Club"
+  },
+  {
+    "id": 109,
+    "name": "Essex County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Essex",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Essex_County_Cricket_Club"
+  },
+  {
+    "id": 110,
+    "name": "Glamorgan County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Glamorgan",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Glamorgan_County_Cricket_Club"
+  },
+  {
+    "id": 111,
+    "name": "Gloucestershire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Gloucestershire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Gloucestershire_County_Cricket_Club"
+  },
+  {
+    "id": 112,
+    "name": "Hampshire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Hampshire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Hampshire_County_Cricket_Club"
+  },
+  {
+    "id": 113,
+    "name": "Kent County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Kent",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Kent_County_Cricket_Club"
+  },
+  {
+    "id": 114,
+    "name": "Lancashire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Lancashire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Lancashire_County_Cricket_Club"
+  },
+  {
+    "id": 115,
+    "name": "Leicestershire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Leicestershire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Leicestershire_County_Cricket_Club"
+  },
+  {
+    "id": 116,
+    "name": "Middlesex County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Middlesex",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Middlesex_County_Cricket_Club"
+  },
+  {
+    "id": 117,
+    "name": "Northamptonshire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Northamptonshire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Northamptonshire_County_Cricket_Club"
+  },
+  {
+    "id": 118,
+    "name": "Nottinghamshire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Nottinghamshire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Nottinghamshire_County_Cricket_Club"
+  },
+  {
+    "id": 119,
+    "name": "Somerset County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Somerset",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Somerset_County_Cricket_Club"
+  },
+  {
+    "id": 120,
+    "name": "Surrey County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Surrey",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Surrey_County_Cricket_Club"
+  },
+  {
+    "id": 121,
+    "name": "Sussex County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Sussex",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Sussex_County_Cricket_Club"
+  },
+  {
+    "id": 122,
+    "name": "Warwickshire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Warwickshire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Warwickshire_County_Cricket_Club"
+  },
+  {
+    "id": 123,
+    "name": "Worcestershire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Worcestershire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Worcestershire_County_Cricket_Club"
+  },
+  {
+    "id": 124,
+    "name": "Yorkshire County Cricket Club",
+    "type": "State",
+    "country_id": 4,
+    "level": "Domestic",
+    "abbr": "Yorkshire",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Yorkshire_County_Cricket_Club"
+  },
+  {
+    "id": 125,
+    "name": "Leinster Lightning",
+    "type": "Regional",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Leinster Lightning",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Leinster_Lightning"
+  },
+  {
+    "id": 126,
+    "name": "North West Warriors",
+    "type": "Regional",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "North West Warriors",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/North_West_Warriors"
+  },
+  {
+    "id": 127,
+    "name": "Northern Knights (cricket team)",
+    "type": "Regional",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Northern Knights",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Northern_Knights_(cricket_team)"
+  },
+  {
+    "id": 128,
+    "name": "Clontarf Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Clontarf",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Clontarf_Cricket_Club"
+  },
+  {
+    "id": 129,
+    "name": "The Hills Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "The Hills",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/The_Hills_Cricket_Club"
+  },
+  {
+    "id": 130,
+    "name": "Malahide Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Malahide",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Malahide_Cricket_Club"
+  },
+  {
+    "id": 131,
+    "name": "Merrion Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Merrion",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Merrion_Cricket_Club"
+  },
+  {
+    "id": 132,
+    "name": "Pembroke Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Pembroke",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Pembroke_Cricket_Club"
+  },
+  {
+    "id": 133,
+    "name": "Phoenix Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Phoenix",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Phoenix_Cricket_Club"
+  },
+  {
+    "id": 134,
+    "name": "YMCA Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "YMCA",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/YMCA_Cricket_Club"
+  },
+  {
+    "id": 135,
+    "name": "Cork County Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Cork County",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Cork_County_Cricket_Club"
+  },
+  {
+    "id": 136,
+    "name": "Leinster Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Leinster",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Leinster_Cricket_Club"
+  },
+  {
+    "id": 137,
+    "name": "North County Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "North County",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/North_County_Cricket_Club"
+  },
+  {
+    "id": 138,
+    "name": "Railway Union Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Railway Union",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Railway_Union_Cricket_Club"
+  },
+  {
+    "id": 139,
+    "name": "Rush Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Rush",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Rush_Cricket_Club"
+  },
+  {
+    "id": 140,
+    "name": "Terenure Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Terenure",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Terenure_Cricket_Club"
+  },
+  {
+    "id": 141,
+    "name": "Carrickfergus Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Carrickfergus",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Carrickfergus_Cricket_Club"
+  },
+  {
+    "id": 142,
+    "name": "C.I.Y.M.S. Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "C.I.Y.M.S.",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/C.I.Y.M.S._Cricket_Club"
+  },
+  {
+    "id": 143,
+    "name": "Civil Service North of Ireland Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Civil Service North of Ireland",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Civil_Service_North_of_Ireland_Cricket_Club"
+  },
+  {
+    "id": 144,
+    "name": "Cregagh Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Cregagh",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Cregagh_Cricket_Club"
+  },
+  {
+    "id": 145,
+    "name": "Instonians",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Instonians",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Instonians"
+  },
+  {
+    "id": 146,
+    "name": "Lisburn Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Lisburn",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Lisburn_Cricket_Club"
+  },
+  {
+    "id": 147,
+    "name": "North Down Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "North Down",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/North_Down_Cricket_Club"
+  },
+  {
+    "id": 148,
+    "name": "Waringstown Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Waringstown",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Waringstown_Cricket_Club"
+  },
+  {
+    "id": 149,
+    "name": "Woodvale Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Woodvale",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Woodvale_Cricket_Club"
+  },
+  {
+    "id": 150,
+    "name": "Armagh Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Armagh",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Armagh_Cricket_Club"
+  },
+  {
+    "id": 151,
+    "name": "Ballymena Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Ballymena",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Ballymena_Cricket_Club"
+  },
+  {
+    "id": 152,
+    "name": "Bangor Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Bangor",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Bangor_Cricket_Club"
+  },
+  {
+    "id": 153,
+    "name": "Derriaghy Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Derriaghy",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Derriaghy_Cricket_Club"
+  },
+  {
+    "id": 154,
+    "name": "Donaghcloney Mill Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Donaghcloney Mill",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Donaghcloney_Mill_Cricket_Club"
+  },
+  {
+    "id": 155,
+    "name": "Dundrum Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Dundrum",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Dundrum_Cricket_Club"
+  },
+  {
+    "id": 156,
+    "name": "Lurgan Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Lurgan",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Lurgan_Cricket_Club"
+  },
+  {
+    "id": 157,
+    "name": "Muckamore Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Muckamore",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Muckamore_Cricket_Club"
+  },
+  {
+    "id": 158,
+    "name": "Saintfield Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Saintfield",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Saintfield_Cricket_Club"
+  },
+  {
+    "id": 159,
+    "name": "Templepatrick Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Templepatrick",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Templepatrick_Cricket_Club"
+  },
+  {
+    "id": 160,
+    "name": "Downpatrick Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Downpatrick",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Downpatrick_Cricket_Club"
+  },
+  {
+    "id": 161,
+    "name": "Holywood Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Holywood",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Holywood_Cricket_Club"
+  },
+  {
+    "id": 162,
+    "name": "Ardmore Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Ardmore",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Ardmore_Cricket_Club"
+  },
+  {
+    "id": 163,
+    "name": "Bready Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Bready",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Bready_Cricket_Club"
+  },
+  {
+    "id": 164,
+    "name": "Brigade Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Brigade",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Brigade_Cricket_Club"
+  },
+  {
+    "id": 165,
+    "name": "Coleraine Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Coleraine",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Coleraine_Cricket_Club"
+  },
+  {
+    "id": 166,
+    "name": "Donemana Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Donemana",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Donemana_Cricket_Club"
+  },
+  {
+    "id": 167,
+    "name": "Eglinton Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Eglinton",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Eglinton_Cricket_Club"
+  },
+  {
+    "id": 168,
+    "name": "Fox Lodge Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Fox Lodge",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Fox_Lodge_Cricket_Club"
+  },
+  {
+    "id": 169,
+    "name": "Glendermott Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Glendermott",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Glendermott_Cricket_Club"
+  },
+  {
+    "id": 170,
+    "name": "St Johnston Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "St Johnston",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/St_Johnston_Cricket_Club"
+  },
+  {
+    "id": 171,
+    "name": "Strabane Cricket Club",
+    "type": "State",
+    "country_id": 6,
+    "level": "Domestic",
+    "abbr": "Strabane",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Strabane_Cricket_Club"
+  },
+  {
+    "id": 172,
+    "name": "Auckland cricket team",
+    "type": "State",
+    "country_id": 7,
+    "level": "Domestic",
+    "abbr": "Auckland",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Auckland_cricket_team"
+  },
+  {
+    "id": 173,
+    "name": "Wellington cricket team",
+    "type": "State",
+    "country_id": 7,
+    "level": "Domestic",
+    "abbr": "Wellington",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Wellington_cricket_team"
+  },
+  {
+    "id": 174,
+    "name": "Canterbury cricket team",
+    "type": "State",
+    "country_id": 7,
+    "level": "Domestic",
+    "abbr": "Canterbury",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Canterbury_cricket_team"
+  },
+  {
+    "id": 175,
+    "name": "Otago cricket team",
+    "type": "State",
+    "country_id": 7,
+    "level": "Domestic",
+    "abbr": "Otago",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Otago_cricket_team"
+  },
+  {
+    "id": 176,
+    "name": "Central Districts cricket team",
+    "type": "State",
+    "country_id": 7,
+    "level": "Domestic",
+    "abbr": "Central Districts",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Central_Districts_cricket_team"
+  },
+  {
+    "id": 177,
+    "name": "Northern Districts men's cricket team",
+    "type": "State",
+    "country_id": 7,
+    "level": "Domestic",
+    "abbr": "Northern Districts",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Northern_Districts_men%27s_cricket_team"
+  },
+  {
+    "id": 178,
+    "name": "Islamabad United",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Islamabad United",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Islamabad_United"
+  },
+  {
+    "id": 179,
+    "name": "Karachi Kings",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Karachi Kings",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Karachi_Kings"
+  },
+  {
+    "id": 180,
+    "name": "Lahore Qalandars",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Lahore Qalandars",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Lahore_Qalandars"
+  },
+  {
+    "id": 181,
+    "name": "Multan Sultans",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Multan Sultans",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Multan_Sultans"
+  },
+  {
+    "id": 182,
+    "name": "Javed Afridi",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Javed Afridi",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Javed_Afridi"
+  },
+  {
+    "id": 183,
+    "name": "Quetta Gladiators",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Quetta Gladiators",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Quetta_Gladiators"
+  },
+  {
+    "id": 184,
+    "name": "Balochistan cricket team",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Balochistan",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Balochistan_cricket_team"
+  },
+  {
+    "id": 185,
+    "name": "Central Punjab cricket team",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Central Punjab",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Central_Punjab_cricket_team"
+  },
+  {
+    "id": 186,
+    "name": "Northern cricket team",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Northern",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Northern_cricket_team"
+  },
+  {
+    "id": 187,
+    "name": "Sindh cricket team",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Sindh",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sindh_cricket_team"
+  },
+  {
+    "id": 188,
+    "name": "Southern Punjab cricket team (Pakistan)",
+    "type": "State",
+    "country_id": 8,
+    "level": "Domestic",
+    "abbr": "Southern Punjab",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Southern_Punjab_cricket_team_(Pakistan)"
+  },
+  {
+    "id": 189,
+    "name": "Dolphins (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Dolphins",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Dolphins_(cricket_team)"
+  },
+  {
+    "id": 190,
+    "name": "Knights (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Knights",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Knights_(cricket_team)"
+  },
+  {
+    "id": 191,
+    "name": "Warriors (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Warriors",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Warriors_(cricket_team)"
+  },
+  {
+    "id": 192,
+    "name": "Titans (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Titans",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Titans_(cricket_team)"
+  },
+  {
+    "id": 193,
+    "name": "Imperial Lions",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Lions",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Imperial_Lions"
+  },
+  {
+    "id": 194,
+    "name": "North West (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "North West Dragons",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/North_West_(cricket_team)"
+  },
+  {
+    "id": 195,
+    "name": "Boland (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Boland",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Boland_(cricket_team)"
+  },
+  {
+    "id": 196,
+    "name": "Western Province cricket team (South Africa)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Western Province",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Western_Province_cricket_team_(South_Africa)"
+  },
+  {
+    "id": 197,
+    "name": "South Western Districts (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "South Western Districts",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/South_Western_Districts_(cricket_team)"
+  },
+  {
+    "id": 198,
+    "name": "KwaZulu-Natal Inland (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "KwaZulu-Natal (Inland)",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/KwaZulu-Natal_Inland_(cricket_team)"
+  },
+  {
+    "id": 199,
+    "name": "Northern Cape (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Northern Cape",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Northern_Cape_(cricket_team)"
+  },
+  {
+    "id": 200,
+    "name": "Limpopo (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Limpopo",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Limpopo_(cricket_team)"
+  },
+  {
+    "id": 201,
+    "name": "Easterns (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Easterns",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Easterns_(cricket_team)"
+  },
+  {
+    "id": 202,
+    "name": "Mpumalanga (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Mpumalanga",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Mpumalanga_(cricket_team)"
+  },
+  {
+    "id": 203,
+    "name": "Border (cricket team)",
+    "type": "State",
+    "country_id": 9,
+    "level": "Domestic",
+    "abbr": "Border",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Border_(cricket_team)"
+  },
+  {
+    "id": 204,
+    "name": "Burgher Recreation Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Burgher Recreation Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Burgher_Recreation_Club"
+  },
+  {
+    "id": 205,
+    "name": "Colombo Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Colombo Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Colombo_Cricket_Club"
+  },
+  {
+    "id": 206,
+    "name": "Colts Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Colts Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Colts_Cricket_Club"
+  },
+  {
+    "id": 207,
+    "name": "Galle Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Galle Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Galle_Cricket_Club"
+  },
+  {
+    "id": 208,
+    "name": "Kalutara Town Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Kalutara Town Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Kalutara_Town_Club"
+  },
+  {
+    "id": 209,
+    "name": "Kandy Customs Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Kandy Customs Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Kandy_Customs_Cricket_Club"
+  },
+  {
+    "id": 210,
+    "name": "Kurunegala Youth Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Kurunegala Youth Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Kurunegala_Youth_Cricket_Club"
+  },
+  {
+    "id": 211,
+    "name": "Lankan Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Lankan Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Lankan_Cricket_Club"
+  },
+  {
+    "id": 212,
+    "name": "Moors Sports Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Moors Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Moors_Sports_Club"
+  },
+  {
+    "id": 213,
+    "name": "Sri Lanka Police Sports Club (cricket)",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Police Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Police_Sports_Club_(cricket)"
+  },
+  {
+    "id": 214,
+    "name": "Ragama Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Ragama Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Ragama_Cricket_Club"
+  },
+  {
+    "id": 215,
+    "name": "Sebastianites Cricket and Athletic Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Sebastianites Cricket and Athletic Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sebastianites_Cricket_and_Athletic_Club"
+  },
+  {
+    "id": 216,
+    "name": "Sinhalese Sports Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Sinhalese Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sinhalese_Sports_Club"
+  },
+  {
+    "id": 217,
+    "name": "Ace Capital Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Ace Capital Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Ace_Capital_Cricket_Club"
+  },
+  {
+    "id": 218,
+    "name": "Badureliya Sports Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Badureliya Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Badureliya_Sports_Club"
+  },
+  {
+    "id": 219,
+    "name": "Bloomfield Cricket and Athletic Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Bloomfield Cricket and Athletic Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Bloomfield_Cricket_and_Athletic_Club"
+  },
+  {
+    "id": 220,
+    "name": "Chilaw Marians Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Chilaw Marians Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Chilaw_Marians_Cricket_Club"
+  },
+  {
+    "id": 221,
+    "name": "Negombo Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Negombo Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Negombo_Cricket_Club"
+  },
+  {
+    "id": 222,
+    "name": "Nondescripts Cricket Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Nondescripts Cricket Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Nondescripts_Cricket_Club"
+  },
+  {
+    "id": 223,
+    "name": "Nugegoda Sports and Welfare Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Nugegoda Sports and Welfare Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Nugegoda_Sports_and_Welfare_Club"
+  },
+  {
+    "id": 224,
+    "name": "Panadura Sports Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Panadura Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Panadura_Sports_Club"
+  },
+  {
+    "id": 225,
+    "name": "Saracens Sports Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Saracens Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Saracens_Sports_Club"
+  },
+  {
+    "id": 226,
+    "name": "Sri Lanka Air Force Sports Club (cricket)",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Sri Lanka Air Force Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Air_Force_Sports_Club_(cricket)"
+  },
+  {
+    "id": 227,
+    "name": "Sri Lanka Army Sports Club (cricket)",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Sri Lanka Army Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Army_Sports_Club_(cricket)"
+  },
+  {
+    "id": 228,
+    "name": "Sri Lanka Navy Sports Club (cricket)",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Sri Lanka Navy Sports Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Navy_Sports_Club_(cricket)"
+  },
+  {
+    "id": 229,
+    "name": "Tamil Union Cricket and Athletic Club",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Tamil Union Cricket and Athletic Club",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Tamil_Union_Cricket_and_Athletic_Club"
+  },
+  {
+    "id": 230,
+    "name": "Basnahira North cricket team",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Basnahira North",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Basnahira_North_cricket_team"
+  },
+  {
+    "id": 231,
+    "name": "Basnahira South cricket team",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Basnahira South",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Basnahira_South_cricket_team"
+  },
+  {
+    "id": 232,
+    "name": "Kandurata cricket team",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Kandurata",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Kandurata_cricket_team"
+  },
+  {
+    "id": 233,
+    "name": "Galle International Stadium",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Galle International Stadium",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Galle_International_Stadium"
+  },
+  {
+    "id": 234,
+    "name": "Wayamba cricket team",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Wayamba",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Wayamba_cricket_team"
+  },
+  {
+    "id": 235,
+    "name": "Colombo Stars",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Colombo Stars",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Colombo_Stars"
+  },
+  {
+    "id": 236,
+    "name": "Dambulla Giants",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Dambulla Giants",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Dambulla_Giants"
+  },
+  {
+    "id": 237,
+    "name": "Galle Gladiators",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Galle Gladiators",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Galle_Gladiators"
+  },
+  {
+    "id": 238,
+    "name": "Jaffna Kings",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Jaffna Kings",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Jaffna_Kings"
+  },
+  {
+    "id": 239,
+    "name": "Kandy Falcons",
+    "type": "State",
+    "country_id": 10,
+    "level": "Domestic",
+    "abbr": "Kandy Falcons",
+    "hiring_cond": "Skilled",
+    "link": "https://en.wikipedia.org/wiki/Kandy_Falcons"
+  },
+  {
+    "id": 240,
+    "name": "Barbados national cricket team",
+    "type": "State",
+    "country_id": 11,
+    "level": "Domestic",
+    "abbr": "Barbados",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Barbados_national_cricket_team"
+  },
+  {
+    "id": 241,
+    "name": "Guyana national cricket team",
+    "type": "State",
+    "country_id": 11,
+    "level": "Domestic",
+    "abbr": "Guyana",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Guyana_national_cricket_team"
+  },
+  {
+    "id": 242,
+    "name": "Jamaica national cricket team",
+    "type": "State",
+    "country_id": 11,
+    "level": "Domestic",
+    "abbr": "Jamaica",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Jamaica_national_cricket_team"
+  },
+  {
+    "id": 243,
+    "name": "Leeward Islands cricket team",
+    "type": "State",
+    "country_id": 11,
+    "level": "Domestic",
+    "abbr": "Leeward Islands",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Leeward_Islands_cricket_team"
+  },
+  {
+    "id": 244,
+    "name": "Trinidad and Tobago national cricket team",
+    "type": "State",
+    "country_id": 11,
+    "level": "Domestic",
+    "abbr": "Trinidad and Tobago",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago_national_cricket_team"
+  },
+  {
+    "id": 245,
+    "name": "Windward Islands cricket team",
+    "type": "State",
+    "country_id": 11,
+    "level": "Domestic",
+    "abbr": "Windward Islands",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Windward_Islands_cricket_team"
+  },
+  {
+    "id": 246,
+    "name": "Matabeleland Tuskers",
+    "type": "State",
+    "country_id": 12,
+    "level": "Domestic",
+    "abbr": "Tuskers",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Matabeleland_Tuskers"
+  },
+  {
+    "id": 247,
+    "name": "Mountaineers cricket team",
+    "type": "State",
+    "country_id": 12,
+    "level": "Domestic",
+    "abbr": "Mountaineers",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Mountaineers_cricket_team"
+  },
+  {
+    "id": 248,
+    "name": "Southern Rocks",
+    "type": "State",
+    "country_id": 12,
+    "level": "Domestic",
+    "abbr": "Rocks",
+    "hiring_cond": "Mature",
+    "link": "https://en.wikipedia.org/wiki/Southern_Rocks"
+  },
+  {
+    "id": 249,
+    "name": "Mashonaland Eagles",
+    "type": "State",
+    "country_id": 12,
+    "level": "Domestic",
+    "abbr": "Eagles",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Mashonaland_Eagles"
+  },
+  {
+    "id": 250,
+    "name": "Mid West Rhinos",
+    "type": "State",
+    "country_id": 12,
+    "level": "Domestic",
+    "abbr": "Rhinos",
+    "hiring_cond": "Ameture",
+    "link": "https://en.wikipedia.org/wiki/Mid_West_Rhinos"
+  }
+]

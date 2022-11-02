@@ -8,18 +8,20 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Ranji_Trophy"
   },
   {
     "id": 2,
     "name": "Duleep Trophy",
     "country_id": 5,
-    "type": "State",
+    "type": "Regional",
     "invitation": false,
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Duleep_Trophy"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Irani_Cup"
   },
   {
     "id": 4,
@@ -40,7 +43,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Vijay_Hazare_Trophy"
   },
   {
     "id": 5,
@@ -50,7 +54,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Deodhar_Trophy"
   },
   {
     "id": 6,
@@ -60,7 +65,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Indian_Premier_League"
   },
   {
     "id": 7,
@@ -70,7 +76,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Syed_Mushtaq_Ali_Trophy"
   },
   {
     "id": 8,
@@ -81,7 +88,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Ahmad_Shah_Abdali_4-day_Tournament"
   },
   {
     "id": 9,
@@ -91,7 +99,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Ghazi_Amanullah_Khan_Regional_One_Day_Tournament"
   },
   {
     "id": 10,
@@ -101,7 +110,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Shpageeza_Cricket_League"
   },
   {
     "id": 11,
@@ -112,7 +122,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 3
+    "days": 3,
+    "link": "https://en.wikipedia.org/wiki/2018%E2%80%9319_Mirwais_Nika_Provincial_3-Day"
   },
   {
     "id": 12,
@@ -122,7 +133,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/2020_Afghanistan_Provincial_Challenge_Cup"
   },
   {
     "id": 13,
@@ -132,7 +144,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Afghanistan_Premier_League"
   },
   {
     "id": 14,
@@ -143,7 +156,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Sheffield_Shield"
   },
   {
     "id": 15,
@@ -153,7 +167,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Australian_domestic_limited-overs_cricket_tournament"
   },
   {
     "id": 16,
@@ -163,7 +178,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/KFC_Twenty20_Big_Bash"
   },
   {
     "id": 17,
@@ -173,7 +189,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Big_Bash_League"
   },
   {
     "id": 18,
@@ -183,7 +200,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Grade_cricket"
   },
   {
     "id": 19,
@@ -194,7 +212,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/National_Cricket_League"
   },
   {
     "id": 20,
@@ -205,7 +224,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Bangladesh_Cricket_League"
   },
   {
     "id": 21,
@@ -215,7 +235,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Dhaka_Premier_Division_Cricket_League#Teams"
   },
   {
     "id": 22,
@@ -225,7 +246,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Bangladesh_Premier_League"
   },
   {
     "id": 23,
@@ -235,7 +257,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Victorian_Premier_Cricket"
   },
   {
     "id": 24,
@@ -245,7 +268,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Dhaka_Premier_Division_Cricket_League"
   },
   {
     "id": 25,
@@ -256,7 +280,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/County_Championship"
   },
   {
     "id": 26,
@@ -267,7 +292,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/2021_County_Championship#Bob_Willis_Trophy"
   },
   {
     "id": 27,
@@ -277,7 +303,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Royal_London_One-Day_Cup"
   },
   {
     "id": 28,
@@ -287,7 +314,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/T20_Blast"
   },
   {
     "id": 29,
@@ -298,7 +326,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Championship"
   },
   {
     "id": 30,
@@ -308,7 +337,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Cup"
   },
   {
     "id": 31,
@@ -318,7 +348,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Trophy"
   },
   {
     "id": 32,
@@ -328,7 +359,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Leinster_Senior_League_(cricket)"
   },
   {
     "id": 33,
@@ -338,7 +370,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/NCU_Senior_League"
   },
   {
     "id": 34,
@@ -348,7 +381,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/North_West_Senior_League"
   },
   {
     "id": 35,
@@ -358,7 +392,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 36,
@@ -368,7 +403,9 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Irish_Senior_Cup_(cricket)",
+    "defunct": true
   },
   {
     "id": 37,
@@ -378,7 +415,9 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Ulster_Cup_(cricket)",
+    "defunct": true
   },
   {
     "id": 38,
@@ -388,7 +427,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 39,
@@ -398,7 +438,8 @@
     "invitation": true,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 40,
@@ -408,7 +449,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 41,
@@ -418,7 +460,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 42,
@@ -429,7 +472,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Plunket_Shield"
   },
   {
     "id": 43,
@@ -439,7 +483,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/The_Ford_Trophy"
   },
   {
     "id": 44,
@@ -449,7 +494,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Super_Smash_(men%27s_cricket)"
   },
   {
     "id": 45,
@@ -459,7 +505,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Pakistan_Super_League"
   },
   {
     "id": 46,
@@ -480,7 +527,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Quaid-e-Azam_Trophy"
   },
   {
     "id": 48,
@@ -490,7 +538,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Pakistan_Cup"
   },
   {
     "id": 49,
@@ -500,7 +549,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/National_T20_Cup"
   },
   {
     "id": 50,
@@ -511,7 +561,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 3
+    "days": 3,
+    "link": "https://en.wikipedia.org/wiki/CSA_4-Day_Domestic_Series"
   },
   {
     "id": 51,
@@ -521,7 +572,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/CSA_One-Day_Cup"
   },
   {
     "id": 52,
@@ -531,7 +583,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/CSA_T20_Challenge"
   },
   {
     "id": 53,
@@ -541,7 +594,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Mzansi_Super_League"
   },
   {
     "id": 54,
@@ -552,7 +606,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Premier_Trophy"
   },
   {
     "id": 55,
@@ -563,7 +618,9 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Premier_Trophy",
+    "defunct": true
   },
   {
     "id": 56,
@@ -574,7 +631,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_First_Class_Tournament"
   },
   {
     "id": 57,
@@ -584,7 +642,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Premier_Limited_Overs_Tournament"
   },
   {
     "id": 58,
@@ -594,7 +653,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Inter-Provincial_Limited_Over_Tournament"
   },
   {
     "id": 59,
@@ -604,7 +664,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Lanka_Premier_League"
   },
   {
     "id": 60,
@@ -614,7 +675,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 61,
@@ -624,7 +686,8 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "defunct": true
   },
   {
     "id": 62,
@@ -635,7 +698,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/Regional_Four_Day_Competition"
   },
   {
     "id": 63,
@@ -645,7 +709,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Super50_Cup"
   },
   {
     "id": 64,
@@ -655,7 +720,8 @@
     "invitation": true,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Caribbean_Premier_League"
   },
   {
     "id": 65,
@@ -666,7 +732,8 @@
     "format": "Test",
     "overs": 90,
     "level": "Domestic",
-    "days": 4
+    "days": 4,
+    "link": "https://en.wikipedia.org/wiki/2021%E2%80%9322_Logan_Cup"
   },
   {
     "id": 66,
@@ -676,7 +743,8 @@
     "invitation": false,
     "format": "OneDay",
     "overs": 50,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/2021%E2%80%9322_Pro50_Championship"
   },
   {
     "id": 67,
@@ -686,6 +754,7 @@
     "invitation": false,
     "format": "T20",
     "overs": 20,
-    "level": "Domestic"
+    "level": "Domestic",
+    "link": "https://en.wikipedia.org/wiki/Stanbic_Bank_20_Series"
   }
 ]
