@@ -53,7 +53,14 @@ team_index = len(teams)
 tournament_index = 0
 ttm_index = len(ttm)
 
+continue_for = int(input("continue for : "))
 for tournament in tournaments:
+
+	if continue_for > 0:
+		continue_for -= 1;
+		tournament_index += 1
+		continue;
+
 	print("Working for : ", tournament)
 	skip = input("skip dom : ")
 	if skip == "1":
