@@ -14506,5 +14506,5459 @@
     "bowling_style": "Right-arm medium",
     "player_type": "Bowlers",
     "notes": ":::Bowlers"
+  },
+  {
+    "id": 1613,
+    "name": "Billy Godleman*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1614,
+    "name": "Harry Came",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1615,
+    "name": "Tom Wood",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1616,
+    "name": "Leus du Plooy*",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Club captain; EU passport:::Batsmen"
+  },
+  {
+    "id": 1617,
+    "name": "Wayne Madsen*",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "UK passport:::Batsmen"
+  },
+  {
+    "id": 1618,
+    "name": "Matt Lamb",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1619,
+    "name": "Luis Reece*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1620,
+    "name": "Alex Thomson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1621,
+    "name": "Alex Hughes*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1622,
+    "name": "Mattie McKiernan",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1623,
+    "name": "Anuj Dal*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1624,
+    "name": "Brooke Guest*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1625,
+    "name": "George Scrimshaw",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1626,
+    "name": "Ben Aitchison",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1627,
+    "name": "Nick Potts",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1628,
+    "name": "Mark Watt",
+    "country": "Scotland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1629,
+    "name": "Sam Conners*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1630,
+    "name": "Suranga Lakmal",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Overseas player:::Bowlers"
+  },
+  {
+    "id": 1631,
+    "name": "Zak Chappell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1632,
+    "name": "Graham Clark",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1633,
+    "name": "Michael Jones",
+    "country": "Scotland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1634,
+    "name": "Scott Borthwick",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Captain (FC):::Batsmen"
+  },
+  {
+    "id": 1635,
+    "name": "Alex Lees",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1636,
+    "name": "Jonathan Bushnell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1637,
+    "name": "Paul Coughlin",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1638,
+    "name": "Luke Doneathy",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1639,
+    "name": "Ben Stokes",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "England test captain; England central contract:::All-rounders"
+  },
+  {
+    "id": 1640,
+    "name": "Ben Raine",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1641,
+    "name": "Liam Trevaskis",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1642,
+    "name": "Tom Mackintosh",
+    "country": "Scotland",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1643,
+    "name": "Ollie Robinson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1644,
+    "name": "Harry Crawshaw",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1645,
+    "name": "George Drissell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1646,
+    "name": "Matthew Potts",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "England incremental contract:::Bowlers"
+  },
+  {
+    "id": 1647,
+    "name": "Oli Gibson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1648,
+    "name": "Brydon Carse",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "England pace development contract:::Bowlers"
+  },
+  {
+    "id": 1649,
+    "name": "Nick Browne*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1650,
+    "name": "Tom Westley*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "Club captain:::Batsmen"
+  },
+  {
+    "id": 1651,
+    "name": "Feroze Khushi",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1652,
+    "name": "Alastair Cook*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1653,
+    "name": "Dan Lawrence*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1654,
+    "name": "Robin Das",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1655,
+    "name": "Josh Rymell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1656,
+    "name": "Simon Harmer*",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": "Overseas player; T20 captain:::All-rounders"
+  },
+  {
+    "id": 1657,
+    "name": "Matt Critchley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1658,
+    "name": "Paul Walter",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1659,
+    "name": "Luc Benkenstein",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": "UK passport:::All-rounders"
+  },
+  {
+    "id": 1660,
+    "name": "Will Buttleman",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1661,
+    "name": "Adam Rossington",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1662,
+    "name": "Michael Pepper",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1663,
+    "name": "Aaron Beard",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1664,
+    "name": "Sam Cook*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1665,
+    "name": "Aron Nijjar",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1666,
+    "name": "Shane Snater*",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1667,
+    "name": "Eshun Kalley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1668,
+    "name": "Jamie Porter*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1669,
+    "name": "Ben Allison",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1670,
+    "name": "Jamal Richards",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1671,
+    "name": "Kiran Carlson*",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "Captain (List A):::Batsmen"
+  },
+  {
+    "id": 1672,
+    "name": "Billy Root*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1673,
+    "name": "Tom Bevan",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1674,
+    "name": "Sam Northeast*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1675,
+    "name": "Colin Ingram*",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 1676,
+    "name": "Eddie Byrom",
+    "country": "Zimbabwe",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Irish passport:::Batsmen"
+  },
+  {
+    "id": 1677,
+    "name": "Callum Taylor",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1678,
+    "name": "James Harris*",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1679,
+    "name": "Andrew Salter*",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1680,
+    "name": "David Lloyd*",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "Club captain:::All-rounders"
+  },
+  {
+    "id": 1681,
+    "name": "Dan Douthwaite",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1682,
+    "name": "Marnus Labuschagne*",
+    "country": "Australia",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 1683,
+    "name": "Ben Kellaway",
+    "country": "Wales",
+    "batting_style": "Right=handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1684,
+    "name": "Zain-ul-Hassan",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1685,
+    "name": "Alex Horton",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1686,
+    "name": "Chris Cooke*",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "UK passport:::Wicket-keepers"
+  },
+  {
+    "id": 1687,
+    "name": "Andy Gorvin",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1688,
+    "name": "Tegid Phillips",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1689,
+    "name": "Michael Neser*",
+    "country": "Australia",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Overseas player:::Bowlers"
+  },
+  {
+    "id": 1690,
+    "name": "Prem Sisodiya",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1691,
+    "name": "Jamie McIlroy",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1692,
+    "name": "Timm van der Gugten*",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1693,
+    "name": "Ben Morris",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1694,
+    "name": "Jack Taylor",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Captain (T20):::Batsmen"
+  },
+  {
+    "id": 1695,
+    "name": "Chris Dent",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1696,
+    "name": "Ben Charlesworth",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1697,
+    "name": "Miles Hammond",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1698,
+    "name": "Graeme van Buuren",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Club Captain; UK Passport:::All-rounders"
+  },
+  {
+    "id": 1699,
+    "name": "George Scott",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1700,
+    "name": "Luke Charlesworth",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1701,
+    "name": "Will Naish",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1702,
+    "name": "Tom Price",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1703,
+    "name": "Ollie Price",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1704,
+    "name": "Tom Lace",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1705,
+    "name": "James Bracey",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1706,
+    "name": "Ben Wells",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1707,
+    "name": "Jared Warner",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1708,
+    "name": "Josh Shaw",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1709,
+    "name": "Tom Smith",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1710,
+    "name": "David Payne",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1711,
+    "name": "Matthew Taylor",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1712,
+    "name": "Ajeet Dale",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1713,
+    "name": "Paul van Meekeren",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1714,
+    "name": "Dominic Goodman",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1715,
+    "name": "Marchant de Lange",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": "UK Passport:::Bowlers"
+  },
+  {
+    "id": 1716,
+    "name": "Ross Whiteley",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium",
+    "player_type": "Batsmen",
+    "notes": "White ball contract:::Batsmen"
+  },
+  {
+    "id": 1717,
+    "name": "Joe Weatherley*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1718,
+    "name": "James Vince*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Club Captain:::Batsmen"
+  },
+  {
+    "id": 1719,
+    "name": "Toby Albert",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1720,
+    "name": "Fletcha Middleton",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1721,
+    "name": "Tom Prest",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1722,
+    "name": "Nick Gubbins*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1723,
+    "name": "Felix Organ",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1724,
+    "name": "Liam Dawson*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1725,
+    "name": "Keith Barker*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1726,
+    "name": "Ian Holland*",
+    "country": "United States",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "UK Passport:::All-rounders"
+  },
+  {
+    "id": 1727,
+    "name": "James Fuller*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1728,
+    "name": "Ben Brown",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1729,
+    "name": "Aneurin Donald",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1730,
+    "name": "John Turner",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "UK passport:::Bowlers"
+  },
+  {
+    "id": 1731,
+    "name": "Chris Wood*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "White ball contract:::Bowlers"
+  },
+  {
+    "id": 1732,
+    "name": "Harry Petrie",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1733,
+    "name": "Mason Crane*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1734,
+    "name": "Scott Currie",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1735,
+    "name": "Brad Wheal*",
+    "country": "Scotland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1736,
+    "name": "Kyle Abbott*",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Overseas player:::Bowlers"
+  },
+  {
+    "id": 1737,
+    "name": "Ben Compton",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1738,
+    "name": "Joe Denly*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "15 Test, 16 ODI and 13 T20I appearances for England.[98]:::Batsmen"
+  },
+  {
+    "id": 1739,
+    "name": "Alex Blake*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "White ball contract:::Batsmen"
+  },
+  {
+    "id": 1740,
+    "name": "Tawanda Muyeye",
+    "country": "Zimbabwe",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "Qualifies as a domestic player[99]:::Batsmen"
+  },
+  {
+    "id": 1741,
+    "name": "Zak Crawley*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "England central contract; 25 Test and three ODI appearances for England.[100]:::Batsmen"
+  },
+  {
+    "id": 1742,
+    "name": "Daniel Bell-Drummond*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "LA/T20 vice-captain:::Batsmen"
+  },
+  {
+    "id": 1743,
+    "name": "Jack Leaning*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "FC vice-captain:::Batsmen"
+  },
+  {
+    "id": 1744,
+    "name": "Harry Finch",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1745,
+    "name": "Grant Stewart",
+    "country": "Italy",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "Six T20I appearances for Italy.[101]:::All-rounders"
+  },
+  {
+    "id": 1746,
+    "name": "Joey Evison",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1747,
+    "name": "Marcus O'Riordan",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1748,
+    "name": "Sam Billings*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "Club captain; Three Test, 25 ODI and 36 T20I appearances for England and one T20I appearance for an ICC World XI.[102]:::Wicket-keepers"
+  },
+  {
+    "id": 1749,
+    "name": "Jordan Cox",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1750,
+    "name": "Harry Podmore*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1751,
+    "name": "James Logan",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1752,
+    "name": "Nathan Gilchrist",
+    "country": "Zimbabwe",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "UK Passport:::Bowlers"
+  },
+  {
+    "id": 1753,
+    "name": "Fred Klaassen",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "14 ODI and 24 T20I appearances for Netherlands.[103]:::Bowlers"
+  },
+  {
+    "id": 1754,
+    "name": "Jas Singh",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1755,
+    "name": "Matt Quinn",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "UK Passport:::Bowlers"
+  },
+  {
+    "id": 1756,
+    "name": "Hamidullah Qadri",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1757,
+    "name": "Keaton Jennings*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1758,
+    "name": "Rob Jones",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1759,
+    "name": "Steven Croft*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1760,
+    "name": "Josh Bohannon",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1761,
+    "name": "Liam Livingstone*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "England central contract:::Batsmen"
+  },
+  {
+    "id": 1762,
+    "name": "Luke Wells",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1763,
+    "name": "George Balderson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1764,
+    "name": "Danny Lamb",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1765,
+    "name": "Tom Aspinwall",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1766,
+    "name": "Jos Buttler*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "England white ball captain; England central contract:::Wicket-keepers"
+  },
+  {
+    "id": 1767,
+    "name": "Phil Salt",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1768,
+    "name": "George Bell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1769,
+    "name": "George Lavelle",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1770,
+    "name": "Matthew Hurst",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1771,
+    "name": "Tom Hartley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1772,
+    "name": "Jack Blatherwick",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1773,
+    "name": "Tom Bailey*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1774,
+    "name": "James Anderson*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "England central contract:::Bowlers"
+  },
+  {
+    "id": 1775,
+    "name": "Richard Gleeson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "White ball contract:::Bowlers"
+  },
+  {
+    "id": 1776,
+    "name": "Luke Wood",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1777,
+    "name": "Jack Morley",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1778,
+    "name": "Saqib Mahmood",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": "England pace development contract:::Bowlers"
+  },
+  {
+    "id": 1779,
+    "name": "Matt Parkinson*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1780,
+    "name": "Will Williams",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "UK passport:::Bowlers"
+  },
+  {
+    "id": 1781,
+    "name": "Josh Boyden",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1782,
+    "name": "Sol Budinger",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1783,
+    "name": "Louis Kimber",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1784,
+    "name": "Sam Evans",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1785,
+    "name": "Rishi Patel",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1786,
+    "name": "Nick Welch",
+    "country": "Zimbabwe",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "UK passport:::Batsmen"
+  },
+  {
+    "id": 1787,
+    "name": "Arron Lilley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": "White ball contract:::All-rounders"
+  },
+  {
+    "id": 1788,
+    "name": "Rehan Ahmed",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1789,
+    "name": "Colin Ackermann*",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": "Captain (T20):::All-rounders"
+  },
+  {
+    "id": 1790,
+    "name": "Scott Steel",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1791,
+    "name": "Tom Scriven",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1792,
+    "name": "Lewis Hill*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "Captain (LA):::Wicket-keepers"
+  },
+  {
+    "id": 1793,
+    "name": "Harry Swindells",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1794,
+    "name": "Michael Finan",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1795,
+    "name": "Callum Parkinson",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Club Captain:::Bowlers"
+  },
+  {
+    "id": 1796,
+    "name": "Chris Wright*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1797,
+    "name": "Will Davis",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1798,
+    "name": "Roman Walker",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1799,
+    "name": "Ed Barnes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1800,
+    "name": "Josh Hull",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1801,
+    "name": "Matt Salisbury",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1802,
+    "name": "Max Holden",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1803,
+    "name": "Mark Stoneman*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1804,
+    "name": "Sam Robson*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1805,
+    "name": "Robbie White",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1806,
+    "name": "Eoin Morgan*",
+    "country": "England[a]",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1807,
+    "name": "Ishaan Kaushal",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1808,
+    "name": "Josh de Caires",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1809,
+    "name": "Stephen Eskinazi*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": "LA/T20 captain:::Batsmen"
+  },
+  {
+    "id": 1810,
+    "name": "Joe Cracknell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1811,
+    "name": "Martin Andersson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1812,
+    "name": "Ryan Higgins",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1813,
+    "name": "Luke Hollman",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1814,
+    "name": "Daniel O'Driscoll",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1815,
+    "name": "Jack Davies",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1816,
+    "name": "John Simpson*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1817,
+    "name": "Tom Helm*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1818,
+    "name": "Blake Cullen",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1819,
+    "name": "Toby Roland-Jones*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1820,
+    "name": "Toby Greatwood",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1821,
+    "name": "Thilan Walallawita",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1822,
+    "name": "Tim Murtagh*",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Club captain:::Bowlers"
+  },
+  {
+    "id": 1823,
+    "name": "Max Harris",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1824,
+    "name": "Ethan Bamber*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1825,
+    "name": "Josh Cobb*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "T20 captain:::Batsmen"
+  },
+  {
+    "id": 1826,
+    "name": "Saif Zaib",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1827,
+    "name": "Emilio Gay",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1828,
+    "name": "Rob Keogh*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1829,
+    "name": "Ricardo Vasconcelos*",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": "Portuguese passport:::Batsmen"
+  },
+  {
+    "id": 1830,
+    "name": "Luke Procter*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1831,
+    "name": "James Sales",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1832,
+    "name": "Tom Taylor",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1833,
+    "name": "Gareth Berg",
+    "country": "Italy",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1834,
+    "name": "Gus Miller",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1835,
+    "name": "David Willey*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "England incremental contract:::All-rounders"
+  },
+  {
+    "id": 1836,
+    "name": "Lewis McManus",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1837,
+    "name": "Harry Gouldstone",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1838,
+    "name": "Jack White",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1839,
+    "name": "Simon Kerrigan",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1840,
+    "name": "Ben Sanderson*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1841,
+    "name": "Alex Russell",
+    "country": "Wales",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1842,
+    "name": "Freddie Heldreich",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm unorthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1843,
+    "name": "Graeme White",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "White ball contract:::Bowlers"
+  },
+  {
+    "id": 1844,
+    "name": "George Gowler",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1845,
+    "name": "Ollie Sale",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1846,
+    "name": "George Weldon",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1847,
+    "name": "Alex Hales*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "White ball contract:::Batsmen"
+  },
+  {
+    "id": 1848,
+    "name": "Ben Duckett*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1849,
+    "name": "Ben Slater*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1850,
+    "name": "Haseeb Hameed*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Club vice-captain; Captain (List A):::Batsmen"
+  },
+  {
+    "id": 1851,
+    "name": "Steven Mullaney*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "Club Captain:::All-rounders"
+  },
+  {
+    "id": 1852,
+    "name": "Matt Montgomery",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": "UK Passport:::All-rounders"
+  },
+  {
+    "id": 1853,
+    "name": "Samit Patel*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "White-ball contract:::All-rounders"
+  },
+  {
+    "id": 1854,
+    "name": "Liam Patterson-White",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1855,
+    "name": "Calvin Harrison",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1856,
+    "name": "Lyndon James",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1857,
+    "name": "Ben Martindale",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1858,
+    "name": "Tom Loten",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1859,
+    "name": "Tom Moores*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keeper",
+    "notes": ":::Wicket-keeper"
+  },
+  {
+    "id": 1860,
+    "name": "Joe Clarke*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keeper",
+    "notes": ":::Wicket-keeper"
+  },
+  {
+    "id": 1861,
+    "name": "Dane Schadendorf",
+    "country": "Zimbabwe",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Wicket-keeper",
+    "notes": "UK Passport:::Wicket-keeper"
+  },
+  {
+    "id": 1862,
+    "name": "Dane Paterson*",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Overseas player:::Bowlers"
+  },
+  {
+    "id": 1863,
+    "name": "Stuart Broad*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "England central contract:::Bowlers"
+  },
+  {
+    "id": 1864,
+    "name": "Toby Pettman",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1865,
+    "name": "Brett Hutton*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1866,
+    "name": "Luke Fletcher*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1867,
+    "name": "Matt Carter",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1868,
+    "name": "Jake Ball*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1869,
+    "name": "James Hayes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1870,
+    "name": "Sam King",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1871,
+    "name": "Fateh Singh",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1872,
+    "name": "Olly Stone",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": "England pace development contract:::Bowlers"
+  },
+  {
+    "id": 1873,
+    "name": "Andrew Umeed",
+    "country": "Scotland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1874,
+    "name": "George Bartlett",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1875,
+    "name": "Will Smeed",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1876,
+    "name": "Tom Abell*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Club captain:::Batsmen"
+  },
+  {
+    "id": 1877,
+    "name": "Sean Dickson",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "UK passport:::Batsmen"
+  },
+  {
+    "id": 1878,
+    "name": "George Thomas",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1879,
+    "name": "Craig Overton*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "England pace development contract:::All-rounders"
+  },
+  {
+    "id": 1880,
+    "name": "Tom Lammonby",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1881,
+    "name": "Lewis Gregory*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1882,
+    "name": "Lewis Goldsworthy",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1883,
+    "name": "Roelof van der Merwe*",
+    "country": "Netherlands[a]",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1884,
+    "name": "Ben Green",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "Captain (List A):::All-rounders"
+  },
+  {
+    "id": 1885,
+    "name": "Steven Davies*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1886,
+    "name": "Tom Banton",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1887,
+    "name": "James Rew",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1888,
+    "name": "Tom Kohler-Cadmore",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1889,
+    "name": "Alfie Ogborne",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1890,
+    "name": "Kasey Aldridge",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1891,
+    "name": "Sonny Baker",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1892,
+    "name": "Jack Leach*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "England central contract:::Bowlers"
+  },
+  {
+    "id": 1893,
+    "name": "Ned Leonard",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1894,
+    "name": "Josh Davey*",
+    "country": "Scotland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1895,
+    "name": "Jack Brooks",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1896,
+    "name": "Shoaib Bashir",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1897,
+    "name": "Will Jacks*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1898,
+    "name": "Laurie Evans",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1899,
+    "name": "Ben Geddes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1900,
+    "name": "Rory Burns*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Club captain:::Batsmen"
+  },
+  {
+    "id": 1901,
+    "name": "Jason Roy*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "England incremental contract:::Batsmen"
+  },
+  {
+    "id": 1902,
+    "name": "Ollie Pope*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": "England central contract; Occasional wicket-keeper:::Batsmen"
+  },
+  {
+    "id": 1903,
+    "name": "Dom Sibley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1904,
+    "name": "Jordan Clark*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1905,
+    "name": "Ryan Patel",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1906,
+    "name": "Nico Reifer",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1907,
+    "name": "Tom Lawes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1908,
+    "name": "Cameron Steel",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1909,
+    "name": "Sam Curran*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "England central contract:::All-rounders"
+  },
+  {
+    "id": 1910,
+    "name": "Tom Curran*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1911,
+    "name": "Jamie Overton",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "All-rounders",
+    "notes": "England pace development contract:::All-rounders"
+  },
+  {
+    "id": 1912,
+    "name": "Ben Foakes*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "England central contract:::Wicket-keepers"
+  },
+  {
+    "id": 1913,
+    "name": "Jamie Smith",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1914,
+    "name": "Josh Blake",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1915,
+    "name": "Conor McKerr",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": "UK Passport:::Bowlers"
+  },
+  {
+    "id": 1916,
+    "name": "Matt Dunn",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1917,
+    "name": "Nick Kimber",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1918,
+    "name": "Amar Virdi",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1919,
+    "name": "Dan Moriarty",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "UK Passport:::Bowlers"
+  },
+  {
+    "id": 1920,
+    "name": "Reece Topley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "England incremental contract:::Bowlers"
+  },
+  {
+    "id": 1921,
+    "name": "James Taylor",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1922,
+    "name": "Nathan Barnwell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1923,
+    "name": "Gus Atkinson",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1924,
+    "name": "Daniel Worrall",
+    "country": "Australia",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "UK Passport:::Bowlers"
+  },
+  {
+    "id": 1925,
+    "name": "Yousef Majid",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1926,
+    "name": "Ali Orr",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1927,
+    "name": "Cheteshwar Pujara*",
+    "country": "India",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 1928,
+    "name": "Luke Wright*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "White ball contract:::Batsmen"
+  },
+  {
+    "id": 1929,
+    "name": "Tom Haines*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Club captain:::Batsmen"
+  },
+  {
+    "id": 1930,
+    "name": "Tom Clark",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1931,
+    "name": "James Coles",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1932,
+    "name": "Harrison Ward",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1933,
+    "name": "Delray Rawlins",
+    "country": "Bermuda",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1934,
+    "name": "George Garton",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1935,
+    "name": "Ravi Bopara",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "T20 captain; White ball contract:::All-rounders"
+  },
+  {
+    "id": 1936,
+    "name": "Fynn Hudson-Prentice",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1937,
+    "name": "Danial Ibrahim",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1938,
+    "name": "Tom Hinley",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1939,
+    "name": "Oli Carter",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1940,
+    "name": "Charlie Tear",
+    "country": "Scotland",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1941,
+    "name": "Tom Alsop",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1942,
+    "name": "Henry Crocombe",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1943,
+    "name": "Jack Carson",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1944,
+    "name": "Sean Hunt",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1945,
+    "name": "Jofra Archer*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": "England central contract:::Bowlers"
+  },
+  {
+    "id": 1946,
+    "name": "Ollie Robinson*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "England central contract:::Bowlers"
+  },
+  {
+    "id": 1947,
+    "name": "Jamie Atkins",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1948,
+    "name": "Ari Karvelas",
+    "country": "Greece",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1949,
+    "name": "Archie Lenham",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1950,
+    "name": "Steven Finn*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1951,
+    "name": "Bertie Foreman",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1952,
+    "name": "Jayden Seales",
+    "country": "West Indies",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Overseas player:::Bowlers"
+  },
+  {
+    "id": 1953,
+    "name": "Chris Benjamin",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": "UK Passport:::Batsmen"
+  },
+  {
+    "id": 1954,
+    "name": "Hamza Shaikh",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1955,
+    "name": "Sam Hain*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1956,
+    "name": "Rob Yates",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1957,
+    "name": "Dan Mousley",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1958,
+    "name": "Jacob Bethell",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1959,
+    "name": "Chris Woakes*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "England central contract:::All-rounders"
+  },
+  {
+    "id": 1960,
+    "name": "Will Rhodes*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "Club captain:::All-rounders"
+  },
+  {
+    "id": 1961,
+    "name": "Ethan Brookes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1962,
+    "name": "Ed Barnard",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1963,
+    "name": "Michael Burgess*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1964,
+    "name": "Alex Davies",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1965,
+    "name": "Manraj Johal",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1966,
+    "name": "Henry Brookes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1967,
+    "name": "Danny Briggs*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1968,
+    "name": "Craig Miles",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1969,
+    "name": "Oliver Hannon-Dalby*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1970,
+    "name": "Jake Lintott",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm unorthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1971,
+    "name": "Liam Norwell",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1972,
+    "name": "George Garrett",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1973,
+    "name": "Che Simmons",
+    "country": "Barbados",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "UK passport:::Bowlers"
+  },
+  {
+    "id": 1974,
+    "name": "Chris Rushworth",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1975,
+    "name": "Jake Libby",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1976,
+    "name": "Ed Pollock",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1977,
+    "name": "Jack Haynes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1978,
+    "name": "Kashif Ali",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1979,
+    "name": "Taylor Cornall",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1980,
+    "name": "Azhar Ali",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 1981,
+    "name": "Oli Cox",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1982,
+    "name": "Adam Hose",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1983,
+    "name": "Matthew Waite",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1984,
+    "name": "Brett D'Oliveira",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": "Club captain:::All-rounders"
+  },
+  {
+    "id": 1985,
+    "name": "Rehaan Edavalath",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 1986,
+    "name": "Gareth Roderick",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Wicket-keepers",
+    "notes": "UK Passport:::Wicket-keepers"
+  },
+  {
+    "id": 1987,
+    "name": "Ben Cox",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1988,
+    "name": "Henry Cullen",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 1989,
+    "name": "Ben Gibbon",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1990,
+    "name": "Dillon Pennington",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1991,
+    "name": "Joe Leach",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1992,
+    "name": "Josh Tongue",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1993,
+    "name": "Charlie Morris",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1994,
+    "name": "Josh Baker",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1995,
+    "name": "Pat Brown",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1996,
+    "name": "Mitchell Stanley",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1997,
+    "name": "Adam Finch",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 1998,
+    "name": "Adam Lyth*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 1999,
+    "name": "Gary Ballance*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2000,
+    "name": "James Wharton",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2001,
+    "name": "Dawid Malan*",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "England incremental contract:::Batsmen"
+  },
+  {
+    "id": 2002,
+    "name": "Will Fraine",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2003,
+    "name": "Finlay Bean",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2004,
+    "name": "Joe Root*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "England central contract:::Batsmen"
+  },
+  {
+    "id": 2005,
+    "name": "Will Luxton",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2006,
+    "name": "Harry Brook*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "England incremental contract:::Batsmen"
+  },
+  {
+    "id": 2007,
+    "name": "Shan Masood",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Club Captain; Overseas player:::Batsmen"
+  },
+  {
+    "id": 2008,
+    "name": "Matthew Fisher*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "England pace development contract:::All-rounders"
+  },
+  {
+    "id": 2009,
+    "name": "Ben Mike",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2010,
+    "name": "George Hill",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2011,
+    "name": "Jordan Thompson",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2012,
+    "name": "Dom Bess*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2013,
+    "name": "Matt Revis",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2014,
+    "name": "Jonathan Tattersall*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2015,
+    "name": "Jonny Bairstow*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Wicket-keepers",
+    "notes": "England central contract:::Wicket-keepers"
+  },
+  {
+    "id": 2016,
+    "name": "Harry Duke",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2017,
+    "name": "Adil Rashid*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Bowlers",
+    "notes": "White ball contract; England central contract:::Bowlers"
+  },
+  {
+    "id": 2018,
+    "name": "Dom Leech",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2019,
+    "name": "Ben Coad*",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2020,
+    "name": "Jack Shutt",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2021,
+    "name": "Ben Cliff",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2022,
+    "name": "Matt Milnes",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2023,
+    "name": "Andrew Balbirnie",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2024,
+    "name": "Jack Tector",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2025,
+    "name": "Tim Tector",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2026,
+    "name": "Kevin O'Brien",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2027,
+    "name": "Simi Singh",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2028,
+    "name": "George Dockrell",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2029,
+    "name": "Lorcan Tucker",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2030,
+    "name": "Jamie Grassi",
+    "country": "Italy",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2031,
+    "name": "Peter Chase",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2032,
+    "name": "Gavin Hoey",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2033,
+    "name": "Joshua Little",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2034,
+    "name": "Barry McCarthy",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2035,
+    "name": "JJ Garth",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2036,
+    "name": "Rory Anders",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2037,
+    "name": "David O'Halloran",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2038,
+    "name": "James Newland",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2039,
+    "name": "William Porterfield",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": "Assistant Coach:::Batsmen"
+  },
+  {
+    "id": 2040,
+    "name": "Stephen Doheny",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2041,
+    "name": "Nathan McGuire",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2042,
+    "name": "William McClintock",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2043,
+    "name": "Aaron Gillespie",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2044,
+    "name": "Kyle Magee",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2045,
+    "name": "Stuart Thompson",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2046,
+    "name": "Shane Getkate",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2047,
+    "name": "Graham Kennedy",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2048,
+    "name": "Andy McBrine",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "All-rounders",
+    "notes": "Captain:::All-rounders"
+  },
+  {
+    "id": 2049,
+    "name": "Graham Hume",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2050,
+    "name": "Will Smale",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2051,
+    "name": "Boyd Rankin",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2052,
+    "name": "Craig Young",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2053,
+    "name": "Ross Allen",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2054,
+    "name": "Conor Olphert",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2055,
+    "name": "Varun Chopra",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2056,
+    "name": "Harry Tector",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2057,
+    "name": "James McCollum",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium",
+    "player_type": "Batsmen",
+    "notes": "Vice-captain:::Batsmen"
+  },
+  {
+    "id": 2058,
+    "name": "Jeremy Lawlor",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium/off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2059,
+    "name": "John Matchett",
+    "country": "Ireland",
+    "batting_style": "",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2060,
+    "name": "Paul Stirling",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off-break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2061,
+    "name": "Mark Adair",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2062,
+    "name": "Luke Georgeson",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Irish passport holder:::All-rounders"
+  },
+  {
+    "id": 2063,
+    "name": "Ruhan Pretorious",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Eligible for Ireland in early 2022:::All-rounders"
+  },
+  {
+    "id": 2064,
+    "name": "Neil Rock",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2065,
+    "name": "Graeme McCarter",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2066,
+    "name": "David Delany",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2067,
+    "name": "Matthew Foster",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2068,
+    "name": "James Cameron-Dow",
+    "country": "Ireland",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2069,
+    "name": "Ben White",
+    "country": "Ireland",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg-break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2070,
+    "name": "",
+    "country": "",
+    "batting_style": "",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2071,
+    "name": "Graeme Beghin",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2072,
+    "name": "Martin Guptill",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "NZC contract:::Batsmen"
+  },
+  {
+    "id": 2073,
+    "name": "Colin Munro",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2074,
+    "name": "Robert O'Donnell",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2075,
+    "name": "Mark Chapman",
+    "country": "New Zealand Hong Kong",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Local contract via NZ citizenship:::All-rounders"
+  },
+  {
+    "id": 2076,
+    "name": "William O'Donnell",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2077,
+    "name": "Ollie Pringle",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2078,
+    "name": "Sean Solia",
+    "country": "Samoa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2079,
+    "name": "Kyle Jamieson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "NZC contract:::All-rounders"
+  },
+  {
+    "id": 2080,
+    "name": "",
+    "country": "",
+    "batting_style": "",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2081,
+    "name": "Ben Horne",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2082,
+    "name": "Jamie Brown",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2083,
+    "name": "Louis Delport",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm Slow left arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2084,
+    "name": "Danru Ferns",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2085,
+    "name": "Benjamin Lister",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2086,
+    "name": "Matthew McEwan",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2087,
+    "name": "Ross ter Braak",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2088,
+    "name": "Will Somerville",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2089,
+    "name": "Nick Greenwood",
+    "country": "Jersey",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2090,
+    "name": "Troy Johnson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2091,
+    "name": "Tim Robinson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2092,
+    "name": "Jakob Bhula",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2093,
+    "name": "Michael Bracewell",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2094,
+    "name": "Jamie Gibson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2095,
+    "name": "Rachin Ravindra",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2096,
+    "name": "Nathan Smith",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2097,
+    "name": "Logan van Beek",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2098,
+    "name": "Peter Younghusband",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2099,
+    "name": "Tom Blundell",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2100,
+    "name": "Callum McLachlan",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2101,
+    "name": "Hamish Bennett",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2102,
+    "name": "Iain McPeake",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2103,
+    "name": "Ollie Newton",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2104,
+    "name": "Ben Sears",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2105,
+    "name": "Michael Snedden",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2106,
+    "name": "Leo Carter",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2107,
+    "name": "Chad Bowes",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2108,
+    "name": "Ken McClure",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2109,
+    "name": "Jack Boyle",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2110,
+    "name": "Henry Nicholls",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "NZC contract:::Batsmen"
+  },
+  {
+    "id": 2111,
+    "name": "Cole McConchie",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "All-rounders",
+    "notes": "Captain:::All-rounders"
+  },
+  {
+    "id": 2112,
+    "name": "Henry Shipley",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2113,
+    "name": "Cameron Fletcher",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2114,
+    "name": "Mitchell Hay",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2115,
+    "name": "Tom Latham",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": "NZC contract:::Wicket-keepers"
+  },
+  {
+    "id": 2116,
+    "name": "Theo van Woerkom",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2117,
+    "name": "Todd Astle",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2118,
+    "name": "Blake Coburn",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm unorthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2119,
+    "name": "Edward Nuttall",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2120,
+    "name": "Matt Henry",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": "NZC contract:::Pace Bowlers"
+  },
+  {
+    "id": 2121,
+    "name": "Fraser Sheat",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2122,
+    "name": "Matt Bacon",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2123,
+    "name": "Max Chu",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2124,
+    "name": "Jacob Cumming",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2125,
+    "name": "Jacob Duffy",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2126,
+    "name": "Josh Finnie",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2127,
+    "name": "Dean Foxcroft",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2128,
+    "name": "Jake Gibson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2129,
+    "name": "Andrew Hazeldine",
+    "country": "England",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast",
+    "player_type": "Batsmen",
+    "notes": "Holds dual British/New Zealand citizenship:::Batsmen"
+  },
+  {
+    "id": 2130,
+    "name": "Llew Johnson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2131,
+    "name": "Ben Lockrose",
+    "country": "England",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2132,
+    "name": "Jarrod McKay",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2133,
+    "name": "Travis Muller",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2134,
+    "name": "Dale Phillips",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2135,
+    "name": "Michael Rae",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2136,
+    "name": "Michael Rippon",
+    "country": "Netherlands",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm unorthodox spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2137,
+    "name": "Hamish Rutherford",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2138,
+    "name": "Dane Cleaver",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Leg break",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2139,
+    "name": "Bayley Wiggins",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2140,
+    "name": "Ma'ara Ave",
+    "country": "Cook Islands",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2141,
+    "name": "Curtis Heaphy",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2142,
+    "name": "Will Young",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": "NZC contract:::Batsmen"
+  },
+  {
+    "id": 2143,
+    "name": "Ross Taylor",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2144,
+    "name": "Tom Bruce",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2145,
+    "name": "Greg Hay",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2146,
+    "name": "Ben Smith",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2147,
+    "name": "Brad Schmulian",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Leg break",
+    "player_type": "Batsmen",
+    "notes": "CDCA contract:::Batsmen"
+  },
+  {
+    "id": 2148,
+    "name": "Doug Bracewell",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Allrounders",
+    "notes": "CDCA contract:::Allrounders"
+  },
+  {
+    "id": 2149,
+    "name": "Ben Wheeler",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left arm medium-fast",
+    "player_type": "Allrounders",
+    "notes": ":::Allrounders"
+  },
+  {
+    "id": 2150,
+    "name": "Josh Clarkson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Allrounders",
+    "notes": "CDCA contract:::Allrounders"
+  },
+  {
+    "id": 2151,
+    "name": "Christian Leopard",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Allrounders",
+    "notes": ":::Allrounders"
+  },
+  {
+    "id": 2152,
+    "name": "Will Clark",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Allrounders",
+    "notes": ":::Allrounders"
+  },
+  {
+    "id": 2153,
+    "name": "Seth Rance",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "CDCA contract:::Bowlers"
+  },
+  {
+    "id": 2154,
+    "name": "Blair Tickner",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "NZC contract:::Bowlers"
+  },
+  {
+    "id": 2155,
+    "name": "Ray Toole",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "CDCA contract:::Bowlers"
+  },
+  {
+    "id": 2156,
+    "name": "Ajaz Patel",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "NZC contract:::Bowlers"
+  },
+  {
+    "id": 2157,
+    "name": "Jayden Lennox",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "CDCA contract:::Bowlers"
+  },
+  {
+    "id": 2158,
+    "name": "Joey Field",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "CDCA contract:::Bowlers"
+  },
+  {
+    "id": 2159,
+    "name": "Brett Randell",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "CDCA contract:::Bowlers"
+  },
+  {
+    "id": 2160,
+    "name": "Liam Dudding",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "CDCA contract:::Bowlers"
+  },
+  {
+    "id": 2161,
+    "name": "Dean Brownlie",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2162,
+    "name": "Jeet Raval",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left arm leg break & googly",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2163,
+    "name": "Joe Carter",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2164,
+    "name": "Henry Cooper",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2165,
+    "name": "Katene Clarke",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm slow-medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2166,
+    "name": "Colin de Grandhomme",
+    "country": "New Zealand",
+    "batting_style": "Right handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "NZC contract:::All-rounders"
+  },
+  {
+    "id": 2167,
+    "name": "Anton Devcich",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2168,
+    "name": "Brett Hampton",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2169,
+    "name": "BJ Watling",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "NZC contract:::Wicket-keepers"
+  },
+  {
+    "id": 2170,
+    "name": "Peter Bocock",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2171,
+    "name": "Neil Wagner",
+    "country": "New Zealand",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast–medium",
+    "player_type": "Bowlers",
+    "notes": "NZC contract:::Bowlers"
+  },
+  {
+    "id": 2172,
+    "name": "Ish Sodhi",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "Bowlers",
+    "notes": "NZC contract:::Bowlers"
+  },
+  {
+    "id": 2173,
+    "name": "Scott Kuggeleijn",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2174,
+    "name": "James Baker",
+    "country": "Samoa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2175,
+    "name": "Zak Gibson",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2176,
+    "name": "Matthew Fisher",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2177,
+    "name": "Anurag Verma",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2178,
+    "name": "Joe Walker",
+    "country": "New Zealand",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off-spin",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2179,
+    "name": "Alex Hales",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Batsmen",
+    "notes": "Mentor:::Batsmen"
+  },
+  {
+    "id": 2180,
+    "name": "Asif Ali",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "Batsmen",
+    "notes": "Vice Captain:::Batsmen"
+  },
+  {
+    "id": 2181,
+    "name": "Mohammad Huraira",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": "Partial replacement for Zeeshan Zameer:::Batsmen"
+  },
+  {
+    "id": 2182,
+    "name": "Nasir Nawaz",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Batsmen",
+    "notes": "Partial replacement for Alex Hales:::Batsmen"
+  },
+  {
+    "id": 2183,
+    "name": "Shadab Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R leg break",
+    "player_type": "All-rounders",
+    "notes": "Captain; ambassador:::All-rounders"
+  },
+  {
+    "id": 2184,
+    "name": "Will Jacks",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "All-rounders",
+    "notes": "Replacement for Rahmanullah Gurbaz from team's 9th match:::All-rounders"
+  },
+  {
+    "id": 2185,
+    "name": "Danish Aziz",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2186,
+    "name": "Zeeshan Zameer",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2187,
+    "name": "Faheem Ashraf",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "R fast medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2188,
+    "name": "Mubasir Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2189,
+    "name": "Mohammad Wasim",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2190,
+    "name": "Liam Dawson",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Partial replacement of Paul Stirling who will leave for national duties:::All-rounders"
+  },
+  {
+    "id": 2191,
+    "name": "Azam Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2192,
+    "name": "Muhammad Akhlaq",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2193,
+    "name": "Athar Mahmood",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2194,
+    "name": "Muhammad Musa",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2195,
+    "name": "Zafar Gohar",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2196,
+    "name": "Hasan Ali",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2197,
+    "name": "Waqas Maqsood",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "L medium fast",
+    "player_type": "Bowlers",
+    "notes": "Replacement for Reece Topley:::Bowlers"
+  },
+  {
+    "id": 2198,
+    "name": "Zahid Mahmood",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R leg break",
+    "player_type": "Bowlers",
+    "notes": "Cover for Shadab Khan:::Bowlers"
+  },
+  {
+    "id": 2199,
+    "name": "Ian Cockbain",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Batsmen",
+    "notes": "Full replacement for Tom Abell:::Batsmen"
+  },
+  {
+    "id": 2200,
+    "name": "Sahibzada Farhan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2201,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2202,
+    "name": "Sharjeel Khan",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "R leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2203,
+    "name": "Tom Abell",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2204,
+    "name": "Imad Wasim",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Vice-Captain:::All-rounders"
+  },
+  {
+    "id": 2205,
+    "name": "Faisal Akram",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "L wrist spin",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2206,
+    "name": "Aamer Yamin",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2207,
+    "name": "Qasim Akram",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2208,
+    "name": "Mohammad Taha",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Partial replacement for Qasim Akram:::All-rounders"
+  },
+  {
+    "id": 2209,
+    "name": "Rohail Nazir",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2210,
+    "name": "Joe Clarke",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": "Ambassador:::Wicket-keepers"
+  },
+  {
+    "id": 2211,
+    "name": "Mohammad Ilyas",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2212,
+    "name": "Mohammad Amir",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "L fast medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2213,
+    "name": "Umaid Asif",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2214,
+    "name": "Mohammad Imran",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2215,
+    "name": "Talha Ahsan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R leg-break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2216,
+    "name": "Usman Shinwari",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L fast medium",
+    "player_type": "Bowlers",
+    "notes": "Full replacement for Mohammad Ilyas:::Bowlers"
+  },
+  {
+    "id": 2217,
+    "name": "Mir Hamza",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "L fast medium",
+    "player_type": "Bowlers",
+    "notes": "Partial replacement for Mohammad Imran:::Bowlers"
+  },
+  {
+    "id": 2218,
+    "name": "Romario Shepherd",
+    "country": "Guyana",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
   }
 ]
