@@ -547,7 +547,7 @@
     "level": "Domestic",
     "abbr": "Amo Region",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Amo_Region_cricket_team"
+    "link": "https://www.sportskeeda.com/team/amo-sharks"
   },
   {
     "id": 56,
@@ -557,7 +557,7 @@
     "level": "Domestic",
     "abbr": "Band-e-Amir Region",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Band-e-Amir_Region_cricket_team"
+    "link": "https://www.sportskeeda.com/team/band-e-amir-region"
   },
   {
     "id": 57,
@@ -567,7 +567,7 @@
     "level": "Domestic",
     "abbr": "Boost Region",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Boost_Region_cricket_team"
+    "link": "https://www.sportskeeda.com/team/boost-region"
   },
   {
     "id": 58,
@@ -577,7 +577,7 @@
     "level": "Domestic",
     "abbr": "Kabul Region",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Kabul_Eagles"
+    "link": "https://www.sportskeeda.com/team/kabul-eagles"
   },
   {
     "id": 59,
@@ -587,7 +587,7 @@
     "level": "Domestic",
     "abbr": "Mis Ainak Region",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Mis_Ainak_Region_cricket_team"
+    "link": "https://www.sportskeeda.com/team/mis-ainak-knights"
   },
   {
     "id": 60,
@@ -597,7 +597,7 @@
     "level": "Domestic",
     "abbr": "Speen Ghar Region",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Speen_Ghar_Region_cricket_team"
+    "link": "https://www.sportskeeda.com/team/speen-ghar-tigers"
   },
   {
     "id": 61,
@@ -807,7 +807,7 @@
     "level": "Domestic",
     "abbr": "Biman Bangladesh Airlines",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Barisal_Division_cricket_team"
   },
   {
     "id": 82,
@@ -817,7 +817,7 @@
     "level": "Domestic",
     "abbr": "Chittagong Division",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Chittagong_Division_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Barisal_Division_cricket_team"
   },
   {
     "id": 83,
@@ -827,7 +827,7 @@
     "level": "Domestic",
     "abbr": "Dhaka Division",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Dhaka_Division_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Barisal_Division_cricket_team"
   },
   {
     "id": 84,
@@ -837,7 +837,7 @@
     "level": "Domestic",
     "abbr": "Dhaka Metropolis",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Dhaka_Metropolis_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Barisal_Division_cricket_team"
   },
   {
     "id": 85,
@@ -877,7 +877,7 @@
     "level": "Domestic",
     "abbr": "Sylhet Division",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Sylhet_Division_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Rajshahi_Division_cricket_team"
   },
   {
     "id": 89,
@@ -907,7 +907,7 @@
     "level": "Domestic",
     "abbr": "City Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/City_Club_(cricket)"
+    "link": "https://en.wikipedia.org/wiki/Abahani_Limited_cricket_team"
   },
   {
     "id": 92,
@@ -967,7 +967,7 @@
     "level": "Domestic",
     "abbr": "Rupganj Tigers Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Rupganj_Tigers_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Prime_Bank_Cricket_Club"
   },
   {
     "id": 98,
@@ -987,7 +987,7 @@
     "level": "Domestic",
     "abbr": "Shinepukur Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Shinepukur_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 100,
@@ -997,7 +997,7 @@
     "level": "Domestic",
     "abbr": "Chattogram Challengers",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Chattogram_Challengers"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 101,
@@ -1007,7 +1007,7 @@
     "level": "Domestic",
     "abbr": "Comilla Victorians",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Comilla_Victorians"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 102,
@@ -1017,7 +1017,7 @@
     "level": "Domestic",
     "abbr": "Dhaka Team",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Minister_Dhaka"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 103,
@@ -1027,7 +1027,7 @@
     "level": "Domestic",
     "abbr": "Fortune Barishal",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Fortune_Barishal"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 104,
@@ -1037,7 +1037,7 @@
     "level": "Domestic",
     "abbr": "Khulna Tigers",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Khulna_Tigers"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 105,
@@ -1047,7 +1047,7 @@
     "level": "Domestic",
     "abbr": "Rangpur Riders",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Rangpur_Riders"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 106,
@@ -1057,7 +1057,7 @@
     "level": "Domestic",
     "abbr": "Sylhet Strikers",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Sylhet_Strikers"
+    "link": "https://en.wikipedia.org/wiki/Sheikh_Jamal_Dhanmondi_Club_cricket_team"
   },
   {
     "id": 107,

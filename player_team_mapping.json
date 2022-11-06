@@ -1,0 +1,11177 @@
+[
+  {
+    "id": 1,
+    "player_id": 1,
+    "team_id": 1
+  },
+  {
+    "id": 2,
+    "player_id": 2,
+    "team_id": 1
+  },
+  {
+    "id": 3,
+    "player_id": 3,
+    "team_id": 1
+  },
+  {
+    "id": 4,
+    "player_id": 4,
+    "team_id": 1
+  },
+  {
+    "id": 5,
+    "player_id": 5,
+    "team_id": 1
+  },
+  {
+    "id": 6,
+    "player_id": 6,
+    "team_id": 1
+  },
+  {
+    "id": 7,
+    "player_id": 7,
+    "team_id": 1
+  },
+  {
+    "id": 8,
+    "player_id": 8,
+    "team_id": 1
+  },
+  {
+    "id": 9,
+    "player_id": 9,
+    "team_id": 1
+  },
+  {
+    "id": 10,
+    "player_id": 10,
+    "team_id": 1
+  },
+  {
+    "id": 11,
+    "player_id": 11,
+    "team_id": 1
+  },
+  {
+    "id": 12,
+    "player_id": 12,
+    "team_id": 1
+  },
+  {
+    "id": 13,
+    "player_id": 13,
+    "team_id": 1
+  },
+  {
+    "id": 14,
+    "player_id": 14,
+    "team_id": 1
+  },
+  {
+    "id": 15,
+    "player_id": 15,
+    "team_id": 1
+  },
+  {
+    "id": 16,
+    "player_id": 16,
+    "team_id": 1
+  },
+  {
+    "id": 17,
+    "player_id": 17,
+    "team_id": 1
+  },
+  {
+    "id": 18,
+    "player_id": 18,
+    "team_id": 1
+  },
+  {
+    "id": 19,
+    "player_id": 19,
+    "team_id": 1
+  },
+  {
+    "id": 20,
+    "player_id": 20,
+    "team_id": 1
+  },
+  {
+    "id": 21,
+    "player_id": 21,
+    "team_id": 1
+  },
+  {
+    "id": 22,
+    "player_id": 22,
+    "team_id": 1
+  },
+  {
+    "id": 23,
+    "player_id": 23,
+    "team_id": 1
+  },
+  {
+    "id": 24,
+    "player_id": 24,
+    "team_id": 1
+  },
+  {
+    "id": 25,
+    "player_id": 25,
+    "team_id": 2
+  },
+  {
+    "id": 26,
+    "player_id": 26,
+    "team_id": 2
+  },
+  {
+    "id": 27,
+    "player_id": 27,
+    "team_id": 2
+  },
+  {
+    "id": 28,
+    "player_id": 28,
+    "team_id": 2
+  },
+  {
+    "id": 29,
+    "player_id": 29,
+    "team_id": 2
+  },
+  {
+    "id": 30,
+    "player_id": 30,
+    "team_id": 2
+  },
+  {
+    "id": 31,
+    "player_id": 31,
+    "team_id": 2
+  },
+  {
+    "id": 32,
+    "player_id": 32,
+    "team_id": 2
+  },
+  {
+    "id": 33,
+    "player_id": 33,
+    "team_id": 2
+  },
+  {
+    "id": 34,
+    "player_id": 34,
+    "team_id": 2
+  },
+  {
+    "id": 35,
+    "player_id": 35,
+    "team_id": 2
+  },
+  {
+    "id": 36,
+    "player_id": 36,
+    "team_id": 2
+  },
+  {
+    "id": 37,
+    "player_id": 37,
+    "team_id": 2
+  },
+  {
+    "id": 38,
+    "player_id": 38,
+    "team_id": 2
+  },
+  {
+    "id": 39,
+    "player_id": 39,
+    "team_id": 2
+  },
+  {
+    "id": 40,
+    "player_id": 40,
+    "team_id": 2
+  },
+  {
+    "id": 41,
+    "player_id": 41,
+    "team_id": 2
+  },
+  {
+    "id": 42,
+    "player_id": 42,
+    "team_id": 2
+  },
+  {
+    "id": 43,
+    "player_id": 43,
+    "team_id": 2
+  },
+  {
+    "id": 44,
+    "player_id": 44,
+    "team_id": 3
+  },
+  {
+    "id": 45,
+    "player_id": 45,
+    "team_id": 3
+  },
+  {
+    "id": 46,
+    "player_id": 46,
+    "team_id": 3
+  },
+  {
+    "id": 47,
+    "player_id": 47,
+    "team_id": 3
+  },
+  {
+    "id": 48,
+    "player_id": 48,
+    "team_id": 3
+  },
+  {
+    "id": 49,
+    "player_id": 49,
+    "team_id": 3
+  },
+  {
+    "id": 50,
+    "player_id": 50,
+    "team_id": 3
+  },
+  {
+    "id": 51,
+    "player_id": 51,
+    "team_id": 3
+  },
+  {
+    "id": 52,
+    "player_id": 52,
+    "team_id": 3
+  },
+  {
+    "id": 53,
+    "player_id": 53,
+    "team_id": 3
+  },
+  {
+    "id": 54,
+    "player_id": 54,
+    "team_id": 3
+  },
+  {
+    "id": 55,
+    "player_id": 55,
+    "team_id": 3
+  },
+  {
+    "id": 56,
+    "player_id": 56,
+    "team_id": 3
+  },
+  {
+    "id": 57,
+    "player_id": 57,
+    "team_id": 3
+  },
+  {
+    "id": 58,
+    "player_id": 58,
+    "team_id": 3
+  },
+  {
+    "id": 59,
+    "player_id": 59,
+    "team_id": 3
+  },
+  {
+    "id": 60,
+    "player_id": 60,
+    "team_id": 3
+  },
+  {
+    "id": 61,
+    "player_id": 61,
+    "team_id": 3
+  },
+  {
+    "id": 62,
+    "player_id": 62,
+    "team_id": 3
+  },
+  {
+    "id": 63,
+    "player_id": 63,
+    "team_id": 3
+  },
+  {
+    "id": 64,
+    "player_id": 64,
+    "team_id": 3
+  },
+  {
+    "id": 65,
+    "player_id": 65,
+    "team_id": 3
+  },
+  {
+    "id": 66,
+    "player_id": 66,
+    "team_id": 3
+  },
+  {
+    "id": 67,
+    "player_id": 67,
+    "team_id": 3
+  },
+  {
+    "id": 68,
+    "player_id": 68,
+    "team_id": 3
+  },
+  {
+    "id": 69,
+    "player_id": 69,
+    "team_id": 4
+  },
+  {
+    "id": 70,
+    "player_id": 70,
+    "team_id": 4
+  },
+  {
+    "id": 71,
+    "player_id": 71,
+    "team_id": 4
+  },
+  {
+    "id": 72,
+    "player_id": 72,
+    "team_id": 4
+  },
+  {
+    "id": 73,
+    "player_id": 73,
+    "team_id": 4
+  },
+  {
+    "id": 74,
+    "player_id": 74,
+    "team_id": 4
+  },
+  {
+    "id": 75,
+    "player_id": 75,
+    "team_id": 4
+  },
+  {
+    "id": 76,
+    "player_id": 76,
+    "team_id": 4
+  },
+  {
+    "id": 77,
+    "player_id": 77,
+    "team_id": 4
+  },
+  {
+    "id": 78,
+    "player_id": 78,
+    "team_id": 4
+  },
+  {
+    "id": 79,
+    "player_id": 79,
+    "team_id": 4
+  },
+  {
+    "id": 80,
+    "player_id": 80,
+    "team_id": 4
+  },
+  {
+    "id": 81,
+    "player_id": 81,
+    "team_id": 4
+  },
+  {
+    "id": 82,
+    "player_id": 82,
+    "team_id": 4
+  },
+  {
+    "id": 83,
+    "player_id": 83,
+    "team_id": 4
+  },
+  {
+    "id": 84,
+    "player_id": 84,
+    "team_id": 4
+  },
+  {
+    "id": 85,
+    "player_id": 85,
+    "team_id": 4
+  },
+  {
+    "id": 86,
+    "player_id": 86,
+    "team_id": 4
+  },
+  {
+    "id": 87,
+    "player_id": 87,
+    "team_id": 4
+  },
+  {
+    "id": 88,
+    "player_id": 88,
+    "team_id": 4
+  },
+  {
+    "id": 89,
+    "player_id": 89,
+    "team_id": 4
+  },
+  {
+    "id": 90,
+    "player_id": 90,
+    "team_id": 4
+  },
+  {
+    "id": 91,
+    "player_id": 91,
+    "team_id": 4
+  },
+  {
+    "id": 92,
+    "player_id": 92,
+    "team_id": 4
+  },
+  {
+    "id": 93,
+    "player_id": 93,
+    "team_id": 4
+  },
+  {
+    "id": 94,
+    "player_id": 94,
+    "team_id": 5
+  },
+  {
+    "id": 95,
+    "player_id": 95,
+    "team_id": 5
+  },
+  {
+    "id": 96,
+    "player_id": 96,
+    "team_id": 5
+  },
+  {
+    "id": 97,
+    "player_id": 97,
+    "team_id": 5
+  },
+  {
+    "id": 98,
+    "player_id": 98,
+    "team_id": 5
+  },
+  {
+    "id": 99,
+    "player_id": 99,
+    "team_id": 5
+  },
+  {
+    "id": 100,
+    "player_id": 100,
+    "team_id": 5
+  },
+  {
+    "id": 101,
+    "player_id": 101,
+    "team_id": 5
+  },
+  {
+    "id": 102,
+    "player_id": 102,
+    "team_id": 5
+  },
+  {
+    "id": 103,
+    "player_id": 103,
+    "team_id": 5
+  },
+  {
+    "id": 104,
+    "player_id": 104,
+    "team_id": 5
+  },
+  {
+    "id": 105,
+    "player_id": 105,
+    "team_id": 5
+  },
+  {
+    "id": 106,
+    "player_id": 106,
+    "team_id": 5
+  },
+  {
+    "id": 107,
+    "player_id": 107,
+    "team_id": 5
+  },
+  {
+    "id": 108,
+    "player_id": 108,
+    "team_id": 5
+  },
+  {
+    "id": 109,
+    "player_id": 109,
+    "team_id": 5
+  },
+  {
+    "id": 110,
+    "player_id": 110,
+    "team_id": 5
+  },
+  {
+    "id": 111,
+    "player_id": 111,
+    "team_id": 5
+  },
+  {
+    "id": 112,
+    "player_id": 112,
+    "team_id": 5
+  },
+  {
+    "id": 113,
+    "player_id": 113,
+    "team_id": 5
+  },
+  {
+    "id": 114,
+    "player_id": 114,
+    "team_id": 5
+  },
+  {
+    "id": 115,
+    "player_id": 115,
+    "team_id": 5
+  },
+  {
+    "id": 116,
+    "player_id": 116,
+    "team_id": 5
+  },
+  {
+    "id": 117,
+    "player_id": 117,
+    "team_id": 5
+  },
+  {
+    "id": 118,
+    "player_id": 118,
+    "team_id": 6
+  },
+  {
+    "id": 119,
+    "player_id": 119,
+    "team_id": 6
+  },
+  {
+    "id": 120,
+    "player_id": 120,
+    "team_id": 6
+  },
+  {
+    "id": 121,
+    "player_id": 121,
+    "team_id": 6
+  },
+  {
+    "id": 122,
+    "player_id": 122,
+    "team_id": 6
+  },
+  {
+    "id": 123,
+    "player_id": 123,
+    "team_id": 6
+  },
+  {
+    "id": 124,
+    "player_id": 124,
+    "team_id": 6
+  },
+  {
+    "id": 125,
+    "player_id": 125,
+    "team_id": 6
+  },
+  {
+    "id": 126,
+    "player_id": 126,
+    "team_id": 6
+  },
+  {
+    "id": 127,
+    "player_id": 127,
+    "team_id": 6
+  },
+  {
+    "id": 128,
+    "player_id": 128,
+    "team_id": 6
+  },
+  {
+    "id": 129,
+    "player_id": 129,
+    "team_id": 6
+  },
+  {
+    "id": 130,
+    "player_id": 130,
+    "team_id": 6
+  },
+  {
+    "id": 131,
+    "player_id": 131,
+    "team_id": 6
+  },
+  {
+    "id": 132,
+    "player_id": 132,
+    "team_id": 6
+  },
+  {
+    "id": 133,
+    "player_id": 133,
+    "team_id": 6
+  },
+  {
+    "id": 134,
+    "player_id": 134,
+    "team_id": 6
+  },
+  {
+    "id": 135,
+    "player_id": 135,
+    "team_id": 6
+  },
+  {
+    "id": 136,
+    "player_id": 136,
+    "team_id": 6
+  },
+  {
+    "id": 137,
+    "player_id": 137,
+    "team_id": 6
+  },
+  {
+    "id": 138,
+    "player_id": 138,
+    "team_id": 6
+  },
+  {
+    "id": 139,
+    "player_id": 139,
+    "team_id": 6
+  },
+  {
+    "id": 140,
+    "player_id": 140,
+    "team_id": 7
+  },
+  {
+    "id": 141,
+    "player_id": 141,
+    "team_id": 7
+  },
+  {
+    "id": 142,
+    "player_id": 142,
+    "team_id": 7
+  },
+  {
+    "id": 143,
+    "player_id": 143,
+    "team_id": 7
+  },
+  {
+    "id": 144,
+    "player_id": 144,
+    "team_id": 7
+  },
+  {
+    "id": 145,
+    "player_id": 145,
+    "team_id": 7
+  },
+  {
+    "id": 146,
+    "player_id": 146,
+    "team_id": 7
+  },
+  {
+    "id": 147,
+    "player_id": 147,
+    "team_id": 7
+  },
+  {
+    "id": 148,
+    "player_id": 148,
+    "team_id": 7
+  },
+  {
+    "id": 149,
+    "player_id": 149,
+    "team_id": 7
+  },
+  {
+    "id": 150,
+    "player_id": 150,
+    "team_id": 7
+  },
+  {
+    "id": 151,
+    "player_id": 151,
+    "team_id": 7
+  },
+  {
+    "id": 152,
+    "player_id": 152,
+    "team_id": 7
+  },
+  {
+    "id": 153,
+    "player_id": 153,
+    "team_id": 7
+  },
+  {
+    "id": 154,
+    "player_id": 154,
+    "team_id": 7
+  },
+  {
+    "id": 155,
+    "player_id": 155,
+    "team_id": 7
+  },
+  {
+    "id": 156,
+    "player_id": 156,
+    "team_id": 7
+  },
+  {
+    "id": 157,
+    "player_id": 157,
+    "team_id": 7
+  },
+  {
+    "id": 158,
+    "player_id": 158,
+    "team_id": 7
+  },
+  {
+    "id": 159,
+    "player_id": 159,
+    "team_id": 7
+  },
+  {
+    "id": 160,
+    "player_id": 160,
+    "team_id": 8
+  },
+  {
+    "id": 161,
+    "player_id": 161,
+    "team_id": 8
+  },
+  {
+    "id": 162,
+    "player_id": 162,
+    "team_id": 8
+  },
+  {
+    "id": 163,
+    "player_id": 163,
+    "team_id": 8
+  },
+  {
+    "id": 164,
+    "player_id": 164,
+    "team_id": 8
+  },
+  {
+    "id": 165,
+    "player_id": 165,
+    "team_id": 8
+  },
+  {
+    "id": 166,
+    "player_id": 166,
+    "team_id": 8
+  },
+  {
+    "id": 167,
+    "player_id": 167,
+    "team_id": 8
+  },
+  {
+    "id": 168,
+    "player_id": 168,
+    "team_id": 8
+  },
+  {
+    "id": 169,
+    "player_id": 169,
+    "team_id": 8
+  },
+  {
+    "id": 170,
+    "player_id": 170,
+    "team_id": 8
+  },
+  {
+    "id": 171,
+    "player_id": 171,
+    "team_id": 8
+  },
+  {
+    "id": 172,
+    "player_id": 172,
+    "team_id": 8
+  },
+  {
+    "id": 173,
+    "player_id": 173,
+    "team_id": 8
+  },
+  {
+    "id": 174,
+    "player_id": 174,
+    "team_id": 8
+  },
+  {
+    "id": 175,
+    "player_id": 175,
+    "team_id": 8
+  },
+  {
+    "id": 176,
+    "player_id": 176,
+    "team_id": 8
+  },
+  {
+    "id": 177,
+    "player_id": 177,
+    "team_id": 8
+  },
+  {
+    "id": 178,
+    "player_id": 178,
+    "team_id": 8
+  },
+  {
+    "id": 179,
+    "player_id": 179,
+    "team_id": 8
+  },
+  {
+    "id": 180,
+    "player_id": 180,
+    "team_id": 8
+  },
+  {
+    "id": 181,
+    "player_id": 181,
+    "team_id": 8
+  },
+  {
+    "id": 182,
+    "player_id": 182,
+    "team_id": 8
+  },
+  {
+    "id": 183,
+    "player_id": 183,
+    "team_id": 9
+  },
+  {
+    "id": 184,
+    "player_id": 184,
+    "team_id": 9
+  },
+  {
+    "id": 185,
+    "player_id": 185,
+    "team_id": 9
+  },
+  {
+    "id": 186,
+    "player_id": 186,
+    "team_id": 9
+  },
+  {
+    "id": 187,
+    "player_id": 187,
+    "team_id": 9
+  },
+  {
+    "id": 188,
+    "player_id": 188,
+    "team_id": 9
+  },
+  {
+    "id": 189,
+    "player_id": 189,
+    "team_id": 9
+  },
+  {
+    "id": 190,
+    "player_id": 190,
+    "team_id": 9
+  },
+  {
+    "id": 191,
+    "player_id": 191,
+    "team_id": 9
+  },
+  {
+    "id": 192,
+    "player_id": 192,
+    "team_id": 9
+  },
+  {
+    "id": 193,
+    "player_id": 193,
+    "team_id": 9
+  },
+  {
+    "id": 194,
+    "player_id": 194,
+    "team_id": 9
+  },
+  {
+    "id": 195,
+    "player_id": 195,
+    "team_id": 9
+  },
+  {
+    "id": 196,
+    "player_id": 196,
+    "team_id": 9
+  },
+  {
+    "id": 197,
+    "player_id": 197,
+    "team_id": 9
+  },
+  {
+    "id": 198,
+    "player_id": 198,
+    "team_id": 9
+  },
+  {
+    "id": 199,
+    "player_id": 199,
+    "team_id": 9
+  },
+  {
+    "id": 200,
+    "player_id": 200,
+    "team_id": 9
+  },
+  {
+    "id": 201,
+    "player_id": 201,
+    "team_id": 9
+  },
+  {
+    "id": 202,
+    "player_id": 202,
+    "team_id": 9
+  },
+  {
+    "id": 203,
+    "player_id": 203,
+    "team_id": 9
+  },
+  {
+    "id": 204,
+    "player_id": 204,
+    "team_id": 9
+  },
+  {
+    "id": 205,
+    "player_id": 205,
+    "team_id": 9
+  },
+  {
+    "id": 206,
+    "player_id": 206,
+    "team_id": 9
+  },
+  {
+    "id": 207,
+    "player_id": 207,
+    "team_id": 9
+  },
+  {
+    "id": 208,
+    "player_id": 208,
+    "team_id": 10
+  },
+  {
+    "id": 209,
+    "player_id": 209,
+    "team_id": 10
+  },
+  {
+    "id": 210,
+    "player_id": 210,
+    "team_id": 10
+  },
+  {
+    "id": 211,
+    "player_id": 211,
+    "team_id": 10
+  },
+  {
+    "id": 212,
+    "player_id": 212,
+    "team_id": 10
+  },
+  {
+    "id": 213,
+    "player_id": 213,
+    "team_id": 10
+  },
+  {
+    "id": 214,
+    "player_id": 214,
+    "team_id": 10
+  },
+  {
+    "id": 215,
+    "player_id": 215,
+    "team_id": 10
+  },
+  {
+    "id": 216,
+    "player_id": 216,
+    "team_id": 10
+  },
+  {
+    "id": 217,
+    "player_id": 217,
+    "team_id": 10
+  },
+  {
+    "id": 218,
+    "player_id": 218,
+    "team_id": 10
+  },
+  {
+    "id": 219,
+    "player_id": 219,
+    "team_id": 10
+  },
+  {
+    "id": 220,
+    "player_id": 220,
+    "team_id": 10
+  },
+  {
+    "id": 221,
+    "player_id": 221,
+    "team_id": 10
+  },
+  {
+    "id": 222,
+    "player_id": 222,
+    "team_id": 10
+  },
+  {
+    "id": 223,
+    "player_id": 223,
+    "team_id": 10
+  },
+  {
+    "id": 224,
+    "player_id": 224,
+    "team_id": 10
+  },
+  {
+    "id": 225,
+    "player_id": 225,
+    "team_id": 10
+  },
+  {
+    "id": 226,
+    "player_id": 226,
+    "team_id": 10
+  },
+  {
+    "id": 227,
+    "player_id": 227,
+    "team_id": 10
+  },
+  {
+    "id": 228,
+    "player_id": 228,
+    "team_id": 10
+  },
+  {
+    "id": 229,
+    "player_id": 229,
+    "team_id": 11
+  },
+  {
+    "id": 230,
+    "player_id": 230,
+    "team_id": 11
+  },
+  {
+    "id": 231,
+    "player_id": 231,
+    "team_id": 11
+  },
+  {
+    "id": 232,
+    "player_id": 232,
+    "team_id": 11
+  },
+  {
+    "id": 233,
+    "player_id": 233,
+    "team_id": 11
+  },
+  {
+    "id": 234,
+    "player_id": 234,
+    "team_id": 11
+  },
+  {
+    "id": 235,
+    "player_id": 235,
+    "team_id": 11
+  },
+  {
+    "id": 236,
+    "player_id": 236,
+    "team_id": 11
+  },
+  {
+    "id": 237,
+    "player_id": 237,
+    "team_id": 11
+  },
+  {
+    "id": 238,
+    "player_id": 238,
+    "team_id": 11
+  },
+  {
+    "id": 239,
+    "player_id": 239,
+    "team_id": 11
+  },
+  {
+    "id": 240,
+    "player_id": 240,
+    "team_id": 11
+  },
+  {
+    "id": 241,
+    "player_id": 241,
+    "team_id": 11
+  },
+  {
+    "id": 242,
+    "player_id": 242,
+    "team_id": 11
+  },
+  {
+    "id": 243,
+    "player_id": 243,
+    "team_id": 11
+  },
+  {
+    "id": 244,
+    "player_id": 244,
+    "team_id": 11
+  },
+  {
+    "id": 245,
+    "player_id": 245,
+    "team_id": 11
+  },
+  {
+    "id": 246,
+    "player_id": 246,
+    "team_id": 11
+  },
+  {
+    "id": 247,
+    "player_id": 247,
+    "team_id": 11
+  },
+  {
+    "id": 248,
+    "player_id": 248,
+    "team_id": 11
+  },
+  {
+    "id": 249,
+    "player_id": 249,
+    "team_id": 11
+  },
+  {
+    "id": 250,
+    "player_id": 250,
+    "team_id": 11
+  },
+  {
+    "id": 251,
+    "player_id": 251,
+    "team_id": 11
+  },
+  {
+    "id": 252,
+    "player_id": 252,
+    "team_id": 11
+  },
+  {
+    "id": 253,
+    "player_id": 253,
+    "team_id": 11
+  },
+  {
+    "id": 254,
+    "player_id": 254,
+    "team_id": 12
+  },
+  {
+    "id": 255,
+    "player_id": 255,
+    "team_id": 12
+  },
+  {
+    "id": 256,
+    "player_id": 256,
+    "team_id": 12
+  },
+  {
+    "id": 257,
+    "player_id": 257,
+    "team_id": 12
+  },
+  {
+    "id": 258,
+    "player_id": 258,
+    "team_id": 12
+  },
+  {
+    "id": 259,
+    "player_id": 259,
+    "team_id": 12
+  },
+  {
+    "id": 260,
+    "player_id": 260,
+    "team_id": 12
+  },
+  {
+    "id": 261,
+    "player_id": 261,
+    "team_id": 12
+  },
+  {
+    "id": 262,
+    "player_id": 262,
+    "team_id": 12
+  },
+  {
+    "id": 263,
+    "player_id": 263,
+    "team_id": 12
+  },
+  {
+    "id": 264,
+    "player_id": 264,
+    "team_id": 12
+  },
+  {
+    "id": 265,
+    "player_id": 265,
+    "team_id": 12
+  },
+  {
+    "id": 266,
+    "player_id": 266,
+    "team_id": 12
+  },
+  {
+    "id": 267,
+    "player_id": 267,
+    "team_id": 12
+  },
+  {
+    "id": 268,
+    "player_id": 268,
+    "team_id": 12
+  },
+  {
+    "id": 269,
+    "player_id": 269,
+    "team_id": 12
+  },
+  {
+    "id": 270,
+    "player_id": 270,
+    "team_id": 12
+  },
+  {
+    "id": 271,
+    "player_id": 271,
+    "team_id": 12
+  },
+  {
+    "id": 272,
+    "player_id": 272,
+    "team_id": 12
+  },
+  {
+    "id": 273,
+    "player_id": 273,
+    "team_id": 12
+  },
+  {
+    "id": 274,
+    "player_id": 274,
+    "team_id": 12
+  },
+  {
+    "id": 275,
+    "player_id": 275,
+    "team_id": 12
+  },
+  {
+    "id": 276,
+    "player_id": 276,
+    "team_id": 12
+  },
+  {
+    "id": 277,
+    "player_id": 277,
+    "team_id": 12
+  },
+  {
+    "id": 278,
+    "player_id": 278,
+    "team_id": 12
+  },
+  {
+    "id": 279,
+    "player_id": 279,
+    "team_id": 13
+  },
+  {
+    "id": 280,
+    "player_id": 280,
+    "team_id": 13
+  },
+  {
+    "id": 281,
+    "player_id": 281,
+    "team_id": 13
+  },
+  {
+    "id": 282,
+    "player_id": 282,
+    "team_id": 13
+  },
+  {
+    "id": 283,
+    "player_id": 283,
+    "team_id": 13
+  },
+  {
+    "id": 284,
+    "player_id": 284,
+    "team_id": 13
+  },
+  {
+    "id": 285,
+    "player_id": 285,
+    "team_id": 13
+  },
+  {
+    "id": 286,
+    "player_id": 286,
+    "team_id": 13
+  },
+  {
+    "id": 287,
+    "player_id": 287,
+    "team_id": 13
+  },
+  {
+    "id": 288,
+    "player_id": 288,
+    "team_id": 13
+  },
+  {
+    "id": 289,
+    "player_id": 289,
+    "team_id": 13
+  },
+  {
+    "id": 290,
+    "player_id": 290,
+    "team_id": 13
+  },
+  {
+    "id": 291,
+    "player_id": 291,
+    "team_id": 13
+  },
+  {
+    "id": 292,
+    "player_id": 292,
+    "team_id": 13
+  },
+  {
+    "id": 293,
+    "player_id": 293,
+    "team_id": 13
+  },
+  {
+    "id": 294,
+    "player_id": 294,
+    "team_id": 13
+  },
+  {
+    "id": 295,
+    "player_id": 295,
+    "team_id": 13
+  },
+  {
+    "id": 296,
+    "player_id": 296,
+    "team_id": 13
+  },
+  {
+    "id": 297,
+    "player_id": 297,
+    "team_id": 13
+  },
+  {
+    "id": 298,
+    "player_id": 298,
+    "team_id": 13
+  },
+  {
+    "id": 299,
+    "player_id": 299,
+    "team_id": 13
+  },
+  {
+    "id": 300,
+    "player_id": 300,
+    "team_id": 13
+  },
+  {
+    "id": 301,
+    "player_id": 301,
+    "team_id": 13
+  },
+  {
+    "id": 302,
+    "player_id": 302,
+    "team_id": 14
+  },
+  {
+    "id": 303,
+    "player_id": 303,
+    "team_id": 14
+  },
+  {
+    "id": 304,
+    "player_id": 304,
+    "team_id": 14
+  },
+  {
+    "id": 305,
+    "player_id": 305,
+    "team_id": 14
+  },
+  {
+    "id": 306,
+    "player_id": 306,
+    "team_id": 14
+  },
+  {
+    "id": 307,
+    "player_id": 307,
+    "team_id": 14
+  },
+  {
+    "id": 308,
+    "player_id": 308,
+    "team_id": 14
+  },
+  {
+    "id": 309,
+    "player_id": 309,
+    "team_id": 14
+  },
+  {
+    "id": 310,
+    "player_id": 310,
+    "team_id": 14
+  },
+  {
+    "id": 311,
+    "player_id": 311,
+    "team_id": 14
+  },
+  {
+    "id": 312,
+    "player_id": 312,
+    "team_id": 14
+  },
+  {
+    "id": 313,
+    "player_id": 313,
+    "team_id": 14
+  },
+  {
+    "id": 314,
+    "player_id": 314,
+    "team_id": 14
+  },
+  {
+    "id": 315,
+    "player_id": 315,
+    "team_id": 14
+  },
+  {
+    "id": 316,
+    "player_id": 316,
+    "team_id": 14
+  },
+  {
+    "id": 317,
+    "player_id": 317,
+    "team_id": 14
+  },
+  {
+    "id": 318,
+    "player_id": 318,
+    "team_id": 14
+  },
+  {
+    "id": 319,
+    "player_id": 319,
+    "team_id": 14
+  },
+  {
+    "id": 320,
+    "player_id": 320,
+    "team_id": 14
+  },
+  {
+    "id": 321,
+    "player_id": 321,
+    "team_id": 14
+  },
+  {
+    "id": 322,
+    "player_id": 322,
+    "team_id": 14
+  },
+  {
+    "id": 323,
+    "player_id": 323,
+    "team_id": 15
+  },
+  {
+    "id": 324,
+    "player_id": 324,
+    "team_id": 15
+  },
+  {
+    "id": 325,
+    "player_id": 325,
+    "team_id": 15
+  },
+  {
+    "id": 326,
+    "player_id": 326,
+    "team_id": 15
+  },
+  {
+    "id": 327,
+    "player_id": 327,
+    "team_id": 15
+  },
+  {
+    "id": 328,
+    "player_id": 328,
+    "team_id": 15
+  },
+  {
+    "id": 329,
+    "player_id": 329,
+    "team_id": 15
+  },
+  {
+    "id": 330,
+    "player_id": 330,
+    "team_id": 15
+  },
+  {
+    "id": 331,
+    "player_id": 331,
+    "team_id": 15
+  },
+  {
+    "id": 332,
+    "player_id": 332,
+    "team_id": 15
+  },
+  {
+    "id": 333,
+    "player_id": 333,
+    "team_id": 15
+  },
+  {
+    "id": 334,
+    "player_id": 334,
+    "team_id": 15
+  },
+  {
+    "id": 335,
+    "player_id": 335,
+    "team_id": 15
+  },
+  {
+    "id": 336,
+    "player_id": 336,
+    "team_id": 15
+  },
+  {
+    "id": 337,
+    "player_id": 337,
+    "team_id": 15
+  },
+  {
+    "id": 338,
+    "player_id": 338,
+    "team_id": 15
+  },
+  {
+    "id": 339,
+    "player_id": 339,
+    "team_id": 15
+  },
+  {
+    "id": 340,
+    "player_id": 340,
+    "team_id": 15
+  },
+  {
+    "id": 341,
+    "player_id": 341,
+    "team_id": 15
+  },
+  {
+    "id": 342,
+    "player_id": 342,
+    "team_id": 15
+  },
+  {
+    "id": 343,
+    "player_id": 343,
+    "team_id": 16
+  },
+  {
+    "id": 344,
+    "player_id": 344,
+    "team_id": 16
+  },
+  {
+    "id": 345,
+    "player_id": 345,
+    "team_id": 16
+  },
+  {
+    "id": 346,
+    "player_id": 346,
+    "team_id": 16
+  },
+  {
+    "id": 347,
+    "player_id": 347,
+    "team_id": 16
+  },
+  {
+    "id": 348,
+    "player_id": 348,
+    "team_id": 16
+  },
+  {
+    "id": 349,
+    "player_id": 349,
+    "team_id": 16
+  },
+  {
+    "id": 350,
+    "player_id": 350,
+    "team_id": 16
+  },
+  {
+    "id": 351,
+    "player_id": 351,
+    "team_id": 16
+  },
+  {
+    "id": 352,
+    "player_id": 352,
+    "team_id": 16
+  },
+  {
+    "id": 353,
+    "player_id": 353,
+    "team_id": 16
+  },
+  {
+    "id": 354,
+    "player_id": 354,
+    "team_id": 16
+  },
+  {
+    "id": 355,
+    "player_id": 355,
+    "team_id": 16
+  },
+  {
+    "id": 356,
+    "player_id": 356,
+    "team_id": 16
+  },
+  {
+    "id": 357,
+    "player_id": 357,
+    "team_id": 16
+  },
+  {
+    "id": 358,
+    "player_id": 358,
+    "team_id": 16
+  },
+  {
+    "id": 359,
+    "player_id": 359,
+    "team_id": 16
+  },
+  {
+    "id": 360,
+    "player_id": 360,
+    "team_id": 16
+  },
+  {
+    "id": 361,
+    "player_id": 361,
+    "team_id": 16
+  },
+  {
+    "id": 362,
+    "player_id": 362,
+    "team_id": 16
+  },
+  {
+    "id": 363,
+    "player_id": 363,
+    "team_id": 16
+  },
+  {
+    "id": 364,
+    "player_id": 364,
+    "team_id": 16
+  },
+  {
+    "id": 365,
+    "player_id": 365,
+    "team_id": 16
+  },
+  {
+    "id": 366,
+    "player_id": 366,
+    "team_id": 16
+  },
+  {
+    "id": 367,
+    "player_id": 367,
+    "team_id": 17
+  },
+  {
+    "id": 368,
+    "player_id": 368,
+    "team_id": 17
+  },
+  {
+    "id": 369,
+    "player_id": 369,
+    "team_id": 17
+  },
+  {
+    "id": 370,
+    "player_id": 370,
+    "team_id": 17
+  },
+  {
+    "id": 371,
+    "player_id": 371,
+    "team_id": 17
+  },
+  {
+    "id": 372,
+    "player_id": 372,
+    "team_id": 17
+  },
+  {
+    "id": 373,
+    "player_id": 373,
+    "team_id": 17
+  },
+  {
+    "id": 374,
+    "player_id": 374,
+    "team_id": 17
+  },
+  {
+    "id": 375,
+    "player_id": 375,
+    "team_id": 17
+  },
+  {
+    "id": 376,
+    "player_id": 376,
+    "team_id": 17
+  },
+  {
+    "id": 377,
+    "player_id": 377,
+    "team_id": 17
+  },
+  {
+    "id": 378,
+    "player_id": 378,
+    "team_id": 17
+  },
+  {
+    "id": 379,
+    "player_id": 379,
+    "team_id": 17
+  },
+  {
+    "id": 380,
+    "player_id": 380,
+    "team_id": 17
+  },
+  {
+    "id": 381,
+    "player_id": 381,
+    "team_id": 17
+  },
+  {
+    "id": 382,
+    "player_id": 382,
+    "team_id": 17
+  },
+  {
+    "id": 383,
+    "player_id": 383,
+    "team_id": 17
+  },
+  {
+    "id": 384,
+    "player_id": 384,
+    "team_id": 17
+  },
+  {
+    "id": 385,
+    "player_id": 385,
+    "team_id": 17
+  },
+  {
+    "id": 386,
+    "player_id": 386,
+    "team_id": 17
+  },
+  {
+    "id": 387,
+    "player_id": 387,
+    "team_id": 17
+  },
+  {
+    "id": 388,
+    "player_id": 388,
+    "team_id": 17
+  },
+  {
+    "id": 389,
+    "player_id": 389,
+    "team_id": 17
+  },
+  {
+    "id": 390,
+    "player_id": 390,
+    "team_id": 17
+  },
+  {
+    "id": 391,
+    "player_id": 391,
+    "team_id": 17
+  },
+  {
+    "id": 392,
+    "player_id": 392,
+    "team_id": 18
+  },
+  {
+    "id": 393,
+    "player_id": 393,
+    "team_id": 18
+  },
+  {
+    "id": 394,
+    "player_id": 394,
+    "team_id": 18
+  },
+  {
+    "id": 395,
+    "player_id": 395,
+    "team_id": 18
+  },
+  {
+    "id": 396,
+    "player_id": 396,
+    "team_id": 18
+  },
+  {
+    "id": 397,
+    "player_id": 397,
+    "team_id": 18
+  },
+  {
+    "id": 398,
+    "player_id": 398,
+    "team_id": 18
+  },
+  {
+    "id": 399,
+    "player_id": 399,
+    "team_id": 18
+  },
+  {
+    "id": 400,
+    "player_id": 400,
+    "team_id": 18
+  },
+  {
+    "id": 401,
+    "player_id": 401,
+    "team_id": 18
+  },
+  {
+    "id": 402,
+    "player_id": 402,
+    "team_id": 18
+  },
+  {
+    "id": 403,
+    "player_id": 403,
+    "team_id": 18
+  },
+  {
+    "id": 404,
+    "player_id": 404,
+    "team_id": 18
+  },
+  {
+    "id": 405,
+    "player_id": 405,
+    "team_id": 18
+  },
+  {
+    "id": 406,
+    "player_id": 406,
+    "team_id": 18
+  },
+  {
+    "id": 407,
+    "player_id": 407,
+    "team_id": 18
+  },
+  {
+    "id": 408,
+    "player_id": 408,
+    "team_id": 18
+  },
+  {
+    "id": 409,
+    "player_id": 409,
+    "team_id": 18
+  },
+  {
+    "id": 410,
+    "player_id": 410,
+    "team_id": 18
+  },
+  {
+    "id": 411,
+    "player_id": 411,
+    "team_id": 18
+  },
+  {
+    "id": 412,
+    "player_id": 412,
+    "team_id": 18
+  },
+  {
+    "id": 413,
+    "player_id": 413,
+    "team_id": 18
+  },
+  {
+    "id": 414,
+    "player_id": 414,
+    "team_id": 18
+  },
+  {
+    "id": 415,
+    "player_id": 415,
+    "team_id": 18
+  },
+  {
+    "id": 416,
+    "player_id": 416,
+    "team_id": 19
+  },
+  {
+    "id": 417,
+    "player_id": 417,
+    "team_id": 19
+  },
+  {
+    "id": 418,
+    "player_id": 418,
+    "team_id": 19
+  },
+  {
+    "id": 419,
+    "player_id": 419,
+    "team_id": 19
+  },
+  {
+    "id": 420,
+    "player_id": 420,
+    "team_id": 19
+  },
+  {
+    "id": 421,
+    "player_id": 421,
+    "team_id": 19
+  },
+  {
+    "id": 422,
+    "player_id": 422,
+    "team_id": 19
+  },
+  {
+    "id": 423,
+    "player_id": 423,
+    "team_id": 19
+  },
+  {
+    "id": 424,
+    "player_id": 424,
+    "team_id": 19
+  },
+  {
+    "id": 425,
+    "player_id": 425,
+    "team_id": 19
+  },
+  {
+    "id": 426,
+    "player_id": 426,
+    "team_id": 19
+  },
+  {
+    "id": 427,
+    "player_id": 427,
+    "team_id": 19
+  },
+  {
+    "id": 428,
+    "player_id": 428,
+    "team_id": 19
+  },
+  {
+    "id": 429,
+    "player_id": 429,
+    "team_id": 19
+  },
+  {
+    "id": 430,
+    "player_id": 430,
+    "team_id": 19
+  },
+  {
+    "id": 431,
+    "player_id": 431,
+    "team_id": 19
+  },
+  {
+    "id": 432,
+    "player_id": 432,
+    "team_id": 19
+  },
+  {
+    "id": 433,
+    "player_id": 433,
+    "team_id": 19
+  },
+  {
+    "id": 434,
+    "player_id": 434,
+    "team_id": 19
+  },
+  {
+    "id": 435,
+    "player_id": 435,
+    "team_id": 19
+  },
+  {
+    "id": 436,
+    "player_id": 436,
+    "team_id": 19
+  },
+  {
+    "id": 437,
+    "player_id": 437,
+    "team_id": 19
+  },
+  {
+    "id": 438,
+    "player_id": 438,
+    "team_id": 19
+  },
+  {
+    "id": 439,
+    "player_id": 439,
+    "team_id": 19
+  },
+  {
+    "id": 440,
+    "player_id": 440,
+    "team_id": 19
+  },
+  {
+    "id": 441,
+    "player_id": 441,
+    "team_id": 20
+  },
+  {
+    "id": 442,
+    "player_id": 442,
+    "team_id": 20
+  },
+  {
+    "id": 443,
+    "player_id": 443,
+    "team_id": 20
+  },
+  {
+    "id": 444,
+    "player_id": 444,
+    "team_id": 20
+  },
+  {
+    "id": 445,
+    "player_id": 445,
+    "team_id": 20
+  },
+  {
+    "id": 446,
+    "player_id": 446,
+    "team_id": 20
+  },
+  {
+    "id": 447,
+    "player_id": 447,
+    "team_id": 20
+  },
+  {
+    "id": 448,
+    "player_id": 448,
+    "team_id": 20
+  },
+  {
+    "id": 449,
+    "player_id": 449,
+    "team_id": 20
+  },
+  {
+    "id": 450,
+    "player_id": 450,
+    "team_id": 20
+  },
+  {
+    "id": 451,
+    "player_id": 451,
+    "team_id": 20
+  },
+  {
+    "id": 452,
+    "player_id": 452,
+    "team_id": 20
+  },
+  {
+    "id": 453,
+    "player_id": 453,
+    "team_id": 20
+  },
+  {
+    "id": 454,
+    "player_id": 454,
+    "team_id": 20
+  },
+  {
+    "id": 455,
+    "player_id": 455,
+    "team_id": 20
+  },
+  {
+    "id": 456,
+    "player_id": 456,
+    "team_id": 20
+  },
+  {
+    "id": 457,
+    "player_id": 457,
+    "team_id": 20
+  },
+  {
+    "id": 458,
+    "player_id": 458,
+    "team_id": 20
+  },
+  {
+    "id": 459,
+    "player_id": 459,
+    "team_id": 20
+  },
+  {
+    "id": 460,
+    "player_id": 460,
+    "team_id": 20
+  },
+  {
+    "id": 461,
+    "player_id": 461,
+    "team_id": 20
+  },
+  {
+    "id": 462,
+    "player_id": 462,
+    "team_id": 20
+  },
+  {
+    "id": 463,
+    "player_id": 463,
+    "team_id": 20
+  },
+  {
+    "id": 464,
+    "player_id": 464,
+    "team_id": 21
+  },
+  {
+    "id": 465,
+    "player_id": 465,
+    "team_id": 21
+  },
+  {
+    "id": 466,
+    "player_id": 466,
+    "team_id": 21
+  },
+  {
+    "id": 467,
+    "player_id": 467,
+    "team_id": 21
+  },
+  {
+    "id": 468,
+    "player_id": 468,
+    "team_id": 21
+  },
+  {
+    "id": 469,
+    "player_id": 469,
+    "team_id": 21
+  },
+  {
+    "id": 470,
+    "player_id": 470,
+    "team_id": 21
+  },
+  {
+    "id": 471,
+    "player_id": 471,
+    "team_id": 21
+  },
+  {
+    "id": 472,
+    "player_id": 472,
+    "team_id": 21
+  },
+  {
+    "id": 473,
+    "player_id": 473,
+    "team_id": 21
+  },
+  {
+    "id": 474,
+    "player_id": 474,
+    "team_id": 21
+  },
+  {
+    "id": 475,
+    "player_id": 475,
+    "team_id": 21
+  },
+  {
+    "id": 476,
+    "player_id": 476,
+    "team_id": 21
+  },
+  {
+    "id": 477,
+    "player_id": 477,
+    "team_id": 21
+  },
+  {
+    "id": 478,
+    "player_id": 478,
+    "team_id": 21
+  },
+  {
+    "id": 479,
+    "player_id": 479,
+    "team_id": 21
+  },
+  {
+    "id": 480,
+    "player_id": 480,
+    "team_id": 21
+  },
+  {
+    "id": 481,
+    "player_id": 481,
+    "team_id": 21
+  },
+  {
+    "id": 482,
+    "player_id": 482,
+    "team_id": 21
+  },
+  {
+    "id": 483,
+    "player_id": 483,
+    "team_id": 21
+  },
+  {
+    "id": 484,
+    "player_id": 484,
+    "team_id": 21
+  },
+  {
+    "id": 485,
+    "player_id": 485,
+    "team_id": 21
+  },
+  {
+    "id": 486,
+    "player_id": 486,
+    "team_id": 21
+  },
+  {
+    "id": 487,
+    "player_id": 487,
+    "team_id": 22
+  },
+  {
+    "id": 488,
+    "player_id": 488,
+    "team_id": 22
+  },
+  {
+    "id": 489,
+    "player_id": 489,
+    "team_id": 22
+  },
+  {
+    "id": 490,
+    "player_id": 490,
+    "team_id": 22
+  },
+  {
+    "id": 491,
+    "player_id": 491,
+    "team_id": 22
+  },
+  {
+    "id": 492,
+    "player_id": 492,
+    "team_id": 22
+  },
+  {
+    "id": 493,
+    "player_id": 493,
+    "team_id": 22
+  },
+  {
+    "id": 494,
+    "player_id": 494,
+    "team_id": 22
+  },
+  {
+    "id": 495,
+    "player_id": 495,
+    "team_id": 22
+  },
+  {
+    "id": 496,
+    "player_id": 496,
+    "team_id": 22
+  },
+  {
+    "id": 497,
+    "player_id": 497,
+    "team_id": 22
+  },
+  {
+    "id": 498,
+    "player_id": 498,
+    "team_id": 22
+  },
+  {
+    "id": 499,
+    "player_id": 499,
+    "team_id": 22
+  },
+  {
+    "id": 500,
+    "player_id": 500,
+    "team_id": 22
+  },
+  {
+    "id": 501,
+    "player_id": 501,
+    "team_id": 22
+  },
+  {
+    "id": 502,
+    "player_id": 502,
+    "team_id": 22
+  },
+  {
+    "id": 503,
+    "player_id": 503,
+    "team_id": 22
+  },
+  {
+    "id": 504,
+    "player_id": 504,
+    "team_id": 22
+  },
+  {
+    "id": 505,
+    "player_id": 505,
+    "team_id": 22
+  },
+  {
+    "id": 506,
+    "player_id": 506,
+    "team_id": 22
+  },
+  {
+    "id": 507,
+    "player_id": 507,
+    "team_id": 22
+  },
+  {
+    "id": 508,
+    "player_id": 508,
+    "team_id": 22
+  },
+  {
+    "id": 509,
+    "player_id": 509,
+    "team_id": 23
+  },
+  {
+    "id": 510,
+    "player_id": 510,
+    "team_id": 23
+  },
+  {
+    "id": 511,
+    "player_id": 511,
+    "team_id": 23
+  },
+  {
+    "id": 512,
+    "player_id": 512,
+    "team_id": 23
+  },
+  {
+    "id": 513,
+    "player_id": 513,
+    "team_id": 23
+  },
+  {
+    "id": 514,
+    "player_id": 514,
+    "team_id": 23
+  },
+  {
+    "id": 515,
+    "player_id": 515,
+    "team_id": 23
+  },
+  {
+    "id": 516,
+    "player_id": 516,
+    "team_id": 23
+  },
+  {
+    "id": 517,
+    "player_id": 517,
+    "team_id": 23
+  },
+  {
+    "id": 518,
+    "player_id": 518,
+    "team_id": 23
+  },
+  {
+    "id": 519,
+    "player_id": 519,
+    "team_id": 23
+  },
+  {
+    "id": 520,
+    "player_id": 520,
+    "team_id": 23
+  },
+  {
+    "id": 521,
+    "player_id": 521,
+    "team_id": 23
+  },
+  {
+    "id": 522,
+    "player_id": 522,
+    "team_id": 23
+  },
+  {
+    "id": 523,
+    "player_id": 523,
+    "team_id": 23
+  },
+  {
+    "id": 524,
+    "player_id": 524,
+    "team_id": 23
+  },
+  {
+    "id": 525,
+    "player_id": 525,
+    "team_id": 23
+  },
+  {
+    "id": 526,
+    "player_id": 526,
+    "team_id": 23
+  },
+  {
+    "id": 527,
+    "player_id": 527,
+    "team_id": 23
+  },
+  {
+    "id": 528,
+    "player_id": 528,
+    "team_id": 23
+  },
+  {
+    "id": 529,
+    "player_id": 529,
+    "team_id": 23
+  },
+  {
+    "id": 530,
+    "player_id": 530,
+    "team_id": 23
+  },
+  {
+    "id": 531,
+    "player_id": 531,
+    "team_id": 23
+  },
+  {
+    "id": 532,
+    "player_id": 532,
+    "team_id": 24
+  },
+  {
+    "id": 533,
+    "player_id": 533,
+    "team_id": 24
+  },
+  {
+    "id": 534,
+    "player_id": 534,
+    "team_id": 24
+  },
+  {
+    "id": 535,
+    "player_id": 535,
+    "team_id": 24
+  },
+  {
+    "id": 536,
+    "player_id": 536,
+    "team_id": 24
+  },
+  {
+    "id": 537,
+    "player_id": 537,
+    "team_id": 24
+  },
+  {
+    "id": 538,
+    "player_id": 538,
+    "team_id": 24
+  },
+  {
+    "id": 539,
+    "player_id": 539,
+    "team_id": 24
+  },
+  {
+    "id": 540,
+    "player_id": 540,
+    "team_id": 24
+  },
+  {
+    "id": 541,
+    "player_id": 541,
+    "team_id": 24
+  },
+  {
+    "id": 542,
+    "player_id": 542,
+    "team_id": 24
+  },
+  {
+    "id": 543,
+    "player_id": 543,
+    "team_id": 24
+  },
+  {
+    "id": 544,
+    "player_id": 267,
+    "team_id": 24
+  },
+  {
+    "id": 545,
+    "player_id": 544,
+    "team_id": 24
+  },
+  {
+    "id": 546,
+    "player_id": 217,
+    "team_id": 24
+  },
+  {
+    "id": 547,
+    "player_id": 545,
+    "team_id": 24
+  },
+  {
+    "id": 548,
+    "player_id": 546,
+    "team_id": 24
+  },
+  {
+    "id": 549,
+    "player_id": 547,
+    "team_id": 24
+  },
+  {
+    "id": 550,
+    "player_id": 548,
+    "team_id": 24
+  },
+  {
+    "id": 551,
+    "player_id": 549,
+    "team_id": 24
+  },
+  {
+    "id": 552,
+    "player_id": 550,
+    "team_id": 24
+  },
+  {
+    "id": 553,
+    "player_id": 551,
+    "team_id": 24
+  },
+  {
+    "id": 554,
+    "player_id": 552,
+    "team_id": 24
+  },
+  {
+    "id": 555,
+    "player_id": 553,
+    "team_id": 24
+  },
+  {
+    "id": 556,
+    "player_id": 554,
+    "team_id": 24
+  },
+  {
+    "id": 557,
+    "player_id": 555,
+    "team_id": 25
+  },
+  {
+    "id": 558,
+    "player_id": 556,
+    "team_id": 25
+  },
+  {
+    "id": 559,
+    "player_id": 557,
+    "team_id": 25
+  },
+  {
+    "id": 560,
+    "player_id": 558,
+    "team_id": 25
+  },
+  {
+    "id": 561,
+    "player_id": 559,
+    "team_id": 25
+  },
+  {
+    "id": 562,
+    "player_id": 560,
+    "team_id": 25
+  },
+  {
+    "id": 563,
+    "player_id": 561,
+    "team_id": 25
+  },
+  {
+    "id": 564,
+    "player_id": 562,
+    "team_id": 25
+  },
+  {
+    "id": 565,
+    "player_id": 563,
+    "team_id": 25
+  },
+  {
+    "id": 566,
+    "player_id": 564,
+    "team_id": 25
+  },
+  {
+    "id": 567,
+    "player_id": 565,
+    "team_id": 25
+  },
+  {
+    "id": 568,
+    "player_id": 566,
+    "team_id": 25
+  },
+  {
+    "id": 569,
+    "player_id": 567,
+    "team_id": 25
+  },
+  {
+    "id": 570,
+    "player_id": 568,
+    "team_id": 25
+  },
+  {
+    "id": 571,
+    "player_id": 569,
+    "team_id": 25
+  },
+  {
+    "id": 572,
+    "player_id": 570,
+    "team_id": 25
+  },
+  {
+    "id": 573,
+    "player_id": 571,
+    "team_id": 25
+  },
+  {
+    "id": 574,
+    "player_id": 28,
+    "team_id": 25
+  },
+  {
+    "id": 575,
+    "player_id": 572,
+    "team_id": 25
+  },
+  {
+    "id": 576,
+    "player_id": 573,
+    "team_id": 25
+  },
+  {
+    "id": 577,
+    "player_id": 574,
+    "team_id": 26
+  },
+  {
+    "id": 578,
+    "player_id": 575,
+    "team_id": 26
+  },
+  {
+    "id": 579,
+    "player_id": 576,
+    "team_id": 26
+  },
+  {
+    "id": 580,
+    "player_id": 577,
+    "team_id": 26
+  },
+  {
+    "id": 581,
+    "player_id": 578,
+    "team_id": 26
+  },
+  {
+    "id": 582,
+    "player_id": 579,
+    "team_id": 26
+  },
+  {
+    "id": 583,
+    "player_id": 580,
+    "team_id": 26
+  },
+  {
+    "id": 584,
+    "player_id": 581,
+    "team_id": 26
+  },
+  {
+    "id": 585,
+    "player_id": 582,
+    "team_id": 26
+  },
+  {
+    "id": 586,
+    "player_id": 583,
+    "team_id": 26
+  },
+  {
+    "id": 587,
+    "player_id": 584,
+    "team_id": 26
+  },
+  {
+    "id": 588,
+    "player_id": 585,
+    "team_id": 26
+  },
+  {
+    "id": 589,
+    "player_id": 586,
+    "team_id": 26
+  },
+  {
+    "id": 590,
+    "player_id": 587,
+    "team_id": 26
+  },
+  {
+    "id": 591,
+    "player_id": 588,
+    "team_id": 26
+  },
+  {
+    "id": 592,
+    "player_id": 589,
+    "team_id": 26
+  },
+  {
+    "id": 593,
+    "player_id": 590,
+    "team_id": 26
+  },
+  {
+    "id": 594,
+    "player_id": 591,
+    "team_id": 26
+  },
+  {
+    "id": 595,
+    "player_id": 592,
+    "team_id": 26
+  },
+  {
+    "id": 596,
+    "player_id": 593,
+    "team_id": 26
+  },
+  {
+    "id": 597,
+    "player_id": 594,
+    "team_id": 26
+  },
+  {
+    "id": 598,
+    "player_id": 595,
+    "team_id": 26
+  },
+  {
+    "id": 599,
+    "player_id": 596,
+    "team_id": 26
+  },
+  {
+    "id": 600,
+    "player_id": 597,
+    "team_id": 26
+  },
+  {
+    "id": 601,
+    "player_id": 598,
+    "team_id": 26
+  },
+  {
+    "id": 602,
+    "player_id": 599,
+    "team_id": 27
+  },
+  {
+    "id": 603,
+    "player_id": 600,
+    "team_id": 27
+  },
+  {
+    "id": 604,
+    "player_id": 601,
+    "team_id": 27
+  },
+  {
+    "id": 605,
+    "player_id": 602,
+    "team_id": 27
+  },
+  {
+    "id": 606,
+    "player_id": 603,
+    "team_id": 27
+  },
+  {
+    "id": 607,
+    "player_id": 604,
+    "team_id": 27
+  },
+  {
+    "id": 608,
+    "player_id": 605,
+    "team_id": 27
+  },
+  {
+    "id": 609,
+    "player_id": 606,
+    "team_id": 27
+  },
+  {
+    "id": 610,
+    "player_id": 607,
+    "team_id": 27
+  },
+  {
+    "id": 611,
+    "player_id": 608,
+    "team_id": 27
+  },
+  {
+    "id": 612,
+    "player_id": 609,
+    "team_id": 27
+  },
+  {
+    "id": 613,
+    "player_id": 610,
+    "team_id": 27
+  },
+  {
+    "id": 614,
+    "player_id": 611,
+    "team_id": 27
+  },
+  {
+    "id": 615,
+    "player_id": 612,
+    "team_id": 27
+  },
+  {
+    "id": 616,
+    "player_id": 613,
+    "team_id": 27
+  },
+  {
+    "id": 617,
+    "player_id": 614,
+    "team_id": 27
+  },
+  {
+    "id": 618,
+    "player_id": 615,
+    "team_id": 27
+  },
+  {
+    "id": 619,
+    "player_id": 616,
+    "team_id": 27
+  },
+  {
+    "id": 620,
+    "player_id": 617,
+    "team_id": 27
+  },
+  {
+    "id": 621,
+    "player_id": 618,
+    "team_id": 27
+  },
+  {
+    "id": 622,
+    "player_id": 619,
+    "team_id": 27
+  },
+  {
+    "id": 623,
+    "player_id": 620,
+    "team_id": 27
+  },
+  {
+    "id": 624,
+    "player_id": 621,
+    "team_id": 27
+  },
+  {
+    "id": 625,
+    "player_id": 622,
+    "team_id": 28
+  },
+  {
+    "id": 626,
+    "player_id": 623,
+    "team_id": 28
+  },
+  {
+    "id": 627,
+    "player_id": 624,
+    "team_id": 28
+  },
+  {
+    "id": 628,
+    "player_id": 625,
+    "team_id": 28
+  },
+  {
+    "id": 629,
+    "player_id": 626,
+    "team_id": 28
+  },
+  {
+    "id": 630,
+    "player_id": 627,
+    "team_id": 28
+  },
+  {
+    "id": 631,
+    "player_id": 628,
+    "team_id": 28
+  },
+  {
+    "id": 632,
+    "player_id": 629,
+    "team_id": 28
+  },
+  {
+    "id": 633,
+    "player_id": 630,
+    "team_id": 28
+  },
+  {
+    "id": 634,
+    "player_id": 631,
+    "team_id": 28
+  },
+  {
+    "id": 635,
+    "player_id": 632,
+    "team_id": 28
+  },
+  {
+    "id": 636,
+    "player_id": 633,
+    "team_id": 28
+  },
+  {
+    "id": 637,
+    "player_id": 634,
+    "team_id": 28
+  },
+  {
+    "id": 638,
+    "player_id": 635,
+    "team_id": 28
+  },
+  {
+    "id": 639,
+    "player_id": 636,
+    "team_id": 28
+  },
+  {
+    "id": 640,
+    "player_id": 637,
+    "team_id": 28
+  },
+  {
+    "id": 641,
+    "player_id": 638,
+    "team_id": 28
+  },
+  {
+    "id": 642,
+    "player_id": 639,
+    "team_id": 28
+  },
+  {
+    "id": 643,
+    "player_id": 640,
+    "team_id": 29
+  },
+  {
+    "id": 644,
+    "player_id": 641,
+    "team_id": 29
+  },
+  {
+    "id": 645,
+    "player_id": 642,
+    "team_id": 29
+  },
+  {
+    "id": 646,
+    "player_id": 643,
+    "team_id": 29
+  },
+  {
+    "id": 647,
+    "player_id": 644,
+    "team_id": 29
+  },
+  {
+    "id": 648,
+    "player_id": 645,
+    "team_id": 29
+  },
+  {
+    "id": 649,
+    "player_id": 646,
+    "team_id": 29
+  },
+  {
+    "id": 650,
+    "player_id": 647,
+    "team_id": 29
+  },
+  {
+    "id": 651,
+    "player_id": 648,
+    "team_id": 29
+  },
+  {
+    "id": 652,
+    "player_id": 649,
+    "team_id": 29
+  },
+  {
+    "id": 653,
+    "player_id": 650,
+    "team_id": 29
+  },
+  {
+    "id": 654,
+    "player_id": 651,
+    "team_id": 29
+  },
+  {
+    "id": 655,
+    "player_id": 652,
+    "team_id": 29
+  },
+  {
+    "id": 656,
+    "player_id": 653,
+    "team_id": 29
+  },
+  {
+    "id": 657,
+    "player_id": 654,
+    "team_id": 29
+  },
+  {
+    "id": 658,
+    "player_id": 273,
+    "team_id": 29
+  },
+  {
+    "id": 659,
+    "player_id": 259,
+    "team_id": 29
+  },
+  {
+    "id": 660,
+    "player_id": 655,
+    "team_id": 29
+  },
+  {
+    "id": 661,
+    "player_id": 656,
+    "team_id": 29
+  },
+  {
+    "id": 662,
+    "player_id": 657,
+    "team_id": 29
+  },
+  {
+    "id": 663,
+    "player_id": 658,
+    "team_id": 29
+  },
+  {
+    "id": 664,
+    "player_id": 659,
+    "team_id": 29
+  },
+  {
+    "id": 665,
+    "player_id": 660,
+    "team_id": 29
+  },
+  {
+    "id": 666,
+    "player_id": 661,
+    "team_id": 29
+  },
+  {
+    "id": 667,
+    "player_id": 662,
+    "team_id": 30
+  },
+  {
+    "id": 668,
+    "player_id": 663,
+    "team_id": 30
+  },
+  {
+    "id": 669,
+    "player_id": 664,
+    "team_id": 30
+  },
+  {
+    "id": 670,
+    "player_id": 665,
+    "team_id": 30
+  },
+  {
+    "id": 671,
+    "player_id": 666,
+    "team_id": 30
+  },
+  {
+    "id": 672,
+    "player_id": 667,
+    "team_id": 30
+  },
+  {
+    "id": 673,
+    "player_id": 668,
+    "team_id": 30
+  },
+  {
+    "id": 674,
+    "player_id": 669,
+    "team_id": 30
+  },
+  {
+    "id": 675,
+    "player_id": 670,
+    "team_id": 30
+  },
+  {
+    "id": 676,
+    "player_id": 671,
+    "team_id": 30
+  },
+  {
+    "id": 677,
+    "player_id": 672,
+    "team_id": 30
+  },
+  {
+    "id": 678,
+    "player_id": 673,
+    "team_id": 30
+  },
+  {
+    "id": 679,
+    "player_id": 674,
+    "team_id": 30
+  },
+  {
+    "id": 680,
+    "player_id": 675,
+    "team_id": 30
+  },
+  {
+    "id": 681,
+    "player_id": 416,
+    "team_id": 30
+  },
+  {
+    "id": 682,
+    "player_id": 676,
+    "team_id": 30
+  },
+  {
+    "id": 683,
+    "player_id": 677,
+    "team_id": 30
+  },
+  {
+    "id": 684,
+    "player_id": 678,
+    "team_id": 30
+  },
+  {
+    "id": 685,
+    "player_id": 679,
+    "team_id": 30
+  },
+  {
+    "id": 686,
+    "player_id": 680,
+    "team_id": 30
+  },
+  {
+    "id": 687,
+    "player_id": 681,
+    "team_id": 30
+  },
+  {
+    "id": 688,
+    "player_id": 682,
+    "team_id": 30
+  },
+  {
+    "id": 689,
+    "player_id": 683,
+    "team_id": 30
+  },
+  {
+    "id": 690,
+    "player_id": 684,
+    "team_id": 30
+  },
+  {
+    "id": 691,
+    "player_id": 685,
+    "team_id": 31
+  },
+  {
+    "id": 692,
+    "player_id": 686,
+    "team_id": 31
+  },
+  {
+    "id": 693,
+    "player_id": 687,
+    "team_id": 31
+  },
+  {
+    "id": 694,
+    "player_id": 688,
+    "team_id": 31
+  },
+  {
+    "id": 695,
+    "player_id": 689,
+    "team_id": 31
+  },
+  {
+    "id": 696,
+    "player_id": 690,
+    "team_id": 31
+  },
+  {
+    "id": 697,
+    "player_id": 691,
+    "team_id": 31
+  },
+  {
+    "id": 698,
+    "player_id": 692,
+    "team_id": 31
+  },
+  {
+    "id": 699,
+    "player_id": 693,
+    "team_id": 31
+  },
+  {
+    "id": 700,
+    "player_id": 694,
+    "team_id": 31
+  },
+  {
+    "id": 701,
+    "player_id": 695,
+    "team_id": 31
+  },
+  {
+    "id": 702,
+    "player_id": 696,
+    "team_id": 31
+  },
+  {
+    "id": 703,
+    "player_id": 697,
+    "team_id": 31
+  },
+  {
+    "id": 704,
+    "player_id": 698,
+    "team_id": 31
+  },
+  {
+    "id": 705,
+    "player_id": 699,
+    "team_id": 31
+  },
+  {
+    "id": 706,
+    "player_id": 700,
+    "team_id": 31
+  },
+  {
+    "id": 707,
+    "player_id": 701,
+    "team_id": 31
+  },
+  {
+    "id": 708,
+    "player_id": 702,
+    "team_id": 31
+  },
+  {
+    "id": 709,
+    "player_id": 703,
+    "team_id": 31
+  },
+  {
+    "id": 710,
+    "player_id": 704,
+    "team_id": 31
+  },
+  {
+    "id": 711,
+    "player_id": 705,
+    "team_id": 32
+  },
+  {
+    "id": 712,
+    "player_id": 706,
+    "team_id": 32
+  },
+  {
+    "id": 713,
+    "player_id": 707,
+    "team_id": 32
+  },
+  {
+    "id": 714,
+    "player_id": 708,
+    "team_id": 32
+  },
+  {
+    "id": 715,
+    "player_id": 709,
+    "team_id": 32
+  },
+  {
+    "id": 716,
+    "player_id": 710,
+    "team_id": 32
+  },
+  {
+    "id": 717,
+    "player_id": 711,
+    "team_id": 32
+  },
+  {
+    "id": 718,
+    "player_id": 712,
+    "team_id": 32
+  },
+  {
+    "id": 719,
+    "player_id": 713,
+    "team_id": 32
+  },
+  {
+    "id": 720,
+    "player_id": 714,
+    "team_id": 32
+  },
+  {
+    "id": 721,
+    "player_id": 715,
+    "team_id": 32
+  },
+  {
+    "id": 722,
+    "player_id": 716,
+    "team_id": 32
+  },
+  {
+    "id": 723,
+    "player_id": 717,
+    "team_id": 32
+  },
+  {
+    "id": 724,
+    "player_id": 718,
+    "team_id": 32
+  },
+  {
+    "id": 725,
+    "player_id": 719,
+    "team_id": 32
+  },
+  {
+    "id": 726,
+    "player_id": 720,
+    "team_id": 32
+  },
+  {
+    "id": 727,
+    "player_id": 721,
+    "team_id": 32
+  },
+  {
+    "id": 728,
+    "player_id": 722,
+    "team_id": 32
+  },
+  {
+    "id": 729,
+    "player_id": 723,
+    "team_id": 32
+  },
+  {
+    "id": 730,
+    "player_id": 724,
+    "team_id": 32
+  },
+  {
+    "id": 731,
+    "player_id": 725,
+    "team_id": 32
+  },
+  {
+    "id": 732,
+    "player_id": 726,
+    "team_id": 32
+  },
+  {
+    "id": 733,
+    "player_id": 727,
+    "team_id": 32
+  },
+  {
+    "id": 734,
+    "player_id": 728,
+    "team_id": 33
+  },
+  {
+    "id": 735,
+    "player_id": 729,
+    "team_id": 33
+  },
+  {
+    "id": 736,
+    "player_id": 730,
+    "team_id": 33
+  },
+  {
+    "id": 737,
+    "player_id": 731,
+    "team_id": 33
+  },
+  {
+    "id": 738,
+    "player_id": 732,
+    "team_id": 33
+  },
+  {
+    "id": 739,
+    "player_id": 733,
+    "team_id": 33
+  },
+  {
+    "id": 740,
+    "player_id": 734,
+    "team_id": 33
+  },
+  {
+    "id": 741,
+    "player_id": 735,
+    "team_id": 33
+  },
+  {
+    "id": 742,
+    "player_id": 736,
+    "team_id": 33
+  },
+  {
+    "id": 743,
+    "player_id": 737,
+    "team_id": 33
+  },
+  {
+    "id": 744,
+    "player_id": 738,
+    "team_id": 33
+  },
+  {
+    "id": 745,
+    "player_id": 739,
+    "team_id": 33
+  },
+  {
+    "id": 746,
+    "player_id": 740,
+    "team_id": 33
+  },
+  {
+    "id": 747,
+    "player_id": 61,
+    "team_id": 33
+  },
+  {
+    "id": 748,
+    "player_id": 741,
+    "team_id": 33
+  },
+  {
+    "id": 749,
+    "player_id": 742,
+    "team_id": 33
+  },
+  {
+    "id": 750,
+    "player_id": 743,
+    "team_id": 33
+  },
+  {
+    "id": 751,
+    "player_id": 744,
+    "team_id": 33
+  },
+  {
+    "id": 752,
+    "player_id": 745,
+    "team_id": 33
+  },
+  {
+    "id": 753,
+    "player_id": 746,
+    "team_id": 33
+  },
+  {
+    "id": 754,
+    "player_id": 747,
+    "team_id": 33
+  },
+  {
+    "id": 755,
+    "player_id": 748,
+    "team_id": 33
+  },
+  {
+    "id": 756,
+    "player_id": 749,
+    "team_id": 33
+  },
+  {
+    "id": 757,
+    "player_id": 750,
+    "team_id": 34
+  },
+  {
+    "id": 758,
+    "player_id": 751,
+    "team_id": 34
+  },
+  {
+    "id": 759,
+    "player_id": 752,
+    "team_id": 34
+  },
+  {
+    "id": 760,
+    "player_id": 753,
+    "team_id": 34
+  },
+  {
+    "id": 761,
+    "player_id": 754,
+    "team_id": 34
+  },
+  {
+    "id": 762,
+    "player_id": 755,
+    "team_id": 34
+  },
+  {
+    "id": 763,
+    "player_id": 756,
+    "team_id": 34
+  },
+  {
+    "id": 764,
+    "player_id": 757,
+    "team_id": 34
+  },
+  {
+    "id": 765,
+    "player_id": 758,
+    "team_id": 34
+  },
+  {
+    "id": 766,
+    "player_id": 759,
+    "team_id": 34
+  },
+  {
+    "id": 767,
+    "player_id": 760,
+    "team_id": 34
+  },
+  {
+    "id": 768,
+    "player_id": 761,
+    "team_id": 34
+  },
+  {
+    "id": 769,
+    "player_id": 762,
+    "team_id": 34
+  },
+  {
+    "id": 770,
+    "player_id": 763,
+    "team_id": 34
+  },
+  {
+    "id": 771,
+    "player_id": 764,
+    "team_id": 34
+  },
+  {
+    "id": 772,
+    "player_id": 765,
+    "team_id": 34
+  },
+  {
+    "id": 773,
+    "player_id": 766,
+    "team_id": 34
+  },
+  {
+    "id": 774,
+    "player_id": 767,
+    "team_id": 34
+  },
+  {
+    "id": 775,
+    "player_id": 768,
+    "team_id": 34
+  },
+  {
+    "id": 776,
+    "player_id": 769,
+    "team_id": 34
+  },
+  {
+    "id": 777,
+    "player_id": 770,
+    "team_id": 34
+  },
+  {
+    "id": 778,
+    "player_id": 771,
+    "team_id": 34
+  },
+  {
+    "id": 779,
+    "player_id": 772,
+    "team_id": 34
+  },
+  {
+    "id": 780,
+    "player_id": 773,
+    "team_id": 34
+  },
+  {
+    "id": 781,
+    "player_id": 774,
+    "team_id": 34
+  },
+  {
+    "id": 782,
+    "player_id": 775,
+    "team_id": 35
+  },
+  {
+    "id": 783,
+    "player_id": 776,
+    "team_id": 35
+  },
+  {
+    "id": 784,
+    "player_id": 777,
+    "team_id": 35
+  },
+  {
+    "id": 785,
+    "player_id": 778,
+    "team_id": 35
+  },
+  {
+    "id": 786,
+    "player_id": 779,
+    "team_id": 35
+  },
+  {
+    "id": 787,
+    "player_id": 780,
+    "team_id": 35
+  },
+  {
+    "id": 788,
+    "player_id": 781,
+    "team_id": 35
+  },
+  {
+    "id": 789,
+    "player_id": 782,
+    "team_id": 35
+  },
+  {
+    "id": 790,
+    "player_id": 783,
+    "team_id": 35
+  },
+  {
+    "id": 791,
+    "player_id": 784,
+    "team_id": 35
+  },
+  {
+    "id": 792,
+    "player_id": 785,
+    "team_id": 35
+  },
+  {
+    "id": 793,
+    "player_id": 786,
+    "team_id": 35
+  },
+  {
+    "id": 794,
+    "player_id": 787,
+    "team_id": 35
+  },
+  {
+    "id": 795,
+    "player_id": 788,
+    "team_id": 35
+  },
+  {
+    "id": 796,
+    "player_id": 789,
+    "team_id": 35
+  },
+  {
+    "id": 797,
+    "player_id": 790,
+    "team_id": 35
+  },
+  {
+    "id": 798,
+    "player_id": 791,
+    "team_id": 35
+  },
+  {
+    "id": 799,
+    "player_id": 792,
+    "team_id": 35
+  },
+  {
+    "id": 800,
+    "player_id": 793,
+    "team_id": 35
+  },
+  {
+    "id": 801,
+    "player_id": 794,
+    "team_id": 35
+  },
+  {
+    "id": 802,
+    "player_id": 795,
+    "team_id": 35
+  },
+  {
+    "id": 803,
+    "player_id": 796,
+    "team_id": 36
+  },
+  {
+    "id": 804,
+    "player_id": 797,
+    "team_id": 36
+  },
+  {
+    "id": 805,
+    "player_id": 798,
+    "team_id": 36
+  },
+  {
+    "id": 806,
+    "player_id": 799,
+    "team_id": 36
+  },
+  {
+    "id": 807,
+    "player_id": 800,
+    "team_id": 36
+  },
+  {
+    "id": 808,
+    "player_id": 801,
+    "team_id": 36
+  },
+  {
+    "id": 809,
+    "player_id": 802,
+    "team_id": 36
+  },
+  {
+    "id": 810,
+    "player_id": 803,
+    "team_id": 36
+  },
+  {
+    "id": 811,
+    "player_id": 804,
+    "team_id": 36
+  },
+  {
+    "id": 812,
+    "player_id": 805,
+    "team_id": 36
+  },
+  {
+    "id": 813,
+    "player_id": 806,
+    "team_id": 36
+  },
+  {
+    "id": 814,
+    "player_id": 807,
+    "team_id": 36
+  },
+  {
+    "id": 815,
+    "player_id": 808,
+    "team_id": 36
+  },
+  {
+    "id": 816,
+    "player_id": 809,
+    "team_id": 36
+  },
+  {
+    "id": 817,
+    "player_id": 810,
+    "team_id": 36
+  },
+  {
+    "id": 818,
+    "player_id": 811,
+    "team_id": 36
+  },
+  {
+    "id": 819,
+    "player_id": 812,
+    "team_id": 36
+  },
+  {
+    "id": 820,
+    "player_id": 813,
+    "team_id": 36
+  },
+  {
+    "id": 821,
+    "player_id": 814,
+    "team_id": 36
+  },
+  {
+    "id": 822,
+    "player_id": 815,
+    "team_id": 36
+  },
+  {
+    "id": 823,
+    "player_id": 816,
+    "team_id": 36
+  },
+  {
+    "id": 824,
+    "player_id": 817,
+    "team_id": 36
+  },
+  {
+    "id": 825,
+    "player_id": 818,
+    "team_id": 36
+  },
+  {
+    "id": 826,
+    "player_id": 819,
+    "team_id": 36
+  },
+  {
+    "id": 827,
+    "player_id": 820,
+    "team_id": 37
+  },
+  {
+    "id": 828,
+    "player_id": 821,
+    "team_id": 37
+  },
+  {
+    "id": 829,
+    "player_id": 822,
+    "team_id": 37
+  },
+  {
+    "id": 830,
+    "player_id": 823,
+    "team_id": 37
+  },
+  {
+    "id": 831,
+    "player_id": 824,
+    "team_id": 37
+  },
+  {
+    "id": 832,
+    "player_id": 825,
+    "team_id": 37
+  },
+  {
+    "id": 833,
+    "player_id": 826,
+    "team_id": 37
+  },
+  {
+    "id": 834,
+    "player_id": 827,
+    "team_id": 37
+  },
+  {
+    "id": 835,
+    "player_id": 828,
+    "team_id": 37
+  },
+  {
+    "id": 836,
+    "player_id": 829,
+    "team_id": 37
+  },
+  {
+    "id": 837,
+    "player_id": 830,
+    "team_id": 37
+  },
+  {
+    "id": 838,
+    "player_id": 831,
+    "team_id": 37
+  },
+  {
+    "id": 839,
+    "player_id": 832,
+    "team_id": 37
+  },
+  {
+    "id": 840,
+    "player_id": 833,
+    "team_id": 37
+  },
+  {
+    "id": 841,
+    "player_id": 545,
+    "team_id": 37
+  },
+  {
+    "id": 842,
+    "player_id": 834,
+    "team_id": 37
+  },
+  {
+    "id": 843,
+    "player_id": 835,
+    "team_id": 37
+  },
+  {
+    "id": 844,
+    "player_id": 836,
+    "team_id": 37
+  },
+  {
+    "id": 845,
+    "player_id": 837,
+    "team_id": 37
+  },
+  {
+    "id": 846,
+    "player_id": 838,
+    "team_id": 37
+  },
+  {
+    "id": 847,
+    "player_id": 839,
+    "team_id": 37
+  },
+  {
+    "id": 848,
+    "player_id": 840,
+    "team_id": 37
+  },
+  {
+    "id": 849,
+    "player_id": 841,
+    "team_id": 37
+  },
+  {
+    "id": 850,
+    "player_id": 842,
+    "team_id": 37
+  },
+  {
+    "id": 851,
+    "player_id": 843,
+    "team_id": 37
+  },
+  {
+    "id": 852,
+    "player_id": 844,
+    "team_id": 38
+  },
+  {
+    "id": 853,
+    "player_id": 845,
+    "team_id": 38
+  },
+  {
+    "id": 854,
+    "player_id": 846,
+    "team_id": 38
+  },
+  {
+    "id": 855,
+    "player_id": 847,
+    "team_id": 38
+  },
+  {
+    "id": 856,
+    "player_id": 848,
+    "team_id": 38
+  },
+  {
+    "id": 857,
+    "player_id": 849,
+    "team_id": 38
+  },
+  {
+    "id": 858,
+    "player_id": 850,
+    "team_id": 38
+  },
+  {
+    "id": 859,
+    "player_id": 851,
+    "team_id": 38
+  },
+  {
+    "id": 860,
+    "player_id": 852,
+    "team_id": 38
+  },
+  {
+    "id": 861,
+    "player_id": 853,
+    "team_id": 38
+  },
+  {
+    "id": 862,
+    "player_id": 854,
+    "team_id": 38
+  },
+  {
+    "id": 863,
+    "player_id": 855,
+    "team_id": 38
+  },
+  {
+    "id": 864,
+    "player_id": 856,
+    "team_id": 38
+  },
+  {
+    "id": 865,
+    "player_id": 857,
+    "team_id": 38
+  },
+  {
+    "id": 866,
+    "player_id": 192,
+    "team_id": 38
+  },
+  {
+    "id": 867,
+    "player_id": 858,
+    "team_id": 38
+  },
+  {
+    "id": 868,
+    "player_id": 859,
+    "team_id": 38
+  },
+  {
+    "id": 869,
+    "player_id": 860,
+    "team_id": 38
+  },
+  {
+    "id": 870,
+    "player_id": 861,
+    "team_id": 38
+  },
+  {
+    "id": 871,
+    "player_id": 862,
+    "team_id": 39
+  },
+  {
+    "id": 872,
+    "player_id": 280,
+    "team_id": 39
+  },
+  {
+    "id": 873,
+    "player_id": 863,
+    "team_id": 39
+  },
+  {
+    "id": 874,
+    "player_id": 279,
+    "team_id": 39
+  },
+  {
+    "id": 875,
+    "player_id": 864,
+    "team_id": 39
+  },
+  {
+    "id": 876,
+    "player_id": 728,
+    "team_id": 39
+  },
+  {
+    "id": 877,
+    "player_id": 865,
+    "team_id": 39
+  },
+  {
+    "id": 878,
+    "player_id": 866,
+    "team_id": 39
+  },
+  {
+    "id": 879,
+    "player_id": 332,
+    "team_id": 39
+  },
+  {
+    "id": 880,
+    "player_id": 867,
+    "team_id": 39
+  },
+  {
+    "id": 881,
+    "player_id": 623,
+    "team_id": 39
+  },
+  {
+    "id": 882,
+    "player_id": 286,
+    "team_id": 39
+  },
+  {
+    "id": 883,
+    "player_id": 333,
+    "team_id": 39
+  },
+  {
+    "id": 884,
+    "player_id": 268,
+    "team_id": 39
+  },
+  {
+    "id": 885,
+    "player_id": 868,
+    "team_id": 39
+  },
+  {
+    "id": 886,
+    "player_id": 636,
+    "team_id": 39
+  },
+  {
+    "id": 887,
+    "player_id": 869,
+    "team_id": 39
+  },
+  {
+    "id": 888,
+    "player_id": 197,
+    "team_id": 39
+  },
+  {
+    "id": 889,
+    "player_id": 870,
+    "team_id": 39
+  },
+  {
+    "id": 890,
+    "player_id": 203,
+    "team_id": 39
+  },
+  {
+    "id": 891,
+    "player_id": 276,
+    "team_id": 39
+  },
+  {
+    "id": 892,
+    "player_id": 178,
+    "team_id": 39
+  },
+  {
+    "id": 893,
+    "player_id": 871,
+    "team_id": 39
+  },
+  {
+    "id": 894,
+    "player_id": 872,
+    "team_id": 39
+  },
+  {
+    "id": 895,
+    "player_id": 758,
+    "team_id": 40
+  },
+  {
+    "id": 896,
+    "player_id": 302,
+    "team_id": 40
+  },
+  {
+    "id": 897,
+    "player_id": 372,
+    "team_id": 40
+  },
+  {
+    "id": 898,
+    "player_id": 1,
+    "team_id": 40
+  },
+  {
+    "id": 899,
+    "player_id": 5,
+    "team_id": 40
+  },
+  {
+    "id": 900,
+    "player_id": 608,
+    "team_id": 40
+  },
+  {
+    "id": 901,
+    "player_id": 409,
+    "team_id": 40
+  },
+  {
+    "id": 902,
+    "player_id": 402,
+    "team_id": 40
+  },
+  {
+    "id": 903,
+    "player_id": 763,
+    "team_id": 40
+  },
+  {
+    "id": 904,
+    "player_id": 873,
+    "team_id": 40
+  },
+  {
+    "id": 905,
+    "player_id": 787,
+    "team_id": 40
+  },
+  {
+    "id": 906,
+    "player_id": 767,
+    "team_id": 40
+  },
+  {
+    "id": 907,
+    "player_id": 874,
+    "team_id": 40
+  },
+  {
+    "id": 908,
+    "player_id": 318,
+    "team_id": 40
+  },
+  {
+    "id": 909,
+    "player_id": 769,
+    "team_id": 40
+  },
+  {
+    "id": 910,
+    "player_id": 875,
+    "team_id": 40
+  },
+  {
+    "id": 911,
+    "player_id": 876,
+    "team_id": 41
+  },
+  {
+    "id": 912,
+    "player_id": 822,
+    "team_id": 41
+  },
+  {
+    "id": 913,
+    "player_id": 877,
+    "team_id": 41
+  },
+  {
+    "id": 914,
+    "player_id": 846,
+    "team_id": 41
+  },
+  {
+    "id": 915,
+    "player_id": 643,
+    "team_id": 41
+  },
+  {
+    "id": 916,
+    "player_id": 671,
+    "team_id": 41
+  },
+  {
+    "id": 917,
+    "player_id": 878,
+    "team_id": 41
+  },
+  {
+    "id": 918,
+    "player_id": 798,
+    "team_id": 41
+  },
+  {
+    "id": 919,
+    "player_id": 879,
+    "team_id": 41
+  },
+  {
+    "id": 920,
+    "player_id": 244,
+    "team_id": 41
+  },
+  {
+    "id": 921,
+    "player_id": 663,
+    "team_id": 41
+  },
+  {
+    "id": 922,
+    "player_id": 399,
+    "team_id": 41
+  },
+  {
+    "id": 923,
+    "player_id": 651,
+    "team_id": 41
+  },
+  {
+    "id": 924,
+    "player_id": 880,
+    "team_id": 41
+  },
+  {
+    "id": 925,
+    "player_id": 881,
+    "team_id": 41
+  },
+  {
+    "id": 926,
+    "player_id": 854,
+    "team_id": 41
+  },
+  {
+    "id": 927,
+    "player_id": 882,
+    "team_id": 41
+  },
+  {
+    "id": 928,
+    "player_id": 273,
+    "team_id": 41
+  },
+  {
+    "id": 929,
+    "player_id": 883,
+    "team_id": 41
+  },
+  {
+    "id": 930,
+    "player_id": 884,
+    "team_id": 41
+  },
+  {
+    "id": 931,
+    "player_id": 885,
+    "team_id": 41
+  },
+  {
+    "id": 932,
+    "player_id": 811,
+    "team_id": 41
+  },
+  {
+    "id": 933,
+    "player_id": 786,
+    "team_id": 42
+  },
+  {
+    "id": 934,
+    "player_id": 98,
+    "team_id": 42
+  },
+  {
+    "id": 935,
+    "player_id": 886,
+    "team_id": 42
+  },
+  {
+    "id": 936,
+    "player_id": 887,
+    "team_id": 42
+  },
+  {
+    "id": 937,
+    "player_id": 55,
+    "team_id": 42
+  },
+  {
+    "id": 938,
+    "player_id": 345,
+    "team_id": 42
+  },
+  {
+    "id": 939,
+    "player_id": 347,
+    "team_id": 42
+  },
+  {
+    "id": 940,
+    "player_id": 97,
+    "team_id": 42
+  },
+  {
+    "id": 941,
+    "player_id": 888,
+    "team_id": 42
+  },
+  {
+    "id": 942,
+    "player_id": 889,
+    "team_id": 42
+  },
+  {
+    "id": 943,
+    "player_id": 50,
+    "team_id": 42
+  },
+  {
+    "id": 944,
+    "player_id": 890,
+    "team_id": 42
+  },
+  {
+    "id": 945,
+    "player_id": 344,
+    "team_id": 42
+  },
+  {
+    "id": 946,
+    "player_id": 793,
+    "team_id": 42
+  },
+  {
+    "id": 947,
+    "player_id": 583,
+    "team_id": 42
+  },
+  {
+    "id": 948,
+    "player_id": 891,
+    "team_id": 42
+  },
+  {
+    "id": 949,
+    "player_id": 521,
+    "team_id": 42
+  },
+  {
+    "id": 950,
+    "player_id": 892,
+    "team_id": 42
+  },
+  {
+    "id": 951,
+    "player_id": 893,
+    "team_id": 42
+  },
+  {
+    "id": 952,
+    "player_id": 894,
+    "team_id": 42
+  },
+  {
+    "id": 953,
+    "player_id": 594,
+    "team_id": 42
+  },
+  {
+    "id": 954,
+    "player_id": 357,
+    "team_id": 42
+  },
+  {
+    "id": 955,
+    "player_id": 570,
+    "team_id": 42
+  },
+  {
+    "id": 956,
+    "player_id": 895,
+    "team_id": 42
+  },
+  {
+    "id": 957,
+    "player_id": 360,
+    "team_id": 42
+  },
+  {
+    "id": 958,
+    "player_id": 896,
+    "team_id": 42
+  },
+  {
+    "id": 959,
+    "player_id": 442,
+    "team_id": 43
+  },
+  {
+    "id": 960,
+    "player_id": 897,
+    "team_id": 43
+  },
+  {
+    "id": 961,
+    "player_id": 898,
+    "team_id": 43
+  },
+  {
+    "id": 962,
+    "player_id": 899,
+    "team_id": 43
+  },
+  {
+    "id": 963,
+    "player_id": 235,
+    "team_id": 43
+  },
+  {
+    "id": 964,
+    "player_id": 900,
+    "team_id": 43
+  },
+  {
+    "id": 965,
+    "player_id": 686,
+    "team_id": 43
+  },
+  {
+    "id": 966,
+    "player_id": 77,
+    "team_id": 43
+  },
+  {
+    "id": 967,
+    "player_id": 901,
+    "team_id": 43
+  },
+  {
+    "id": 968,
+    "player_id": 685,
+    "team_id": 43
+  },
+  {
+    "id": 969,
+    "player_id": 76,
+    "team_id": 43
+  },
+  {
+    "id": 970,
+    "player_id": 538,
+    "team_id": 43
+  },
+  {
+    "id": 971,
+    "player_id": 902,
+    "team_id": 43
+  },
+  {
+    "id": 972,
+    "player_id": 701,
+    "team_id": 43
+  },
+  {
+    "id": 973,
+    "player_id": 247,
+    "team_id": 43
+  },
+  {
+    "id": 974,
+    "player_id": 903,
+    "team_id": 43
+  },
+  {
+    "id": 975,
+    "player_id": 904,
+    "team_id": 43
+  },
+  {
+    "id": 976,
+    "player_id": 905,
+    "team_id": 43
+  },
+  {
+    "id": 977,
+    "player_id": 906,
+    "team_id": 43
+  },
+  {
+    "id": 978,
+    "player_id": 907,
+    "team_id": 43
+  },
+  {
+    "id": 979,
+    "player_id": 253,
+    "team_id": 43
+  },
+  {
+    "id": 980,
+    "player_id": 908,
+    "team_id": 43
+  },
+  {
+    "id": 981,
+    "player_id": 909,
+    "team_id": 43
+  },
+  {
+    "id": 982,
+    "player_id": 910,
+    "team_id": 43
+  },
+  {
+    "id": 983,
+    "player_id": 552,
+    "team_id": 43
+  },
+  {
+    "id": 984,
+    "player_id": 702,
+    "team_id": 43
+  },
+  {
+    "id": 985,
+    "player_id": 911,
+    "team_id": 43
+  },
+  {
+    "id": 986,
+    "player_id": 372,
+    "team_id": 44
+  },
+  {
+    "id": 987,
+    "player_id": 622,
+    "team_id": 44
+  },
+  {
+    "id": 988,
+    "player_id": 543,
+    "team_id": 44
+  },
+  {
+    "id": 989,
+    "player_id": 381,
+    "team_id": 44
+  },
+  {
+    "id": 990,
+    "player_id": 698,
+    "team_id": 44
+  },
+  {
+    "id": 991,
+    "player_id": 678,
+    "team_id": 44
+  },
+  {
+    "id": 992,
+    "player_id": 814,
+    "team_id": 44
+  },
+  {
+    "id": 993,
+    "player_id": 389,
+    "team_id": 44
+  },
+  {
+    "id": 994,
+    "player_id": 769,
+    "team_id": 44
+  },
+  {
+    "id": 995,
+    "player_id": 797,
+    "team_id": 44
+  },
+  {
+    "id": 996,
+    "player_id": 697,
+    "team_id": 44
+  },
+  {
+    "id": 997,
+    "player_id": 912,
+    "team_id": 45
+  },
+  {
+    "id": 998,
+    "player_id": 450,
+    "team_id": 45
+  },
+  {
+    "id": 999,
+    "player_id": 913,
+    "team_id": 45
+  },
+  {
+    "id": 1000,
+    "player_id": 914,
+    "team_id": 45
+  },
+  {
+    "id": 1001,
+    "player_id": 574,
+    "team_id": 45
+  },
+  {
+    "id": 1002,
+    "player_id": 694,
+    "team_id": 45
+  },
+  {
+    "id": 1003,
+    "player_id": 915,
+    "team_id": 45
+  },
+  {
+    "id": 1004,
+    "player_id": 916,
+    "team_id": 45
+  },
+  {
+    "id": 1005,
+    "player_id": 544,
+    "team_id": 45
+  },
+  {
+    "id": 1006,
+    "player_id": 917,
+    "team_id": 45
+  },
+  {
+    "id": 1007,
+    "player_id": 918,
+    "team_id": 45
+  },
+  {
+    "id": 1008,
+    "player_id": 463,
+    "team_id": 45
+  },
+  {
+    "id": 1009,
+    "player_id": 77,
+    "team_id": 45
+  },
+  {
+    "id": 1010,
+    "player_id": 919,
+    "team_id": 45
+  },
+  {
+    "id": 1011,
+    "player_id": 920,
+    "team_id": 45
+  },
+  {
+    "id": 1012,
+    "player_id": 549,
+    "team_id": 45
+  },
+  {
+    "id": 1013,
+    "player_id": 316,
+    "team_id": 45
+  },
+  {
+    "id": 1014,
+    "player_id": 684,
+    "team_id": 45
+  },
+  {
+    "id": 1015,
+    "player_id": 921,
+    "team_id": 45
+  },
+  {
+    "id": 1016,
+    "player_id": 922,
+    "team_id": 45
+  },
+  {
+    "id": 1017,
+    "player_id": 553,
+    "team_id": 45
+  },
+  {
+    "id": 1018,
+    "player_id": 202,
+    "team_id": 45
+  },
+  {
+    "id": 1019,
+    "player_id": 458,
+    "team_id": 45
+  },
+  {
+    "id": 1020,
+    "player_id": 923,
+    "team_id": 45
+  },
+  {
+    "id": 1021,
+    "player_id": 196,
+    "team_id": 46
+  },
+  {
+    "id": 1022,
+    "player_id": 924,
+    "team_id": 46
+  },
+  {
+    "id": 1023,
+    "player_id": 533,
+    "team_id": 46
+  },
+  {
+    "id": 1024,
+    "player_id": 4,
+    "team_id": 46
+  },
+  {
+    "id": 1025,
+    "player_id": 186,
+    "team_id": 46
+  },
+  {
+    "id": 1026,
+    "player_id": 623,
+    "team_id": 46
+  },
+  {
+    "id": 1027,
+    "player_id": 925,
+    "team_id": 46
+  },
+  {
+    "id": 1028,
+    "player_id": 247,
+    "team_id": 46
+  },
+  {
+    "id": 1029,
+    "player_id": 535,
+    "team_id": 46
+  },
+  {
+    "id": 1030,
+    "player_id": 926,
+    "team_id": 46
+  },
+  {
+    "id": 1031,
+    "player_id": 231,
+    "team_id": 46
+  },
+  {
+    "id": 1032,
+    "player_id": 192,
+    "team_id": 46
+  },
+  {
+    "id": 1033,
+    "player_id": 12,
+    "team_id": 46
+  },
+  {
+    "id": 1034,
+    "player_id": 927,
+    "team_id": 46
+  },
+  {
+    "id": 1035,
+    "player_id": 811,
+    "team_id": 46
+  },
+  {
+    "id": 1036,
+    "player_id": 455,
+    "team_id": 46
+  },
+  {
+    "id": 1037,
+    "player_id": 928,
+    "team_id": 46
+  },
+  {
+    "id": 1038,
+    "player_id": 680,
+    "team_id": 46
+  },
+  {
+    "id": 1039,
+    "player_id": 929,
+    "team_id": 46
+  },
+  {
+    "id": 1040,
+    "player_id": 930,
+    "team_id": 46
+  },
+  {
+    "id": 1041,
+    "player_id": 554,
+    "team_id": 46
+  },
+  {
+    "id": 1042,
+    "player_id": 682,
+    "team_id": 46
+  },
+  {
+    "id": 1043,
+    "player_id": 931,
+    "team_id": 46
+  },
+  {
+    "id": 1044,
+    "player_id": 703,
+    "team_id": 46
+  },
+  {
+    "id": 1045,
+    "player_id": 82,
+    "team_id": 47
+  },
+  {
+    "id": 1046,
+    "player_id": 625,
+    "team_id": 47
+  },
+  {
+    "id": 1047,
+    "player_id": 932,
+    "team_id": 47
+  },
+  {
+    "id": 1048,
+    "player_id": 933,
+    "team_id": 47
+  },
+  {
+    "id": 1049,
+    "player_id": 755,
+    "team_id": 47
+  },
+  {
+    "id": 1050,
+    "player_id": 934,
+    "team_id": 47
+  },
+  {
+    "id": 1051,
+    "player_id": 935,
+    "team_id": 47
+  },
+  {
+    "id": 1052,
+    "player_id": 786,
+    "team_id": 47
+  },
+  {
+    "id": 1053,
+    "player_id": 936,
+    "team_id": 47
+  },
+  {
+    "id": 1054,
+    "player_id": 265,
+    "team_id": 47
+  },
+  {
+    "id": 1055,
+    "player_id": 272,
+    "team_id": 47
+  },
+  {
+    "id": 1056,
+    "player_id": 866,
+    "team_id": 47
+  },
+  {
+    "id": 1057,
+    "player_id": 937,
+    "team_id": 47
+  },
+  {
+    "id": 1058,
+    "player_id": 938,
+    "team_id": 47
+  },
+  {
+    "id": 1059,
+    "player_id": 859,
+    "team_id": 47
+  },
+  {
+    "id": 1060,
+    "player_id": 758,
+    "team_id": 47
+  },
+  {
+    "id": 1061,
+    "player_id": 939,
+    "team_id": 47
+  },
+  {
+    "id": 1062,
+    "player_id": 940,
+    "team_id": 47
+  },
+  {
+    "id": 1063,
+    "player_id": 117,
+    "team_id": 47
+  },
+  {
+    "id": 1064,
+    "player_id": 941,
+    "team_id": 47
+  },
+  {
+    "id": 1065,
+    "player_id": 942,
+    "team_id": 47
+  },
+  {
+    "id": 1066,
+    "player_id": 812,
+    "team_id": 47
+  },
+  {
+    "id": 1067,
+    "player_id": 92,
+    "team_id": 47
+  },
+  {
+    "id": 1068,
+    "player_id": 200,
+    "team_id": 47
+  },
+  {
+    "id": 1069,
+    "player_id": 543,
+    "team_id": 48
+  },
+  {
+    "id": 1070,
+    "player_id": 536,
+    "team_id": 48
+  },
+  {
+    "id": 1071,
+    "player_id": 943,
+    "team_id": 48
+  },
+  {
+    "id": 1072,
+    "player_id": 944,
+    "team_id": 48
+  },
+  {
+    "id": 1073,
+    "player_id": 797,
+    "team_id": 48
+  },
+  {
+    "id": 1074,
+    "player_id": 667,
+    "team_id": 48
+  },
+  {
+    "id": 1075,
+    "player_id": 642,
+    "team_id": 48
+  },
+  {
+    "id": 1076,
+    "player_id": 358,
+    "team_id": 48
+  },
+  {
+    "id": 1077,
+    "player_id": 945,
+    "team_id": 48
+  },
+  {
+    "id": 1078,
+    "player_id": 946,
+    "team_id": 48
+  },
+  {
+    "id": 1079,
+    "player_id": 422,
+    "team_id": 48
+  },
+  {
+    "id": 1080,
+    "player_id": 813,
+    "team_id": 48
+  },
+  {
+    "id": 1081,
+    "player_id": 193,
+    "team_id": 48
+  },
+  {
+    "id": 1082,
+    "player_id": 947,
+    "team_id": 48
+  },
+  {
+    "id": 1083,
+    "player_id": 948,
+    "team_id": 48
+  },
+  {
+    "id": 1084,
+    "player_id": 949,
+    "team_id": 48
+  },
+  {
+    "id": 1085,
+    "player_id": 950,
+    "team_id": 48
+  },
+  {
+    "id": 1086,
+    "player_id": 695,
+    "team_id": 48
+  },
+  {
+    "id": 1087,
+    "player_id": 951,
+    "team_id": 48
+  },
+  {
+    "id": 1088,
+    "player_id": 751,
+    "team_id": 48
+  },
+  {
+    "id": 1089,
+    "player_id": 766,
+    "team_id": 48
+  },
+  {
+    "id": 1090,
+    "player_id": 952,
+    "team_id": 48
+  },
+  {
+    "id": 1091,
+    "player_id": 860,
+    "team_id": 48
+  },
+  {
+    "id": 1092,
+    "player_id": 953,
+    "team_id": 48
+  },
+  {
+    "id": 1093,
+    "player_id": 954,
+    "team_id": 48
+  },
+  {
+    "id": 1094,
+    "player_id": 380,
+    "team_id": 49
+  },
+  {
+    "id": 1095,
+    "player_id": 367,
+    "team_id": 49
+  },
+  {
+    "id": 1096,
+    "player_id": 955,
+    "team_id": 49
+  },
+  {
+    "id": 1097,
+    "player_id": 160,
+    "team_id": 49
+  },
+  {
+    "id": 1098,
+    "player_id": 189,
+    "team_id": 49
+  },
+  {
+    "id": 1099,
+    "player_id": 956,
+    "team_id": 49
+  },
+  {
+    "id": 1100,
+    "player_id": 957,
+    "team_id": 49
+  },
+  {
+    "id": 1101,
+    "player_id": 80,
+    "team_id": 49
+  },
+  {
+    "id": 1102,
+    "player_id": 668,
+    "team_id": 49
+  },
+  {
+    "id": 1103,
+    "player_id": 381,
+    "team_id": 49
+  },
+  {
+    "id": 1104,
+    "player_id": 958,
+    "team_id": 49
+  },
+  {
+    "id": 1105,
+    "player_id": 796,
+    "team_id": 49
+  },
+  {
+    "id": 1106,
+    "player_id": 959,
+    "team_id": 49
+  },
+  {
+    "id": 1107,
+    "player_id": 676,
+    "team_id": 49
+  },
+  {
+    "id": 1108,
+    "player_id": 357,
+    "team_id": 49
+  },
+  {
+    "id": 1109,
+    "player_id": 960,
+    "team_id": 49
+  },
+  {
+    "id": 1110,
+    "player_id": 961,
+    "team_id": 49
+  },
+  {
+    "id": 1111,
+    "player_id": 962,
+    "team_id": 49
+  },
+  {
+    "id": 1112,
+    "player_id": 439,
+    "team_id": 49
+  },
+  {
+    "id": 1113,
+    "player_id": 814,
+    "team_id": 49
+  },
+  {
+    "id": 1114,
+    "player_id": 818,
+    "team_id": 49
+  },
+  {
+    "id": 1115,
+    "player_id": 204,
+    "team_id": 49
+  },
+  {
+    "id": 1116,
+    "player_id": 267,
+    "team_id": 50
+  },
+  {
+    "id": 1117,
+    "player_id": 963,
+    "team_id": 50
+  },
+  {
+    "id": 1118,
+    "player_id": 538,
+    "team_id": 50
+  },
+  {
+    "id": 1119,
+    "player_id": 964,
+    "team_id": 50
+  },
+  {
+    "id": 1120,
+    "player_id": 303,
+    "team_id": 50
+  },
+  {
+    "id": 1121,
+    "player_id": 965,
+    "team_id": 50
+  },
+  {
+    "id": 1122,
+    "player_id": 622,
+    "team_id": 50
+  },
+  {
+    "id": 1123,
+    "player_id": 624,
+    "team_id": 50
+  },
+  {
+    "id": 1124,
+    "player_id": 966,
+    "team_id": 50
+  },
+  {
+    "id": 1125,
+    "player_id": 760,
+    "team_id": 50
+  },
+  {
+    "id": 1126,
+    "player_id": 967,
+    "team_id": 50
+  },
+  {
+    "id": 1127,
+    "player_id": 228,
+    "team_id": 50
+  },
+  {
+    "id": 1128,
+    "player_id": 304,
+    "team_id": 50
+  },
+  {
+    "id": 1129,
+    "player_id": 968,
+    "team_id": 50
+  },
+  {
+    "id": 1130,
+    "player_id": 356,
+    "team_id": 50
+  },
+  {
+    "id": 1131,
+    "player_id": 806,
+    "team_id": 50
+  },
+  {
+    "id": 1132,
+    "player_id": 767,
+    "team_id": 50
+  },
+  {
+    "id": 1133,
+    "player_id": 631,
+    "team_id": 50
+  },
+  {
+    "id": 1134,
+    "player_id": 253,
+    "team_id": 50
+  },
+  {
+    "id": 1135,
+    "player_id": 969,
+    "team_id": 50
+  },
+  {
+    "id": 1136,
+    "player_id": 702,
+    "team_id": 50
+  },
+  {
+    "id": 1137,
+    "player_id": 970,
+    "team_id": 50
+  },
+  {
+    "id": 1138,
+    "player_id": 409,
+    "team_id": 50
+  },
+  {
+    "id": 1139,
+    "player_id": 971,
+    "team_id": 50
+  },
+  {
+    "id": 1140,
+    "player_id": 972,
+    "team_id": 50
+  },
+  {
+    "id": 1141,
+    "player_id": 188,
+    "team_id": 51
+  },
+  {
+    "id": 1142,
+    "player_id": 372,
+    "team_id": 51
+  },
+  {
+    "id": 1143,
+    "player_id": 692,
+    "team_id": 51
+  },
+  {
+    "id": 1144,
+    "player_id": 973,
+    "team_id": 51
+  },
+  {
+    "id": 1145,
+    "player_id": 844,
+    "team_id": 51
+  },
+  {
+    "id": 1146,
+    "player_id": 974,
+    "team_id": 51
+  },
+  {
+    "id": 1147,
+    "player_id": 975,
+    "team_id": 51
+  },
+  {
+    "id": 1148,
+    "player_id": 168,
+    "team_id": 51
+  },
+  {
+    "id": 1149,
+    "player_id": 976,
+    "team_id": 51
+  },
+  {
+    "id": 1150,
+    "player_id": 977,
+    "team_id": 51
+  },
+  {
+    "id": 1151,
+    "player_id": 286,
+    "team_id": 51
+  },
+  {
+    "id": 1152,
+    "player_id": 103,
+    "team_id": 51
+  },
+  {
+    "id": 1153,
+    "player_id": 750,
+    "team_id": 51
+  },
+  {
+    "id": 1154,
+    "player_id": 632,
+    "team_id": 51
+  },
+  {
+    "id": 1155,
+    "player_id": 978,
+    "team_id": 51
+  },
+  {
+    "id": 1156,
+    "player_id": 629,
+    "team_id": 51
+  },
+  {
+    "id": 1157,
+    "player_id": 854,
+    "team_id": 51
+  },
+  {
+    "id": 1158,
+    "player_id": 635,
+    "team_id": 51
+  },
+  {
+    "id": 1159,
+    "player_id": 637,
+    "team_id": 51
+  },
+  {
+    "id": 1160,
+    "player_id": 299,
+    "team_id": 51
+  },
+  {
+    "id": 1161,
+    "player_id": 979,
+    "team_id": 51
+  },
+  {
+    "id": 1162,
+    "player_id": 114,
+    "team_id": 51
+  },
+  {
+    "id": 1163,
+    "player_id": 178,
+    "team_id": 51
+  },
+  {
+    "id": 1164,
+    "player_id": 980,
+    "team_id": 51
+  },
+  {
+    "id": 1165,
+    "player_id": 678,
+    "team_id": 51
+  },
+  {
+    "id": 1166,
+    "player_id": 404,
+    "team_id": 52
+  },
+  {
+    "id": 1167,
+    "player_id": 532,
+    "team_id": 52
+  },
+  {
+    "id": 1168,
+    "player_id": 370,
+    "team_id": 52
+  },
+  {
+    "id": 1169,
+    "player_id": 981,
+    "team_id": 52
+  },
+  {
+    "id": 1170,
+    "player_id": 982,
+    "team_id": 52
+  },
+  {
+    "id": 1171,
+    "player_id": 983,
+    "team_id": 52
+  },
+  {
+    "id": 1172,
+    "player_id": 371,
+    "team_id": 52
+  },
+  {
+    "id": 1173,
+    "player_id": 53,
+    "team_id": 52
+  },
+  {
+    "id": 1174,
+    "player_id": 984,
+    "team_id": 52
+  },
+  {
+    "id": 1175,
+    "player_id": 985,
+    "team_id": 52
+  },
+  {
+    "id": 1176,
+    "player_id": 986,
+    "team_id": 52
+  },
+  {
+    "id": 1177,
+    "player_id": 987,
+    "team_id": 52
+  },
+  {
+    "id": 1178,
+    "player_id": 768,
+    "team_id": 52
+  },
+  {
+    "id": 1179,
+    "player_id": 988,
+    "team_id": 52
+  },
+  {
+    "id": 1180,
+    "player_id": 989,
+    "team_id": 52
+  },
+  {
+    "id": 1181,
+    "player_id": 807,
+    "team_id": 52
+  },
+  {
+    "id": 1182,
+    "player_id": 271,
+    "team_id": 52
+  },
+  {
+    "id": 1183,
+    "player_id": 990,
+    "team_id": 52
+  },
+  {
+    "id": 1184,
+    "player_id": 199,
+    "team_id": 52
+  },
+  {
+    "id": 1185,
+    "player_id": 438,
+    "team_id": 52
+  },
+  {
+    "id": 1186,
+    "player_id": 206,
+    "team_id": 52
+  },
+  {
+    "id": 1187,
+    "player_id": 991,
+    "team_id": 52
+  },
+  {
+    "id": 1188,
+    "player_id": 201,
+    "team_id": 52
+  },
+  {
+    "id": 1189,
+    "player_id": 390,
+    "team_id": 52
+  },
+  {
+    "id": 1190,
+    "player_id": 992,
+    "team_id": 52
+  },
+  {
+    "id": 1191,
+    "player_id": 138,
+    "team_id": 52
+  },
+  {
+    "id": 1192,
+    "player_id": 993,
+    "team_id": 53
+  },
+  {
+    "id": 1193,
+    "player_id": 191,
+    "team_id": 53
+  },
+  {
+    "id": 1194,
+    "player_id": 982,
+    "team_id": 53
+  },
+  {
+    "id": 1195,
+    "player_id": 417,
+    "team_id": 53
+  },
+  {
+    "id": 1196,
+    "player_id": 994,
+    "team_id": 53
+  },
+  {
+    "id": 1197,
+    "player_id": 995,
+    "team_id": 53
+  },
+  {
+    "id": 1198,
+    "player_id": 278,
+    "team_id": 53
+  },
+  {
+    "id": 1199,
+    "player_id": 996,
+    "team_id": 53
+  },
+  {
+    "id": 1200,
+    "player_id": 997,
+    "team_id": 53
+  },
+  {
+    "id": 1201,
+    "player_id": 998,
+    "team_id": 53
+  },
+  {
+    "id": 1202,
+    "player_id": 110,
+    "team_id": 53
+  },
+  {
+    "id": 1203,
+    "player_id": 662,
+    "team_id": 53
+  },
+  {
+    "id": 1204,
+    "player_id": 208,
+    "team_id": 53
+  },
+  {
+    "id": 1205,
+    "player_id": 999,
+    "team_id": 53
+  },
+  {
+    "id": 1206,
+    "player_id": 763,
+    "team_id": 53
+  },
+  {
+    "id": 1207,
+    "player_id": 195,
+    "team_id": 53
+  },
+  {
+    "id": 1208,
+    "player_id": 379,
+    "team_id": 53
+  },
+  {
+    "id": 1209,
+    "player_id": 651,
+    "team_id": 53
+  },
+  {
+    "id": 1210,
+    "player_id": 322,
+    "team_id": 53
+  },
+  {
+    "id": 1211,
+    "player_id": 1000,
+    "team_id": 53
+  },
+  {
+    "id": 1212,
+    "player_id": 113,
+    "team_id": 53
+  },
+  {
+    "id": 1213,
+    "player_id": 1001,
+    "team_id": 53
+  },
+  {
+    "id": 1214,
+    "player_id": 636,
+    "team_id": 53
+  },
+  {
+    "id": 1215,
+    "player_id": 318,
+    "team_id": 53
+  },
+  {
+    "id": 1216,
+    "player_id": 1002,
+    "team_id": 54
+  },
+  {
+    "id": 1217,
+    "player_id": 369,
+    "team_id": 54
+  },
+  {
+    "id": 1218,
+    "player_id": 441,
+    "team_id": 54
+  },
+  {
+    "id": 1219,
+    "player_id": 799,
+    "team_id": 54
+  },
+  {
+    "id": 1220,
+    "player_id": 1003,
+    "team_id": 54
+  },
+  {
+    "id": 1221,
+    "player_id": 323,
+    "team_id": 54
+  },
+  {
+    "id": 1222,
+    "player_id": 1004,
+    "team_id": 54
+  },
+  {
+    "id": 1223,
+    "player_id": 626,
+    "team_id": 54
+  },
+  {
+    "id": 1224,
+    "player_id": 759,
+    "team_id": 54
+  },
+  {
+    "id": 1225,
+    "player_id": 1005,
+    "team_id": 54
+  },
+  {
+    "id": 1226,
+    "player_id": 1006,
+    "team_id": 54
+  },
+  {
+    "id": 1227,
+    "player_id": 147,
+    "team_id": 54
+  },
+  {
+    "id": 1228,
+    "player_id": 1007,
+    "team_id": 54
+  },
+  {
+    "id": 1229,
+    "player_id": 402,
+    "team_id": 54
+  },
+  {
+    "id": 1230,
+    "player_id": 1008,
+    "team_id": 54
+  },
+  {
+    "id": 1231,
+    "player_id": 375,
+    "team_id": 54
+  },
+  {
+    "id": 1232,
+    "player_id": 382,
+    "team_id": 54
+  },
+  {
+    "id": 1233,
+    "player_id": 1009,
+    "team_id": 54
+  },
+  {
+    "id": 1234,
+    "player_id": 339,
+    "team_id": 54
+  },
+  {
+    "id": 1235,
+    "player_id": 1010,
+    "team_id": 54
+  },
+  {
+    "id": 1236,
+    "player_id": 819,
+    "team_id": 54
+  },
+  {
+    "id": 1237,
+    "player_id": 1011,
+    "team_id": 54
+  },
+  {
+    "id": 1238,
+    "player_id": 817,
+    "team_id": 54
+  },
+  {
+    "id": 1239,
+    "player_id": 1012,
+    "team_id": 54
+  },
+  {
+    "id": 1240,
+    "player_id": 1013,
+    "team_id": 55
+  },
+  {
+    "id": 1241,
+    "player_id": 1014,
+    "team_id": 55
+  },
+  {
+    "id": 1242,
+    "player_id": 1015,
+    "team_id": 55
+  },
+  {
+    "id": 1243,
+    "player_id": 1016,
+    "team_id": 55
+  },
+  {
+    "id": 1244,
+    "player_id": 1017,
+    "team_id": 55
+  },
+  {
+    "id": 1245,
+    "player_id": 1018,
+    "team_id": 55
+  },
+  {
+    "id": 1246,
+    "player_id": 1019,
+    "team_id": 55
+  },
+  {
+    "id": 1247,
+    "player_id": 1020,
+    "team_id": 55
+  },
+  {
+    "id": 1248,
+    "player_id": 1021,
+    "team_id": 55
+  },
+  {
+    "id": 1249,
+    "player_id": 1022,
+    "team_id": 55
+  },
+  {
+    "id": 1250,
+    "player_id": 1023,
+    "team_id": 55
+  },
+  {
+    "id": 1251,
+    "player_id": 1024,
+    "team_id": 55
+  },
+  {
+    "id": 1252,
+    "player_id": 1025,
+    "team_id": 55
+  },
+  {
+    "id": 1253,
+    "player_id": 1026,
+    "team_id": 55
+  },
+  {
+    "id": 1254,
+    "player_id": 1027,
+    "team_id": 55
+  },
+  {
+    "id": 1255,
+    "player_id": 1028,
+    "team_id": 55
+  },
+  {
+    "id": 1256,
+    "player_id": 1029,
+    "team_id": 55
+  },
+  {
+    "id": 1257,
+    "player_id": 1030,
+    "team_id": 55
+  },
+  {
+    "id": 1258,
+    "player_id": 1031,
+    "team_id": 55
+  },
+  {
+    "id": 1259,
+    "player_id": 1032,
+    "team_id": 55
+  },
+  {
+    "id": 1260,
+    "player_id": 1033,
+    "team_id": 55
+  },
+  {
+    "id": 1261,
+    "player_id": 1034,
+    "team_id": 55
+  },
+  {
+    "id": 1262,
+    "player_id": 1035,
+    "team_id": 55
+  },
+  {
+    "id": 1263,
+    "player_id": 1036,
+    "team_id": 55
+  },
+  {
+    "id": 1264,
+    "player_id": 1037,
+    "team_id": 55
+  },
+  {
+    "id": 1265,
+    "player_id": 1038,
+    "team_id": 55
+  },
+  {
+    "id": 1266,
+    "player_id": 1039,
+    "team_id": 55
+  },
+  {
+    "id": 1267,
+    "player_id": 1040,
+    "team_id": 56
+  },
+  {
+    "id": 1268,
+    "player_id": 1041,
+    "team_id": 56
+  },
+  {
+    "id": 1269,
+    "player_id": 1042,
+    "team_id": 56
+  },
+  {
+    "id": 1270,
+    "player_id": 1043,
+    "team_id": 56
+  },
+  {
+    "id": 1271,
+    "player_id": 1044,
+    "team_id": 56
+  },
+  {
+    "id": 1272,
+    "player_id": 1045,
+    "team_id": 56
+  },
+  {
+    "id": 1273,
+    "player_id": 1046,
+    "team_id": 56
+  },
+  {
+    "id": 1274,
+    "player_id": 1047,
+    "team_id": 56
+  },
+  {
+    "id": 1275,
+    "player_id": 1048,
+    "team_id": 56
+  },
+  {
+    "id": 1276,
+    "player_id": 1049,
+    "team_id": 56
+  },
+  {
+    "id": 1277,
+    "player_id": 1050,
+    "team_id": 56
+  },
+  {
+    "id": 1278,
+    "player_id": 1051,
+    "team_id": 56
+  },
+  {
+    "id": 1279,
+    "player_id": 1052,
+    "team_id": 56
+  },
+  {
+    "id": 1280,
+    "player_id": 1053,
+    "team_id": 56
+  },
+  {
+    "id": 1281,
+    "player_id": 1054,
+    "team_id": 56
+  },
+  {
+    "id": 1282,
+    "player_id": 1055,
+    "team_id": 56
+  },
+  {
+    "id": 1283,
+    "player_id": 1056,
+    "team_id": 56
+  },
+  {
+    "id": 1284,
+    "player_id": 1057,
+    "team_id": 56
+  },
+  {
+    "id": 1285,
+    "player_id": 1058,
+    "team_id": 56
+  },
+  {
+    "id": 1286,
+    "player_id": 1059,
+    "team_id": 56
+  },
+  {
+    "id": 1287,
+    "player_id": 1060,
+    "team_id": 56
+  },
+  {
+    "id": 1288,
+    "player_id": 1024,
+    "team_id": 56
+  },
+  {
+    "id": 1289,
+    "player_id": 1061,
+    "team_id": 56
+  },
+  {
+    "id": 1290,
+    "player_id": 1062,
+    "team_id": 56
+  },
+  {
+    "id": 1291,
+    "player_id": 1063,
+    "team_id": 57
+  },
+  {
+    "id": 1292,
+    "player_id": 1064,
+    "team_id": 57
+  },
+  {
+    "id": 1293,
+    "player_id": 1016,
+    "team_id": 57
+  },
+  {
+    "id": 1294,
+    "player_id": 1065,
+    "team_id": 57
+  },
+  {
+    "id": 1295,
+    "player_id": 1066,
+    "team_id": 57
+  },
+  {
+    "id": 1296,
+    "player_id": 1067,
+    "team_id": 57
+  },
+  {
+    "id": 1297,
+    "player_id": 1068,
+    "team_id": 57
+  },
+  {
+    "id": 1298,
+    "player_id": 1069,
+    "team_id": 57
+  },
+  {
+    "id": 1299,
+    "player_id": 1070,
+    "team_id": 57
+  },
+  {
+    "id": 1300,
+    "player_id": 1025,
+    "team_id": 57
+  },
+  {
+    "id": 1301,
+    "player_id": 1071,
+    "team_id": 57
+  },
+  {
+    "id": 1302,
+    "player_id": 1072,
+    "team_id": 57
+  },
+  {
+    "id": 1303,
+    "player_id": 1073,
+    "team_id": 57
+  },
+  {
+    "id": 1304,
+    "player_id": 1074,
+    "team_id": 57
+  },
+  {
+    "id": 1305,
+    "player_id": 1075,
+    "team_id": 57
+  },
+  {
+    "id": 1306,
+    "player_id": 1076,
+    "team_id": 57
+  },
+  {
+    "id": 1307,
+    "player_id": 1077,
+    "team_id": 57
+  },
+  {
+    "id": 1308,
+    "player_id": 1078,
+    "team_id": 57
+  },
+  {
+    "id": 1309,
+    "player_id": 1079,
+    "team_id": 57
+  },
+  {
+    "id": 1310,
+    "player_id": 1080,
+    "team_id": 57
+  },
+  {
+    "id": 1311,
+    "player_id": 1081,
+    "team_id": 57
+  },
+  {
+    "id": 1312,
+    "player_id": 1082,
+    "team_id": 57
+  },
+  {
+    "id": 1313,
+    "player_id": 1083,
+    "team_id": 57
+  },
+  {
+    "id": 1314,
+    "player_id": 935,
+    "team_id": 58
+  },
+  {
+    "id": 1315,
+    "player_id": 1084,
+    "team_id": 58
+  },
+  {
+    "id": 1316,
+    "player_id": 1085,
+    "team_id": 58
+  },
+  {
+    "id": 1317,
+    "player_id": 1086,
+    "team_id": 58
+  },
+  {
+    "id": 1318,
+    "player_id": 1087,
+    "team_id": 58
+  },
+  {
+    "id": 1319,
+    "player_id": 1088,
+    "team_id": 58
+  },
+  {
+    "id": 1320,
+    "player_id": 1089,
+    "team_id": 58
+  },
+  {
+    "id": 1321,
+    "player_id": 945,
+    "team_id": 58
+  },
+  {
+    "id": 1322,
+    "player_id": 1090,
+    "team_id": 58
+  },
+  {
+    "id": 1323,
+    "player_id": 1091,
+    "team_id": 58
+  },
+  {
+    "id": 1324,
+    "player_id": 1044,
+    "team_id": 58
+  },
+  {
+    "id": 1325,
+    "player_id": 1092,
+    "team_id": 58
+  },
+  {
+    "id": 1326,
+    "player_id": 1093,
+    "team_id": 58
+  },
+  {
+    "id": 1327,
+    "player_id": 1094,
+    "team_id": 58
+  },
+  {
+    "id": 1328,
+    "player_id": 1095,
+    "team_id": 58
+  },
+  {
+    "id": 1329,
+    "player_id": 1096,
+    "team_id": 58
+  },
+  {
+    "id": 1330,
+    "player_id": 1097,
+    "team_id": 58
+  },
+  {
+    "id": 1331,
+    "player_id": 1098,
+    "team_id": 58
+  },
+  {
+    "id": 1332,
+    "player_id": 1099,
+    "team_id": 58
+  },
+  {
+    "id": 1333,
+    "player_id": 1100,
+    "team_id": 58
+  },
+  {
+    "id": 1334,
+    "player_id": 1101,
+    "team_id": 58
+  },
+  {
+    "id": 1335,
+    "player_id": 1102,
+    "team_id": 58
+  },
+  {
+    "id": 1336,
+    "player_id": 1103,
+    "team_id": 58
+  },
+  {
+    "id": 1337,
+    "player_id": 1104,
+    "team_id": 58
+  },
+  {
+    "id": 1338,
+    "player_id": 1105,
+    "team_id": 58
+  },
+  {
+    "id": 1339,
+    "player_id": 1106,
+    "team_id": 58
+  },
+  {
+    "id": 1340,
+    "player_id": 1107,
+    "team_id": 58
+  },
+  {
+    "id": 1341,
+    "player_id": 1108,
+    "team_id": 58
+  },
+  {
+    "id": 1342,
+    "player_id": 1109,
+    "team_id": 58
+  },
+  {
+    "id": 1343,
+    "player_id": 1110,
+    "team_id": 59
+  },
+  {
+    "id": 1344,
+    "player_id": 1111,
+    "team_id": 59
+  },
+  {
+    "id": 1345,
+    "player_id": 1112,
+    "team_id": 59
+  },
+  {
+    "id": 1346,
+    "player_id": 1065,
+    "team_id": 59
+  },
+  {
+    "id": 1347,
+    "player_id": 1043,
+    "team_id": 59
+  },
+  {
+    "id": 1348,
+    "player_id": 1113,
+    "team_id": 59
+  },
+  {
+    "id": 1349,
+    "player_id": 1114,
+    "team_id": 59
+  },
+  {
+    "id": 1350,
+    "player_id": 1115,
+    "team_id": 59
+  },
+  {
+    "id": 1351,
+    "player_id": 1116,
+    "team_id": 59
+  },
+  {
+    "id": 1352,
+    "player_id": 1117,
+    "team_id": 59
+  },
+  {
+    "id": 1353,
+    "player_id": 1118,
+    "team_id": 59
+  },
+  {
+    "id": 1354,
+    "player_id": 1119,
+    "team_id": 59
+  },
+  {
+    "id": 1355,
+    "player_id": 1120,
+    "team_id": 59
+  },
+  {
+    "id": 1356,
+    "player_id": 1056,
+    "team_id": 59
+  },
+  {
+    "id": 1357,
+    "player_id": 1121,
+    "team_id": 59
+  },
+  {
+    "id": 1358,
+    "player_id": 1122,
+    "team_id": 59
+  },
+  {
+    "id": 1359,
+    "player_id": 1123,
+    "team_id": 59
+  },
+  {
+    "id": 1360,
+    "player_id": 1124,
+    "team_id": 59
+  },
+  {
+    "id": 1361,
+    "player_id": 1125,
+    "team_id": 59
+  },
+  {
+    "id": 1362,
+    "player_id": 1126,
+    "team_id": 59
+  },
+  {
+    "id": 1363,
+    "player_id": 1127,
+    "team_id": 59
+  },
+  {
+    "id": 1364,
+    "player_id": 1128,
+    "team_id": 59
+  },
+  {
+    "id": 1365,
+    "player_id": 1129,
+    "team_id": 59
+  },
+  {
+    "id": 1366,
+    "player_id": 1130,
+    "team_id": 59
+  },
+  {
+    "id": 1367,
+    "player_id": 1131,
+    "team_id": 59
+  },
+  {
+    "id": 1368,
+    "player_id": 1132,
+    "team_id": 59
+  },
+  {
+    "id": 1369,
+    "player_id": 1133,
+    "team_id": 59
+  },
+  {
+    "id": 1370,
+    "player_id": 1134,
+    "team_id": 60
+  },
+  {
+    "id": 1371,
+    "player_id": 1135,
+    "team_id": 60
+  },
+  {
+    "id": 1372,
+    "player_id": 1136,
+    "team_id": 60
+  },
+  {
+    "id": 1373,
+    "player_id": 1137,
+    "team_id": 60
+  },
+  {
+    "id": 1374,
+    "player_id": 1138,
+    "team_id": 60
+  },
+  {
+    "id": 1375,
+    "player_id": 1139,
+    "team_id": 60
+  },
+  {
+    "id": 1376,
+    "player_id": 1140,
+    "team_id": 60
+  },
+  {
+    "id": 1377,
+    "player_id": 1141,
+    "team_id": 60
+  },
+  {
+    "id": 1378,
+    "player_id": 1142,
+    "team_id": 60
+  },
+  {
+    "id": 1379,
+    "player_id": 1143,
+    "team_id": 60
+  },
+  {
+    "id": 1380,
+    "player_id": 1144,
+    "team_id": 60
+  },
+  {
+    "id": 1381,
+    "player_id": 1073,
+    "team_id": 60
+  },
+  {
+    "id": 1382,
+    "player_id": 1145,
+    "team_id": 60
+  },
+  {
+    "id": 1383,
+    "player_id": 1146,
+    "team_id": 60
+  },
+  {
+    "id": 1384,
+    "player_id": 1147,
+    "team_id": 60
+  },
+  {
+    "id": 1385,
+    "player_id": 1148,
+    "team_id": 60
+  },
+  {
+    "id": 1386,
+    "player_id": 1149,
+    "team_id": 60
+  },
+  {
+    "id": 1387,
+    "player_id": 1150,
+    "team_id": 60
+  },
+  {
+    "id": 1388,
+    "player_id": 1151,
+    "team_id": 60
+  },
+  {
+    "id": 1389,
+    "player_id": 1152,
+    "team_id": 60
+  },
+  {
+    "id": 1390,
+    "player_id": 1153,
+    "team_id": 60
+  },
+  {
+    "id": 1391,
+    "player_id": 1154,
+    "team_id": 60
+  },
+  {
+    "id": 1392,
+    "player_id": 1155,
+    "team_id": 60
+  },
+  {
+    "id": 1393,
+    "player_id": 1071,
+    "team_id": 60
+  },
+  {
+    "id": 1394,
+    "player_id": 1156,
+    "team_id": 60
+  },
+  {
+    "id": 1395,
+    "player_id": 1157,
+    "team_id": 61
+  },
+  {
+    "id": 1396,
+    "player_id": 1158,
+    "team_id": 61
+  },
+  {
+    "id": 1397,
+    "player_id": 1159,
+    "team_id": 61
+  },
+  {
+    "id": 1398,
+    "player_id": 1160,
+    "team_id": 61
+  },
+  {
+    "id": 1399,
+    "player_id": 1161,
+    "team_id": 61
+  },
+  {
+    "id": 1400,
+    "player_id": 1162,
+    "team_id": 61
+  },
+  {
+    "id": 1401,
+    "player_id": 1163,
+    "team_id": 61
+  },
+  {
+    "id": 1402,
+    "player_id": 1164,
+    "team_id": 61
+  },
+  {
+    "id": 1403,
+    "player_id": 1165,
+    "team_id": 61
+  },
+  {
+    "id": 1404,
+    "player_id": 1166,
+    "team_id": 61
+  },
+  {
+    "id": 1405,
+    "player_id": 1167,
+    "team_id": 61
+  },
+  {
+    "id": 1406,
+    "player_id": 1168,
+    "team_id": 61
+  },
+  {
+    "id": 1407,
+    "player_id": 1169,
+    "team_id": 61
+  },
+  {
+    "id": 1408,
+    "player_id": 1170,
+    "team_id": 61
+  },
+  {
+    "id": 1409,
+    "player_id": 1171,
+    "team_id": 61
+  },
+  {
+    "id": 1410,
+    "player_id": 1172,
+    "team_id": 61
+  },
+  {
+    "id": 1411,
+    "player_id": 1173,
+    "team_id": 62
+  },
+  {
+    "id": 1412,
+    "player_id": 1174,
+    "team_id": 62
+  },
+  {
+    "id": 1413,
+    "player_id": 1175,
+    "team_id": 62
+  },
+  {
+    "id": 1414,
+    "player_id": 1176,
+    "team_id": 62
+  },
+  {
+    "id": 1415,
+    "player_id": 1177,
+    "team_id": 62
+  },
+  {
+    "id": 1416,
+    "player_id": 1178,
+    "team_id": 62
+  },
+  {
+    "id": 1417,
+    "player_id": 1179,
+    "team_id": 62
+  },
+  {
+    "id": 1418,
+    "player_id": 1180,
+    "team_id": 62
+  },
+  {
+    "id": 1419,
+    "player_id": 1181,
+    "team_id": 62
+  },
+  {
+    "id": 1420,
+    "player_id": 1182,
+    "team_id": 62
+  },
+  {
+    "id": 1421,
+    "player_id": 1183,
+    "team_id": 62
+  },
+  {
+    "id": 1422,
+    "player_id": 1184,
+    "team_id": 62
+  },
+  {
+    "id": 1423,
+    "player_id": 1185,
+    "team_id": 62
+  },
+  {
+    "id": 1424,
+    "player_id": 1186,
+    "team_id": 62
+  },
+  {
+    "id": 1425,
+    "player_id": 1187,
+    "team_id": 62
+  },
+  {
+    "id": 1426,
+    "player_id": 1188,
+    "team_id": 62
+  },
+  {
+    "id": 1427,
+    "player_id": 1189,
+    "team_id": 62
+  },
+  {
+    "id": 1428,
+    "player_id": 1190,
+    "team_id": 62
+  },
+  {
+    "id": 1429,
+    "player_id": 1191,
+    "team_id": 62
+  },
+  {
+    "id": 1430,
+    "player_id": 1192,
+    "team_id": 62
+  },
+  {
+    "id": 1431,
+    "player_id": 1193,
+    "team_id": 62
+  },
+  {
+    "id": 1432,
+    "player_id": 1194,
+    "team_id": 63
+  },
+  {
+    "id": 1433,
+    "player_id": 1195,
+    "team_id": 63
+  },
+  {
+    "id": 1434,
+    "player_id": 1196,
+    "team_id": 63
+  },
+  {
+    "id": 1435,
+    "player_id": 1197,
+    "team_id": 63
+  },
+  {
+    "id": 1436,
+    "player_id": 1198,
+    "team_id": 63
+  },
+  {
+    "id": 1437,
+    "player_id": 1199,
+    "team_id": 63
+  },
+  {
+    "id": 1438,
+    "player_id": 1200,
+    "team_id": 63
+  },
+  {
+    "id": 1439,
+    "player_id": 1201,
+    "team_id": 63
+  },
+  {
+    "id": 1440,
+    "player_id": 1202,
+    "team_id": 63
+  },
+  {
+    "id": 1441,
+    "player_id": 1203,
+    "team_id": 63
+  },
+  {
+    "id": 1442,
+    "player_id": 1204,
+    "team_id": 63
+  },
+  {
+    "id": 1443,
+    "player_id": 1205,
+    "team_id": 63
+  },
+  {
+    "id": 1444,
+    "player_id": 1206,
+    "team_id": 63
+  },
+  {
+    "id": 1445,
+    "player_id": 1207,
+    "team_id": 63
+  },
+  {
+    "id": 1446,
+    "player_id": 1208,
+    "team_id": 63
+  },
+  {
+    "id": 1447,
+    "player_id": 1209,
+    "team_id": 63
+  },
+  {
+    "id": 1448,
+    "player_id": 1210,
+    "team_id": 63
+  },
+  {
+    "id": 1449,
+    "player_id": 1211,
+    "team_id": 63
+  },
+  {
+    "id": 1450,
+    "player_id": 1212,
+    "team_id": 63
+  },
+  {
+    "id": 1451,
+    "player_id": 1213,
+    "team_id": 63
+  },
+  {
+    "id": 1452,
+    "player_id": 1214,
+    "team_id": 63
+  },
+  {
+    "id": 1453,
+    "player_id": 1215,
+    "team_id": 63
+  },
+  {
+    "id": 1454,
+    "player_id": 1216,
+    "team_id": 63
+  },
+  {
+    "id": 1455,
+    "player_id": 1217,
+    "team_id": 63
+  },
+  {
+    "id": 1456,
+    "player_id": 1218,
+    "team_id": 63
+  },
+  {
+    "id": 1457,
+    "player_id": 1219,
+    "team_id": 64
+  },
+  {
+    "id": 1458,
+    "player_id": 1220,
+    "team_id": 64
+  },
+  {
+    "id": 1459,
+    "player_id": 1221,
+    "team_id": 64
+  },
+  {
+    "id": 1460,
+    "player_id": 1222,
+    "team_id": 64
+  },
+  {
+    "id": 1461,
+    "player_id": 1223,
+    "team_id": 64
+  },
+  {
+    "id": 1462,
+    "player_id": 1224,
+    "team_id": 64
+  },
+  {
+    "id": 1463,
+    "player_id": 1225,
+    "team_id": 64
+  },
+  {
+    "id": 1464,
+    "player_id": 1226,
+    "team_id": 64
+  },
+  {
+    "id": 1465,
+    "player_id": 1227,
+    "team_id": 64
+  },
+  {
+    "id": 1466,
+    "player_id": 1228,
+    "team_id": 64
+  },
+  {
+    "id": 1467,
+    "player_id": 1229,
+    "team_id": 64
+  },
+  {
+    "id": 1468,
+    "player_id": 1230,
+    "team_id": 64
+  },
+  {
+    "id": 1469,
+    "player_id": 1231,
+    "team_id": 64
+  },
+  {
+    "id": 1470,
+    "player_id": 1232,
+    "team_id": 64
+  },
+  {
+    "id": 1471,
+    "player_id": 1233,
+    "team_id": 64
+  },
+  {
+    "id": 1472,
+    "player_id": 1234,
+    "team_id": 64
+  },
+  {
+    "id": 1473,
+    "player_id": 1235,
+    "team_id": 64
+  },
+  {
+    "id": 1474,
+    "player_id": 1236,
+    "team_id": 64
+  },
+  {
+    "id": 1475,
+    "player_id": 1237,
+    "team_id": 64
+  },
+  {
+    "id": 1476,
+    "player_id": 1238,
+    "team_id": 64
+  },
+  {
+    "id": 1477,
+    "player_id": 1239,
+    "team_id": 64
+  },
+  {
+    "id": 1478,
+    "player_id": 1240,
+    "team_id": 64
+  },
+  {
+    "id": 1479,
+    "player_id": 1241,
+    "team_id": 64
+  },
+  {
+    "id": 1480,
+    "player_id": 1242,
+    "team_id": 65
+  },
+  {
+    "id": 1481,
+    "player_id": 1243,
+    "team_id": 65
+  },
+  {
+    "id": 1482,
+    "player_id": 1244,
+    "team_id": 65
+  },
+  {
+    "id": 1483,
+    "player_id": 1245,
+    "team_id": 65
+  },
+  {
+    "id": 1484,
+    "player_id": 1246,
+    "team_id": 65
+  },
+  {
+    "id": 1485,
+    "player_id": 1247,
+    "team_id": 65
+  },
+  {
+    "id": 1486,
+    "player_id": 1248,
+    "team_id": 65
+  },
+  {
+    "id": 1487,
+    "player_id": 1249,
+    "team_id": 65
+  },
+  {
+    "id": 1488,
+    "player_id": 1250,
+    "team_id": 65
+  },
+  {
+    "id": 1489,
+    "player_id": 1251,
+    "team_id": 65
+  },
+  {
+    "id": 1490,
+    "player_id": 1252,
+    "team_id": 65
+  },
+  {
+    "id": 1491,
+    "player_id": 1253,
+    "team_id": 65
+  },
+  {
+    "id": 1492,
+    "player_id": 1254,
+    "team_id": 65
+  },
+  {
+    "id": 1493,
+    "player_id": 1255,
+    "team_id": 65
+  },
+  {
+    "id": 1494,
+    "player_id": 1256,
+    "team_id": 65
+  },
+  {
+    "id": 1495,
+    "player_id": 1257,
+    "team_id": 65
+  },
+  {
+    "id": 1496,
+    "player_id": 1258,
+    "team_id": 65
+  },
+  {
+    "id": 1497,
+    "player_id": 1259,
+    "team_id": 65
+  },
+  {
+    "id": 1498,
+    "player_id": 1260,
+    "team_id": 65
+  },
+  {
+    "id": 1499,
+    "player_id": 1261,
+    "team_id": 65
+  },
+  {
+    "id": 1500,
+    "player_id": 1262,
+    "team_id": 65
+  },
+  {
+    "id": 1501,
+    "player_id": 1263,
+    "team_id": 65
+  },
+  {
+    "id": 1502,
+    "player_id": 1264,
+    "team_id": 65
+  },
+  {
+    "id": 1503,
+    "player_id": 1265,
+    "team_id": 65
+  },
+  {
+    "id": 1504,
+    "player_id": 1266,
+    "team_id": 66
+  },
+  {
+    "id": 1505,
+    "player_id": 1267,
+    "team_id": 66
+  },
+  {
+    "id": 1506,
+    "player_id": 1268,
+    "team_id": 66
+  },
+  {
+    "id": 1507,
+    "player_id": 1269,
+    "team_id": 66
+  },
+  {
+    "id": 1508,
+    "player_id": 1270,
+    "team_id": 66
+  },
+  {
+    "id": 1509,
+    "player_id": 1271,
+    "team_id": 66
+  },
+  {
+    "id": 1510,
+    "player_id": 924,
+    "team_id": 66
+  },
+  {
+    "id": 1511,
+    "player_id": 1272,
+    "team_id": 66
+  },
+  {
+    "id": 1512,
+    "player_id": 1273,
+    "team_id": 66
+  },
+  {
+    "id": 1513,
+    "player_id": 1274,
+    "team_id": 66
+  },
+  {
+    "id": 1514,
+    "player_id": 1275,
+    "team_id": 66
+  },
+  {
+    "id": 1515,
+    "player_id": 966,
+    "team_id": 66
+  },
+  {
+    "id": 1516,
+    "player_id": 1006,
+    "team_id": 66
+  },
+  {
+    "id": 1517,
+    "player_id": 1276,
+    "team_id": 66
+  },
+  {
+    "id": 1518,
+    "player_id": 1277,
+    "team_id": 66
+  },
+  {
+    "id": 1519,
+    "player_id": 1278,
+    "team_id": 66
+  },
+  {
+    "id": 1520,
+    "player_id": 1279,
+    "team_id": 66
+  },
+  {
+    "id": 1521,
+    "player_id": 1280,
+    "team_id": 66
+  },
+  {
+    "id": 1522,
+    "player_id": 1281,
+    "team_id": 66
+  },
+  {
+    "id": 1523,
+    "player_id": 1282,
+    "team_id": 66
+  },
+  {
+    "id": 1524,
+    "player_id": 1000,
+    "team_id": 66
+  },
+  {
+    "id": 1525,
+    "player_id": 1283,
+    "team_id": 66
+  },
+  {
+    "id": 1526,
+    "player_id": 1284,
+    "team_id": 66
+  },
+  {
+    "id": 1527,
+    "player_id": 1285,
+    "team_id": 66
+  },
+  {
+    "id": 1528,
+    "player_id": 947,
+    "team_id": 66
+  },
+  {
+    "id": 1529,
+    "player_id": 1286,
+    "team_id": 66
+  },
+  {
+    "id": 1530,
+    "player_id": 1287,
+    "team_id": 66
+  },
+  {
+    "id": 1531,
+    "player_id": 1288,
+    "team_id": 66
+  },
+  {
+    "id": 1532,
+    "player_id": 1289,
+    "team_id": 67
+  },
+  {
+    "id": 1533,
+    "player_id": 1290,
+    "team_id": 67
+  },
+  {
+    "id": 1534,
+    "player_id": 1291,
+    "team_id": 67
+  },
+  {
+    "id": 1535,
+    "player_id": 1292,
+    "team_id": 67
+  },
+  {
+    "id": 1536,
+    "player_id": 1293,
+    "team_id": 67
+  },
+  {
+    "id": 1537,
+    "player_id": 1294,
+    "team_id": 67
+  },
+  {
+    "id": 1538,
+    "player_id": 1295,
+    "team_id": 67
+  },
+  {
+    "id": 1539,
+    "player_id": 1296,
+    "team_id": 67
+  },
+  {
+    "id": 1540,
+    "player_id": 1297,
+    "team_id": 67
+  },
+  {
+    "id": 1541,
+    "player_id": 1298,
+    "team_id": 67
+  },
+  {
+    "id": 1542,
+    "player_id": 1299,
+    "team_id": 67
+  },
+  {
+    "id": 1543,
+    "player_id": 1300,
+    "team_id": 67
+  },
+  {
+    "id": 1544,
+    "player_id": 1301,
+    "team_id": 67
+  },
+  {
+    "id": 1545,
+    "player_id": 1302,
+    "team_id": 67
+  },
+  {
+    "id": 1546,
+    "player_id": 1303,
+    "team_id": 67
+  },
+  {
+    "id": 1547,
+    "player_id": 1304,
+    "team_id": 67
+  },
+  {
+    "id": 1548,
+    "player_id": 1305,
+    "team_id": 67
+  },
+  {
+    "id": 1549,
+    "player_id": 1306,
+    "team_id": 67
+  },
+  {
+    "id": 1550,
+    "player_id": 1307,
+    "team_id": 67
+  },
+  {
+    "id": 1551,
+    "player_id": 1308,
+    "team_id": 67
+  },
+  {
+    "id": 1552,
+    "player_id": 1309,
+    "team_id": 67
+  },
+  {
+    "id": 1553,
+    "player_id": 1310,
+    "team_id": 67
+  },
+  {
+    "id": 1554,
+    "player_id": 1311,
+    "team_id": 67
+  },
+  {
+    "id": 1555,
+    "player_id": 1312,
+    "team_id": 67
+  },
+  {
+    "id": 1556,
+    "player_id": 1313,
+    "team_id": 67
+  },
+  {
+    "id": 1557,
+    "player_id": 1314,
+    "team_id": 67
+  },
+  {
+    "id": 1558,
+    "player_id": 1315,
+    "team_id": 68
+  },
+  {
+    "id": 1559,
+    "player_id": 1316,
+    "team_id": 68
+  },
+  {
+    "id": 1560,
+    "player_id": 1317,
+    "team_id": 68
+  },
+  {
+    "id": 1561,
+    "player_id": 1318,
+    "team_id": 68
+  },
+  {
+    "id": 1562,
+    "player_id": 1319,
+    "team_id": 68
+  },
+  {
+    "id": 1563,
+    "player_id": 1320,
+    "team_id": 68
+  },
+  {
+    "id": 1564,
+    "player_id": 1321,
+    "team_id": 68
+  },
+  {
+    "id": 1565,
+    "player_id": 1322,
+    "team_id": 68
+  },
+  {
+    "id": 1566,
+    "player_id": 1323,
+    "team_id": 68
+  },
+  {
+    "id": 1567,
+    "player_id": 1324,
+    "team_id": 68
+  },
+  {
+    "id": 1568,
+    "player_id": 1325,
+    "team_id": 68
+  },
+  {
+    "id": 1569,
+    "player_id": 1326,
+    "team_id": 68
+  },
+  {
+    "id": 1570,
+    "player_id": 1327,
+    "team_id": 68
+  },
+  {
+    "id": 1571,
+    "player_id": 1328,
+    "team_id": 68
+  },
+  {
+    "id": 1572,
+    "player_id": 1329,
+    "team_id": 68
+  },
+  {
+    "id": 1573,
+    "player_id": 1330,
+    "team_id": 68
+  },
+  {
+    "id": 1574,
+    "player_id": 1331,
+    "team_id": 68
+  },
+  {
+    "id": 1575,
+    "player_id": 1332,
+    "team_id": 68
+  },
+  {
+    "id": 1576,
+    "player_id": 1333,
+    "team_id": 68
+  },
+  {
+    "id": 1577,
+    "player_id": 1334,
+    "team_id": 68
+  },
+  {
+    "id": 1578,
+    "player_id": 1335,
+    "team_id": 68
+  },
+  {
+    "id": 1579,
+    "player_id": 1336,
+    "team_id": 68
+  },
+  {
+    "id": 1580,
+    "player_id": 1337,
+    "team_id": 68
+  },
+  {
+    "id": 1581,
+    "player_id": 1338,
+    "team_id": 68
+  },
+  {
+    "id": 1582,
+    "player_id": 1339,
+    "team_id": 68
+  },
+  {
+    "id": 1583,
+    "player_id": 1340,
+    "team_id": 68
+  },
+  {
+    "id": 1584,
+    "player_id": 1341,
+    "team_id": 68
+  },
+  {
+    "id": 1585,
+    "player_id": 1342,
+    "team_id": 68
+  },
+  {
+    "id": 1586,
+    "player_id": 1343,
+    "team_id": 69
+  },
+  {
+    "id": 1587,
+    "player_id": 1344,
+    "team_id": 69
+  },
+  {
+    "id": 1588,
+    "player_id": 1345,
+    "team_id": 69
+  },
+  {
+    "id": 1589,
+    "player_id": 1346,
+    "team_id": 69
+  },
+  {
+    "id": 1590,
+    "player_id": 1347,
+    "team_id": 69
+  },
+  {
+    "id": 1591,
+    "player_id": 1348,
+    "team_id": 69
+  },
+  {
+    "id": 1592,
+    "player_id": 1349,
+    "team_id": 69
+  },
+  {
+    "id": 1593,
+    "player_id": 1350,
+    "team_id": 69
+  },
+  {
+    "id": 1594,
+    "player_id": 1351,
+    "team_id": 69
+  },
+  {
+    "id": 1595,
+    "player_id": 1352,
+    "team_id": 69
+  },
+  {
+    "id": 1596,
+    "player_id": 1353,
+    "team_id": 69
+  },
+  {
+    "id": 1597,
+    "player_id": 936,
+    "team_id": 69
+  },
+  {
+    "id": 1598,
+    "player_id": 1354,
+    "team_id": 69
+  },
+  {
+    "id": 1599,
+    "player_id": 1355,
+    "team_id": 69
+  },
+  {
+    "id": 1600,
+    "player_id": 1356,
+    "team_id": 69
+  },
+  {
+    "id": 1601,
+    "player_id": 970,
+    "team_id": 69
+  },
+  {
+    "id": 1602,
+    "player_id": 1357,
+    "team_id": 69
+  },
+  {
+    "id": 1603,
+    "player_id": 1358,
+    "team_id": 69
+  },
+  {
+    "id": 1604,
+    "player_id": 1359,
+    "team_id": 69
+  },
+  {
+    "id": 1605,
+    "player_id": 1360,
+    "team_id": 69
+  },
+  {
+    "id": 1606,
+    "player_id": 1361,
+    "team_id": 69
+  },
+  {
+    "id": 1607,
+    "player_id": 980,
+    "team_id": 69
+  },
+  {
+    "id": 1608,
+    "player_id": 1362,
+    "team_id": 69
+  },
+  {
+    "id": 1609,
+    "player_id": 1363,
+    "team_id": 69
+  },
+  {
+    "id": 1610,
+    "player_id": 1364,
+    "team_id": 70
+  },
+  {
+    "id": 1611,
+    "player_id": 943,
+    "team_id": 70
+  },
+  {
+    "id": 1612,
+    "player_id": 1365,
+    "team_id": 70
+  },
+  {
+    "id": 1613,
+    "player_id": 1366,
+    "team_id": 70
+  },
+  {
+    "id": 1614,
+    "player_id": 1367,
+    "team_id": 70
+  },
+  {
+    "id": 1615,
+    "player_id": 1368,
+    "team_id": 70
+  },
+  {
+    "id": 1616,
+    "player_id": 1369,
+    "team_id": 70
+  },
+  {
+    "id": 1617,
+    "player_id": 1370,
+    "team_id": 70
+  },
+  {
+    "id": 1618,
+    "player_id": 1371,
+    "team_id": 70
+  },
+  {
+    "id": 1619,
+    "player_id": 1372,
+    "team_id": 70
+  },
+  {
+    "id": 1620,
+    "player_id": 1373,
+    "team_id": 70
+  },
+  {
+    "id": 1621,
+    "player_id": 995,
+    "team_id": 70
+  },
+  {
+    "id": 1622,
+    "player_id": 1374,
+    "team_id": 70
+  },
+  {
+    "id": 1623,
+    "player_id": 1375,
+    "team_id": 70
+  },
+  {
+    "id": 1624,
+    "player_id": 1376,
+    "team_id": 70
+  },
+  {
+    "id": 1625,
+    "player_id": 1377,
+    "team_id": 70
+  },
+  {
+    "id": 1626,
+    "player_id": 1378,
+    "team_id": 70
+  },
+  {
+    "id": 1627,
+    "player_id": 1379,
+    "team_id": 70
+  },
+  {
+    "id": 1628,
+    "player_id": 1380,
+    "team_id": 70
+  },
+  {
+    "id": 1629,
+    "player_id": 1381,
+    "team_id": 70
+  },
+  {
+    "id": 1630,
+    "player_id": 1382,
+    "team_id": 70
+  },
+  {
+    "id": 1631,
+    "player_id": 1383,
+    "team_id": 71
+  },
+  {
+    "id": 1632,
+    "player_id": 1384,
+    "team_id": 71
+  },
+  {
+    "id": 1633,
+    "player_id": 1385,
+    "team_id": 71
+  },
+  {
+    "id": 1634,
+    "player_id": 1386,
+    "team_id": 71
+  },
+  {
+    "id": 1635,
+    "player_id": 1387,
+    "team_id": 71
+  },
+  {
+    "id": 1636,
+    "player_id": 1388,
+    "team_id": 71
+  },
+  {
+    "id": 1637,
+    "player_id": 1389,
+    "team_id": 71
+  },
+  {
+    "id": 1638,
+    "player_id": 926,
+    "team_id": 71
+  },
+  {
+    "id": 1639,
+    "player_id": 956,
+    "team_id": 71
+  },
+  {
+    "id": 1640,
+    "player_id": 1390,
+    "team_id": 71
+  },
+  {
+    "id": 1641,
+    "player_id": 1391,
+    "team_id": 71
+  },
+  {
+    "id": 1642,
+    "player_id": 1392,
+    "team_id": 71
+  },
+  {
+    "id": 1643,
+    "player_id": 1393,
+    "team_id": 71
+  },
+  {
+    "id": 1644,
+    "player_id": 1394,
+    "team_id": 71
+  },
+  {
+    "id": 1645,
+    "player_id": 1395,
+    "team_id": 71
+  },
+  {
+    "id": 1646,
+    "player_id": 1396,
+    "team_id": 71
+  },
+  {
+    "id": 1647,
+    "player_id": 1397,
+    "team_id": 71
+  },
+  {
+    "id": 1648,
+    "player_id": 1398,
+    "team_id": 71
+  },
+  {
+    "id": 1649,
+    "player_id": 1399,
+    "team_id": 71
+  },
+  {
+    "id": 1650,
+    "player_id": 1400,
+    "team_id": 71
+  },
+  {
+    "id": 1651,
+    "player_id": 1001,
+    "team_id": 71
+  },
+  {
+    "id": 1652,
+    "player_id": 1401,
+    "team_id": 71
+  },
+  {
+    "id": 1653,
+    "player_id": 1402,
+    "team_id": 71
+  },
+  {
+    "id": 1654,
+    "player_id": 1403,
+    "team_id": 71
+  },
+  {
+    "id": 1655,
+    "player_id": 1404,
+    "team_id": 71
+  },
+  {
+    "id": 1656,
+    "player_id": 1405,
+    "team_id": 72
+  },
+  {
+    "id": 1657,
+    "player_id": 1316,
+    "team_id": 72
+  },
+  {
+    "id": 1658,
+    "player_id": 1319,
+    "team_id": 72
+  },
+  {
+    "id": 1659,
+    "player_id": 1321,
+    "team_id": 72
+  },
+  {
+    "id": 1660,
+    "player_id": 1406,
+    "team_id": 72
+  },
+  {
+    "id": 1661,
+    "player_id": 1407,
+    "team_id": 72
+  },
+  {
+    "id": 1662,
+    "player_id": 1364,
+    "team_id": 72
+  },
+  {
+    "id": 1663,
+    "player_id": 1318,
+    "team_id": 72
+  },
+  {
+    "id": 1664,
+    "player_id": 1408,
+    "team_id": 72
+  },
+  {
+    "id": 1665,
+    "player_id": 1331,
+    "team_id": 72
+  },
+  {
+    "id": 1666,
+    "player_id": 1330,
+    "team_id": 72
+  },
+  {
+    "id": 1667,
+    "player_id": 1409,
+    "team_id": 72
+  },
+  {
+    "id": 1668,
+    "player_id": 1410,
+    "team_id": 72
+  },
+  {
+    "id": 1669,
+    "player_id": 1341,
+    "team_id": 72
+  },
+  {
+    "id": 1670,
+    "player_id": 1333,
+    "team_id": 72
+  },
+  {
+    "id": 1671,
+    "player_id": 1334,
+    "team_id": 72
+  },
+  {
+    "id": 1672,
+    "player_id": 1290,
+    "team_id": 73
+  },
+  {
+    "id": 1673,
+    "player_id": 1294,
+    "team_id": 73
+  },
+  {
+    "id": 1674,
+    "player_id": 1291,
+    "team_id": 73
+  },
+  {
+    "id": 1675,
+    "player_id": 1411,
+    "team_id": 73
+  },
+  {
+    "id": 1676,
+    "player_id": 1296,
+    "team_id": 73
+  },
+  {
+    "id": 1677,
+    "player_id": 1412,
+    "team_id": 73
+  },
+  {
+    "id": 1678,
+    "player_id": 1301,
+    "team_id": 73
+  },
+  {
+    "id": 1679,
+    "player_id": 1298,
+    "team_id": 73
+  },
+  {
+    "id": 1680,
+    "player_id": 1299,
+    "team_id": 73
+  },
+  {
+    "id": 1681,
+    "player_id": 1300,
+    "team_id": 73
+  },
+  {
+    "id": 1682,
+    "player_id": 1413,
+    "team_id": 73
+  },
+  {
+    "id": 1683,
+    "player_id": 1302,
+    "team_id": 73
+  },
+  {
+    "id": 1684,
+    "player_id": 1310,
+    "team_id": 73
+  },
+  {
+    "id": 1685,
+    "player_id": 1309,
+    "team_id": 73
+  },
+  {
+    "id": 1686,
+    "player_id": 1304,
+    "team_id": 73
+  },
+  {
+    "id": 1687,
+    "player_id": 1303,
+    "team_id": 73
+  },
+  {
+    "id": 1688,
+    "player_id": 965,
+    "team_id": 74
+  },
+  {
+    "id": 1689,
+    "player_id": 1343,
+    "team_id": 74
+  },
+  {
+    "id": 1690,
+    "player_id": 1414,
+    "team_id": 74
+  },
+  {
+    "id": 1691,
+    "player_id": 1386,
+    "team_id": 74
+  },
+  {
+    "id": 1692,
+    "player_id": 1348,
+    "team_id": 74
+  },
+  {
+    "id": 1693,
+    "player_id": 1415,
+    "team_id": 74
+  },
+  {
+    "id": 1694,
+    "player_id": 1416,
+    "team_id": 74
+  },
+  {
+    "id": 1695,
+    "player_id": 1354,
+    "team_id": 74
+  },
+  {
+    "id": 1696,
+    "player_id": 936,
+    "team_id": 74
+  },
+  {
+    "id": 1697,
+    "player_id": 970,
+    "team_id": 74
+  },
+  {
+    "id": 1698,
+    "player_id": 1363,
+    "team_id": 74
+  },
+  {
+    "id": 1699,
+    "player_id": 980,
+    "team_id": 74
+  },
+  {
+    "id": 1700,
+    "player_id": 1400,
+    "team_id": 74
+  },
+  {
+    "id": 1701,
+    "player_id": 1417,
+    "team_id": 74
+  },
+  {
+    "id": 1702,
+    "player_id": 1289,
+    "team_id": 76
+  },
+  {
+    "id": 1703,
+    "player_id": 1387,
+    "team_id": 76
+  },
+  {
+    "id": 1704,
+    "player_id": 1418,
+    "team_id": 76
+  },
+  {
+    "id": 1705,
+    "player_id": 1419,
+    "team_id": 76
+  },
+  {
+    "id": 1706,
+    "player_id": 1420,
+    "team_id": 76
+  },
+  {
+    "id": 1707,
+    "player_id": 995,
+    "team_id": 76
+  },
+  {
+    "id": 1708,
+    "player_id": 956,
+    "team_id": 76
+  },
+  {
+    "id": 1709,
+    "player_id": 1349,
+    "team_id": 76
+  },
+  {
+    "id": 1710,
+    "player_id": 1421,
+    "team_id": 76
+  },
+  {
+    "id": 1711,
+    "player_id": 1380,
+    "team_id": 76
+  },
+  {
+    "id": 1712,
+    "player_id": 1422,
+    "team_id": 76
+  },
+  {
+    "id": 1713,
+    "player_id": 985,
+    "team_id": 76
+  },
+  {
+    "id": 1714,
+    "player_id": 1282,
+    "team_id": 76
+  },
+  {
+    "id": 1715,
+    "player_id": 1279,
+    "team_id": 76
+  },
+  {
+    "id": 1716,
+    "player_id": 1423,
+    "team_id": 77
+  },
+  {
+    "id": 1717,
+    "player_id": 1383,
+    "team_id": 77
+  },
+  {
+    "id": 1718,
+    "player_id": 1424,
+    "team_id": 77
+  },
+  {
+    "id": 1719,
+    "player_id": 1384,
+    "team_id": 77
+  },
+  {
+    "id": 1720,
+    "player_id": 1391,
+    "team_id": 77
+  },
+  {
+    "id": 1721,
+    "player_id": 1390,
+    "team_id": 77
+  },
+  {
+    "id": 1722,
+    "player_id": 926,
+    "team_id": 77
+  },
+  {
+    "id": 1723,
+    "player_id": 1425,
+    "team_id": 77
+  },
+  {
+    "id": 1724,
+    "player_id": 1395,
+    "team_id": 77
+  },
+  {
+    "id": 1725,
+    "player_id": 1426,
+    "team_id": 77
+  },
+  {
+    "id": 1726,
+    "player_id": 1001,
+    "team_id": 77
+  },
+  {
+    "id": 1727,
+    "player_id": 1401,
+    "team_id": 77
+  },
+  {
+    "id": 1728,
+    "player_id": 1398,
+    "team_id": 77
+  },
+  {
+    "id": 1729,
+    "player_id": 1399,
+    "team_id": 77
+  },
+  {
+    "id": 1730,
+    "player_id": 961,
+    "team_id": 77
+  },
+  {
+    "id": 1731,
+    "player_id": 1396,
+    "team_id": 77
+  },
+  {
+    "id": 1732,
+    "player_id": 1427,
+    "team_id": 77
+  },
+  {
+    "id": 1733,
+    "player_id": 1428,
+    "team_id": 78
+  },
+  {
+    "id": 1734,
+    "player_id": 1345,
+    "team_id": 78
+  },
+  {
+    "id": 1735,
+    "player_id": 1267,
+    "team_id": 78
+  },
+  {
+    "id": 1736,
+    "player_id": 1268,
+    "team_id": 78
+  },
+  {
+    "id": 1737,
+    "player_id": 1274,
+    "team_id": 78
+  },
+  {
+    "id": 1738,
+    "player_id": 1275,
+    "team_id": 78
+  },
+  {
+    "id": 1739,
+    "player_id": 1429,
+    "team_id": 78
+  },
+  {
+    "id": 1740,
+    "player_id": 1006,
+    "team_id": 78
+  },
+  {
+    "id": 1741,
+    "player_id": 1394,
+    "team_id": 78
+  },
+  {
+    "id": 1742,
+    "player_id": 1285,
+    "team_id": 78
+  },
+  {
+    "id": 1743,
+    "player_id": 1358,
+    "team_id": 78
+  },
+  {
+    "id": 1744,
+    "player_id": 1430,
+    "team_id": 78
+  },
+  {
+    "id": 1745,
+    "player_id": 1280,
+    "team_id": 78
+  },
+  {
+    "id": 1746,
+    "player_id": 1431,
+    "team_id": 78
+  },
+  {
+    "id": 1747,
+    "player_id": 1432,
+    "team_id": 78
+  },
+  {
+    "id": 1748,
+    "player_id": 1433,
+    "team_id": 79
+  },
+  {
+    "id": 1749,
+    "player_id": 1266,
+    "team_id": 79
+  },
+  {
+    "id": 1750,
+    "player_id": 1434,
+    "team_id": 79
+  },
+  {
+    "id": 1751,
+    "player_id": 924,
+    "team_id": 79
+  },
+  {
+    "id": 1752,
+    "player_id": 1271,
+    "team_id": 79
+  },
+  {
+    "id": 1753,
+    "player_id": 1435,
+    "team_id": 79
+  },
+  {
+    "id": 1754,
+    "player_id": 1436,
+    "team_id": 79
+  },
+  {
+    "id": 1755,
+    "player_id": 1437,
+    "team_id": 79
+  },
+  {
+    "id": 1756,
+    "player_id": 966,
+    "team_id": 79
+  },
+  {
+    "id": 1757,
+    "player_id": 1276,
+    "team_id": 79
+  },
+  {
+    "id": 1758,
+    "player_id": 1438,
+    "team_id": 79
+  },
+  {
+    "id": 1759,
+    "player_id": 1339,
+    "team_id": 79
+  },
+  {
+    "id": 1760,
+    "player_id": 1327,
+    "team_id": 79
+  },
+  {
+    "id": 1761,
+    "player_id": 1278,
+    "team_id": 79
+  },
+  {
+    "id": 1762,
+    "player_id": 1440,
+    "team_id": 80
+  },
+  {
+    "id": 1763,
+    "player_id": 1441,
+    "team_id": 80
+  },
+  {
+    "id": 1764,
+    "player_id": 1442,
+    "team_id": 80
+  },
+  {
+    "id": 1765,
+    "player_id": 1443,
+    "team_id": 80
+  },
+  {
+    "id": 1766,
+    "player_id": 1444,
+    "team_id": 80
+  },
+  {
+    "id": 1767,
+    "player_id": 1445,
+    "team_id": 80
+  },
+  {
+    "id": 1768,
+    "player_id": 1446,
+    "team_id": 80
+  },
+  {
+    "id": 1769,
+    "player_id": 1447,
+    "team_id": 80
+  },
+  {
+    "id": 1770,
+    "player_id": 1448,
+    "team_id": 80
+  },
+  {
+    "id": 1771,
+    "player_id": 1449,
+    "team_id": 80
+  },
+  {
+    "id": 1772,
+    "player_id": 1450,
+    "team_id": 80
+  },
+  {
+    "id": 1773,
+    "player_id": 1451,
+    "team_id": 80
+  },
+  {
+    "id": 1774,
+    "player_id": 1440,
+    "team_id": 81
+  },
+  {
+    "id": 1775,
+    "player_id": 1441,
+    "team_id": 81
+  },
+  {
+    "id": 1776,
+    "player_id": 1442,
+    "team_id": 81
+  },
+  {
+    "id": 1777,
+    "player_id": 1443,
+    "team_id": 81
+  },
+  {
+    "id": 1778,
+    "player_id": 1444,
+    "team_id": 81
+  },
+  {
+    "id": 1779,
+    "player_id": 1445,
+    "team_id": 81
+  },
+  {
+    "id": 1780,
+    "player_id": 1446,
+    "team_id": 81
+  },
+  {
+    "id": 1781,
+    "player_id": 1447,
+    "team_id": 81
+  },
+  {
+    "id": 1782,
+    "player_id": 1448,
+    "team_id": 81
+  },
+  {
+    "id": 1783,
+    "player_id": 1449,
+    "team_id": 81
+  },
+  {
+    "id": 1784,
+    "player_id": 1450,
+    "team_id": 81
+  },
+  {
+    "id": 1785,
+    "player_id": 1451,
+    "team_id": 81
+  },
+  {
+    "id": 1786,
+    "player_id": 1440,
+    "team_id": 82
+  },
+  {
+    "id": 1787,
+    "player_id": 1441,
+    "team_id": 82
+  },
+  {
+    "id": 1788,
+    "player_id": 1442,
+    "team_id": 82
+  },
+  {
+    "id": 1789,
+    "player_id": 1443,
+    "team_id": 82
+  },
+  {
+    "id": 1790,
+    "player_id": 1444,
+    "team_id": 82
+  },
+  {
+    "id": 1791,
+    "player_id": 1445,
+    "team_id": 82
+  },
+  {
+    "id": 1792,
+    "player_id": 1446,
+    "team_id": 82
+  },
+  {
+    "id": 1793,
+    "player_id": 1447,
+    "team_id": 82
+  },
+  {
+    "id": 1794,
+    "player_id": 1448,
+    "team_id": 82
+  },
+  {
+    "id": 1795,
+    "player_id": 1449,
+    "team_id": 82
+  },
+  {
+    "id": 1796,
+    "player_id": 1450,
+    "team_id": 82
+  },
+  {
+    "id": 1797,
+    "player_id": 1451,
+    "team_id": 82
+  },
+  {
+    "id": 1798,
+    "player_id": 1440,
+    "team_id": 83
+  },
+  {
+    "id": 1799,
+    "player_id": 1441,
+    "team_id": 83
+  },
+  {
+    "id": 1800,
+    "player_id": 1442,
+    "team_id": 83
+  },
+  {
+    "id": 1801,
+    "player_id": 1443,
+    "team_id": 83
+  },
+  {
+    "id": 1802,
+    "player_id": 1444,
+    "team_id": 83
+  },
+  {
+    "id": 1803,
+    "player_id": 1445,
+    "team_id": 83
+  },
+  {
+    "id": 1804,
+    "player_id": 1446,
+    "team_id": 83
+  },
+  {
+    "id": 1805,
+    "player_id": 1447,
+    "team_id": 83
+  },
+  {
+    "id": 1806,
+    "player_id": 1448,
+    "team_id": 83
+  },
+  {
+    "id": 1807,
+    "player_id": 1449,
+    "team_id": 83
+  },
+  {
+    "id": 1808,
+    "player_id": 1450,
+    "team_id": 83
+  },
+  {
+    "id": 1809,
+    "player_id": 1451,
+    "team_id": 83
+  },
+  {
+    "id": 1810,
+    "player_id": 1440,
+    "team_id": 84
+  },
+  {
+    "id": 1811,
+    "player_id": 1441,
+    "team_id": 84
+  },
+  {
+    "id": 1812,
+    "player_id": 1442,
+    "team_id": 84
+  },
+  {
+    "id": 1813,
+    "player_id": 1443,
+    "team_id": 84
+  },
+  {
+    "id": 1814,
+    "player_id": 1444,
+    "team_id": 84
+  },
+  {
+    "id": 1815,
+    "player_id": 1445,
+    "team_id": 84
+  },
+  {
+    "id": 1816,
+    "player_id": 1446,
+    "team_id": 84
+  },
+  {
+    "id": 1817,
+    "player_id": 1447,
+    "team_id": 84
+  },
+  {
+    "id": 1818,
+    "player_id": 1448,
+    "team_id": 84
+  },
+  {
+    "id": 1819,
+    "player_id": 1449,
+    "team_id": 84
+  },
+  {
+    "id": 1820,
+    "player_id": 1450,
+    "team_id": 84
+  },
+  {
+    "id": 1821,
+    "player_id": 1451,
+    "team_id": 84
+  },
+  {
+    "id": 1822,
+    "player_id": 1452,
+    "team_id": 85
+  },
+  {
+    "id": 1823,
+    "player_id": 1453,
+    "team_id": 85
+  },
+  {
+    "id": 1824,
+    "player_id": 1454,
+    "team_id": 85
+  },
+  {
+    "id": 1825,
+    "player_id": 1455,
+    "team_id": 85
+  },
+  {
+    "id": 1826,
+    "player_id": 1456,
+    "team_id": 85
+  },
+  {
+    "id": 1827,
+    "player_id": 1456,
+    "team_id": 85
+  },
+  {
+    "id": 1828,
+    "player_id": 1457,
+    "team_id": 85
+  },
+  {
+    "id": 1829,
+    "player_id": 1458,
+    "team_id": 85
+  },
+  {
+    "id": 1830,
+    "player_id": 1459,
+    "team_id": 85
+  },
+  {
+    "id": 1831,
+    "player_id": 1460,
+    "team_id": 85
+  },
+  {
+    "id": 1832,
+    "player_id": 1461,
+    "team_id": 85
+  },
+  {
+    "id": 1833,
+    "player_id": 1462,
+    "team_id": 85
+  },
+  {
+    "id": 1834,
+    "player_id": 929,
+    "team_id": 85
+  },
+  {
+    "id": 1835,
+    "player_id": 1463,
+    "team_id": 85
+  },
+  {
+    "id": 1836,
+    "player_id": 1464,
+    "team_id": 85
+  },
+  {
+    "id": 1837,
+    "player_id": 1465,
+    "team_id": 85
+  },
+  {
+    "id": 1838,
+    "player_id": 1466,
+    "team_id": 86
+  },
+  {
+    "id": 1839,
+    "player_id": 1467,
+    "team_id": 86
+  },
+  {
+    "id": 1840,
+    "player_id": 1468,
+    "team_id": 86
+  },
+  {
+    "id": 1841,
+    "player_id": 1469,
+    "team_id": 86
+  },
+  {
+    "id": 1842,
+    "player_id": 1470,
+    "team_id": 86
+  },
+  {
+    "id": 1843,
+    "player_id": 1471,
+    "team_id": 86
+  },
+  {
+    "id": 1844,
+    "player_id": 1472,
+    "team_id": 86
+  },
+  {
+    "id": 1845,
+    "player_id": 1473,
+    "team_id": 86
+  },
+  {
+    "id": 1846,
+    "player_id": 1474,
+    "team_id": 86
+  },
+  {
+    "id": 1847,
+    "player_id": 1475,
+    "team_id": 86
+  },
+  {
+    "id": 1848,
+    "player_id": 1476,
+    "team_id": 86
+  },
+  {
+    "id": 1849,
+    "player_id": 1477,
+    "team_id": 86
+  },
+  {
+    "id": 1850,
+    "player_id": 1478,
+    "team_id": 86
+  },
+  {
+    "id": 1851,
+    "player_id": 1479,
+    "team_id": 86
+  },
+  {
+    "id": 1852,
+    "player_id": 1480,
+    "team_id": 86
+  },
+  {
+    "id": 1853,
+    "player_id": 1481,
+    "team_id": 86
+  },
+  {
+    "id": 1854,
+    "player_id": 1482,
+    "team_id": 86
+  },
+  {
+    "id": 1855,
+    "player_id": 1483,
+    "team_id": 86
+  },
+  {
+    "id": 1856,
+    "player_id": 1484,
+    "team_id": 87
+  },
+  {
+    "id": 1857,
+    "player_id": 1485,
+    "team_id": 87
+  },
+  {
+    "id": 1858,
+    "player_id": 1486,
+    "team_id": 87
+  },
+  {
+    "id": 1859,
+    "player_id": 1487,
+    "team_id": 87
+  },
+  {
+    "id": 1860,
+    "player_id": 1488,
+    "team_id": 87
+  },
+  {
+    "id": 1861,
+    "player_id": 1489,
+    "team_id": 87
+  },
+  {
+    "id": 1862,
+    "player_id": 1490,
+    "team_id": 87
+  },
+  {
+    "id": 1863,
+    "player_id": 1491,
+    "team_id": 87
+  },
+  {
+    "id": 1864,
+    "player_id": 1492,
+    "team_id": 87
+  },
+  {
+    "id": 1865,
+    "player_id": 1493,
+    "team_id": 87
+  },
+  {
+    "id": 1866,
+    "player_id": 1494,
+    "team_id": 87
+  },
+  {
+    "id": 1867,
+    "player_id": 1495,
+    "team_id": 87
+  },
+  {
+    "id": 1868,
+    "player_id": 1496,
+    "team_id": 87
+  },
+  {
+    "id": 1869,
+    "player_id": 1497,
+    "team_id": 87
+  },
+  {
+    "id": 1870,
+    "player_id": 1498,
+    "team_id": 87
+  },
+  {
+    "id": 1871,
+    "player_id": 1499,
+    "team_id": 87
+  },
+  {
+    "id": 1872,
+    "player_id": 1500,
+    "team_id": 87
+  },
+  {
+    "id": 1873,
+    "player_id": 1466,
+    "team_id": 88
+  },
+  {
+    "id": 1874,
+    "player_id": 1467,
+    "team_id": 88
+  },
+  {
+    "id": 1875,
+    "player_id": 1468,
+    "team_id": 88
+  },
+  {
+    "id": 1876,
+    "player_id": 1469,
+    "team_id": 88
+  },
+  {
+    "id": 1877,
+    "player_id": 1470,
+    "team_id": 88
+  },
+  {
+    "id": 1878,
+    "player_id": 1471,
+    "team_id": 88
+  },
+  {
+    "id": 1879,
+    "player_id": 1472,
+    "team_id": 88
+  },
+  {
+    "id": 1880,
+    "player_id": 1473,
+    "team_id": 88
+  },
+  {
+    "id": 1881,
+    "player_id": 1474,
+    "team_id": 88
+  },
+  {
+    "id": 1882,
+    "player_id": 1475,
+    "team_id": 88
+  },
+  {
+    "id": 1883,
+    "player_id": 1476,
+    "team_id": 88
+  },
+  {
+    "id": 1884,
+    "player_id": 1477,
+    "team_id": 88
+  },
+  {
+    "id": 1885,
+    "player_id": 1478,
+    "team_id": 88
+  },
+  {
+    "id": 1886,
+    "player_id": 1479,
+    "team_id": 88
+  },
+  {
+    "id": 1887,
+    "player_id": 1480,
+    "team_id": 88
+  },
+  {
+    "id": 1888,
+    "player_id": 1481,
+    "team_id": 88
+  },
+  {
+    "id": 1889,
+    "player_id": 1482,
+    "team_id": 88
+  },
+  {
+    "id": 1890,
+    "player_id": 1483,
+    "team_id": 88
+  },
+  {
+    "id": 1891,
+    "player_id": 1501,
+    "team_id": 89
+  },
+  {
+    "id": 1892,
+    "player_id": 1487,
+    "team_id": 89
+  },
+  {
+    "id": 1893,
+    "player_id": 1502,
+    "team_id": 89
+  },
+  {
+    "id": 1894,
+    "player_id": 1503,
+    "team_id": 89
+  },
+  {
+    "id": 1895,
+    "player_id": 1504,
+    "team_id": 89
+  },
+  {
+    "id": 1896,
+    "player_id": 1505,
+    "team_id": 89
+  },
+  {
+    "id": 1897,
+    "player_id": 1506,
+    "team_id": 89
+  },
+  {
+    "id": 1898,
+    "player_id": 1507,
+    "team_id": 89
+  },
+  {
+    "id": 1899,
+    "player_id": 1508,
+    "team_id": 89
+  },
+  {
+    "id": 1900,
+    "player_id": 1467,
+    "team_id": 89
+  },
+  {
+    "id": 1901,
+    "player_id": 1454,
+    "team_id": 89
+  },
+  {
+    "id": 1902,
+    "player_id": 1509,
+    "team_id": 89
+  },
+  {
+    "id": 1903,
+    "player_id": 1510,
+    "team_id": 89
+  },
+  {
+    "id": 1904,
+    "player_id": 1511,
+    "team_id": 89
+  },
+  {
+    "id": 1905,
+    "player_id": 1472,
+    "team_id": 89
+  },
+  {
+    "id": 1906,
+    "player_id": 1512,
+    "team_id": 89
+  },
+  {
+    "id": 1907,
+    "player_id": 1513,
+    "team_id": 89
+  },
+  {
+    "id": 1908,
+    "player_id": 1514,
+    "team_id": 89
+  },
+  {
+    "id": 1909,
+    "player_id": 1474,
+    "team_id": 89
+  },
+  {
+    "id": 1910,
+    "player_id": 1459,
+    "team_id": 89
+  },
+  {
+    "id": 1911,
+    "player_id": 1515,
+    "team_id": 89
+  },
+  {
+    "id": 1912,
+    "player_id": 1516,
+    "team_id": 89
+  },
+  {
+    "id": 1913,
+    "player_id": 1517,
+    "team_id": 89
+  },
+  {
+    "id": 1914,
+    "player_id": 1448,
+    "team_id": 90
+  },
+  {
+    "id": 1915,
+    "player_id": 1469,
+    "team_id": 90
+  },
+  {
+    "id": 1916,
+    "player_id": 1518,
+    "team_id": 90
+  },
+  {
+    "id": 1917,
+    "player_id": 1466,
+    "team_id": 90
+  },
+  {
+    "id": 1918,
+    "player_id": 1519,
+    "team_id": 90
+  },
+  {
+    "id": 1919,
+    "player_id": 1520,
+    "team_id": 90
+  },
+  {
+    "id": 1920,
+    "player_id": 1521,
+    "team_id": 90
+  },
+  {
+    "id": 1921,
+    "player_id": 1522,
+    "team_id": 90
+  },
+  {
+    "id": 1922,
+    "player_id": 1523,
+    "team_id": 90
+  },
+  {
+    "id": 1923,
+    "player_id": 1473,
+    "team_id": 90
+  },
+  {
+    "id": 1924,
+    "player_id": 1524,
+    "team_id": 90
+  },
+  {
+    "id": 1925,
+    "player_id": 1525,
+    "team_id": 90
+  },
+  {
+    "id": 1926,
+    "player_id": 1526,
+    "team_id": 90
+  },
+  {
+    "id": 1927,
+    "player_id": 1527,
+    "team_id": 90
+  },
+  {
+    "id": 1928,
+    "player_id": 1528,
+    "team_id": 90
+  },
+  {
+    "id": 1929,
+    "player_id": 1529,
+    "team_id": 90
+  },
+  {
+    "id": 1930,
+    "player_id": 1458,
+    "team_id": 90
+  },
+  {
+    "id": 1931,
+    "player_id": 1530,
+    "team_id": 90
+  },
+  {
+    "id": 1932,
+    "player_id": 1531,
+    "team_id": 90
+  },
+  {
+    "id": 1933,
+    "player_id": 1497,
+    "team_id": 90
+  },
+  {
+    "id": 1934,
+    "player_id": 1532,
+    "team_id": 90
+  },
+  {
+    "id": 1935,
+    "player_id": 1533,
+    "team_id": 90
+  },
+  {
+    "id": 1936,
+    "player_id": 1501,
+    "team_id": 91
+  },
+  {
+    "id": 1937,
+    "player_id": 1487,
+    "team_id": 91
+  },
+  {
+    "id": 1938,
+    "player_id": 1502,
+    "team_id": 91
+  },
+  {
+    "id": 1939,
+    "player_id": 1503,
+    "team_id": 91
+  },
+  {
+    "id": 1940,
+    "player_id": 1504,
+    "team_id": 91
+  },
+  {
+    "id": 1941,
+    "player_id": 1505,
+    "team_id": 91
+  },
+  {
+    "id": 1942,
+    "player_id": 1506,
+    "team_id": 91
+  },
+  {
+    "id": 1943,
+    "player_id": 1507,
+    "team_id": 91
+  },
+  {
+    "id": 1944,
+    "player_id": 1508,
+    "team_id": 91
+  },
+  {
+    "id": 1945,
+    "player_id": 1467,
+    "team_id": 91
+  },
+  {
+    "id": 1946,
+    "player_id": 1454,
+    "team_id": 91
+  },
+  {
+    "id": 1947,
+    "player_id": 1509,
+    "team_id": 91
+  },
+  {
+    "id": 1948,
+    "player_id": 1510,
+    "team_id": 91
+  },
+  {
+    "id": 1949,
+    "player_id": 1511,
+    "team_id": 91
+  },
+  {
+    "id": 1950,
+    "player_id": 1472,
+    "team_id": 91
+  },
+  {
+    "id": 1951,
+    "player_id": 1512,
+    "team_id": 91
+  },
+  {
+    "id": 1952,
+    "player_id": 1513,
+    "team_id": 91
+  },
+  {
+    "id": 1953,
+    "player_id": 1514,
+    "team_id": 91
+  },
+  {
+    "id": 1954,
+    "player_id": 1474,
+    "team_id": 91
+  },
+  {
+    "id": 1955,
+    "player_id": 1459,
+    "team_id": 91
+  },
+  {
+    "id": 1956,
+    "player_id": 1515,
+    "team_id": 91
+  },
+  {
+    "id": 1957,
+    "player_id": 1516,
+    "team_id": 91
+  },
+  {
+    "id": 1958,
+    "player_id": 1517,
+    "team_id": 91
+  },
+  {
+    "id": 1959,
+    "player_id": 1534,
+    "team_id": 92
+  },
+  {
+    "id": 1960,
+    "player_id": 1535,
+    "team_id": 92
+  },
+  {
+    "id": 1961,
+    "player_id": 1536,
+    "team_id": 92
+  },
+  {
+    "id": 1962,
+    "player_id": 1471,
+    "team_id": 92
+  },
+  {
+    "id": 1963,
+    "player_id": 1537,
+    "team_id": 92
+  },
+  {
+    "id": 1964,
+    "player_id": 1538,
+    "team_id": 92
+  },
+  {
+    "id": 1965,
+    "player_id": 1539,
+    "team_id": 92
+  },
+  {
+    "id": 1966,
+    "player_id": 1540,
+    "team_id": 92
+  },
+  {
+    "id": 1967,
+    "player_id": 1541,
+    "team_id": 92
+  },
+  {
+    "id": 1968,
+    "player_id": 1496,
+    "team_id": 92
+  },
+  {
+    "id": 1969,
+    "player_id": 1542,
+    "team_id": 92
+  },
+  {
+    "id": 1970,
+    "player_id": 1543,
+    "team_id": 92
+  },
+  {
+    "id": 1971,
+    "player_id": 1544,
+    "team_id": 92
+  },
+  {
+    "id": 1972,
+    "player_id": 1545,
+    "team_id": 92
+  },
+  {
+    "id": 1973,
+    "player_id": 1546,
+    "team_id": 92
+  },
+  {
+    "id": 1974,
+    "player_id": 1547,
+    "team_id": 92
+  },
+  {
+    "id": 1975,
+    "player_id": 1548,
+    "team_id": 92
+  },
+  {
+    "id": 1976,
+    "player_id": 1549,
+    "team_id": 92
+  },
+  {
+    "id": 1977,
+    "player_id": 1550,
+    "team_id": 92
+  },
+  {
+    "id": 1978,
+    "player_id": 1455,
+    "team_id": 93
+  },
+  {
+    "id": 1979,
+    "player_id": 1551,
+    "team_id": 93
+  },
+  {
+    "id": 1980,
+    "player_id": 1552,
+    "team_id": 93
+  },
+  {
+    "id": 1981,
+    "player_id": 1553,
+    "team_id": 93
+  },
+  {
+    "id": 1982,
+    "player_id": 1554,
+    "team_id": 93
+  },
+  {
+    "id": 1983,
+    "player_id": 1555,
+    "team_id": 93
+  },
+  {
+    "id": 1984,
+    "player_id": 1556,
+    "team_id": 93
+  },
+  {
+    "id": 1985,
+    "player_id": 1443,
+    "team_id": 93
+  },
+  {
+    "id": 1986,
+    "player_id": 1557,
+    "team_id": 93
+  },
+  {
+    "id": 1987,
+    "player_id": 1558,
+    "team_id": 93
+  },
+  {
+    "id": 1988,
+    "player_id": 1451,
+    "team_id": 93
+  },
+  {
+    "id": 1989,
+    "player_id": 1559,
+    "team_id": 93
+  },
+  {
+    "id": 1990,
+    "player_id": 1560,
+    "team_id": 93
+  },
+  {
+    "id": 1991,
+    "player_id": 1499,
+    "team_id": 93
+  },
+  {
+    "id": 1992,
+    "player_id": 1561,
+    "team_id": 93
+  },
+  {
+    "id": 1993,
+    "player_id": 1562,
+    "team_id": 93
+  },
+  {
+    "id": 1994,
+    "player_id": 1484,
+    "team_id": 94
+  },
+  {
+    "id": 1995,
+    "player_id": 1563,
+    "team_id": 94
+  },
+  {
+    "id": 1996,
+    "player_id": 1440,
+    "team_id": 94
+  },
+  {
+    "id": 1997,
+    "player_id": 1485,
+    "team_id": 94
+  },
+  {
+    "id": 1998,
+    "player_id": 1564,
+    "team_id": 94
+  },
+  {
+    "id": 1999,
+    "player_id": 1565,
+    "team_id": 94
+  },
+  {
+    "id": 2000,
+    "player_id": 1566,
+    "team_id": 94
+  },
+  {
+    "id": 2001,
+    "player_id": 1567,
+    "team_id": 94
+  },
+  {
+    "id": 2002,
+    "player_id": 1568,
+    "team_id": 94
+  },
+  {
+    "id": 2003,
+    "player_id": 1569,
+    "team_id": 94
+  },
+  {
+    "id": 2004,
+    "player_id": 1570,
+    "team_id": 94
+  },
+  {
+    "id": 2005,
+    "player_id": 1571,
+    "team_id": 94
+  },
+  {
+    "id": 2006,
+    "player_id": 1572,
+    "team_id": 94
+  },
+  {
+    "id": 2007,
+    "player_id": 1479,
+    "team_id": 94
+  },
+  {
+    "id": 2008,
+    "player_id": 1573,
+    "team_id": 94
+  },
+  {
+    "id": 2009,
+    "player_id": 1574,
+    "team_id": 94
+  },
+  {
+    "id": 2010,
+    "player_id": 1498,
+    "team_id": 94
+  },
+  {
+    "id": 2011,
+    "player_id": 1575,
+    "team_id": 94
+  },
+  {
+    "id": 2012,
+    "player_id": 1576,
+    "team_id": 95
+  },
+  {
+    "id": 2013,
+    "player_id": 1577,
+    "team_id": 95
+  },
+  {
+    "id": 2014,
+    "player_id": 1537,
+    "team_id": 95
+  },
+  {
+    "id": 2015,
+    "player_id": 1578,
+    "team_id": 95
+  },
+  {
+    "id": 2016,
+    "player_id": 1579,
+    "team_id": 95
+  },
+  {
+    "id": 2017,
+    "player_id": 1580,
+    "team_id": 95
+  },
+  {
+    "id": 2018,
+    "player_id": 1581,
+    "team_id": 95
+  },
+  {
+    "id": 2019,
+    "player_id": 1454,
+    "team_id": 95
+  },
+  {
+    "id": 2020,
+    "player_id": 1582,
+    "team_id": 95
+  },
+  {
+    "id": 2021,
+    "player_id": 1583,
+    "team_id": 95
+  },
+  {
+    "id": 2022,
+    "player_id": 1584,
+    "team_id": 95
+  },
+  {
+    "id": 2023,
+    "player_id": 1585,
+    "team_id": 95
+  },
+  {
+    "id": 2024,
+    "player_id": 1586,
+    "team_id": 95
+  },
+  {
+    "id": 2025,
+    "player_id": 1450,
+    "team_id": 95
+  },
+  {
+    "id": 2026,
+    "player_id": 1476,
+    "team_id": 95
+  },
+  {
+    "id": 2027,
+    "player_id": 1511,
+    "team_id": 95
+  },
+  {
+    "id": 2028,
+    "player_id": 1527,
+    "team_id": 95
+  },
+  {
+    "id": 2029,
+    "player_id": 1587,
+    "team_id": 95
+  },
+  {
+    "id": 2030,
+    "player_id": 1588,
+    "team_id": 95
+  },
+  {
+    "id": 2031,
+    "player_id": 1481,
+    "team_id": 95
+  },
+  {
+    "id": 2032,
+    "player_id": 1589,
+    "team_id": 95
+  },
+  {
+    "id": 2033,
+    "player_id": 1590,
+    "team_id": 95
+  },
+  {
+    "id": 2034,
+    "player_id": 1548,
+    "team_id": 95
+  },
+  {
+    "id": 2035,
+    "player_id": 1575,
+    "team_id": 95
+  },
+  {
+    "id": 2036,
+    "player_id": 1591,
+    "team_id": 96
+  },
+  {
+    "id": 2037,
+    "player_id": 1592,
+    "team_id": 96
+  },
+  {
+    "id": 2038,
+    "player_id": 1593,
+    "team_id": 96
+  },
+  {
+    "id": 2039,
+    "player_id": 1594,
+    "team_id": 96
+  },
+  {
+    "id": 2040,
+    "player_id": 1595,
+    "team_id": 96
+  },
+  {
+    "id": 2041,
+    "player_id": 1596,
+    "team_id": 96
+  },
+  {
+    "id": 2042,
+    "player_id": 1493,
+    "team_id": 96
+  },
+  {
+    "id": 2043,
+    "player_id": 1446,
+    "team_id": 96
+  },
+  {
+    "id": 2044,
+    "player_id": 1597,
+    "team_id": 96
+  },
+  {
+    "id": 2045,
+    "player_id": 1598,
+    "team_id": 96
+  },
+  {
+    "id": 2046,
+    "player_id": 1599,
+    "team_id": 96
+  },
+  {
+    "id": 2047,
+    "player_id": 1462,
+    "team_id": 96
+  },
+  {
+    "id": 2048,
+    "player_id": 1445,
+    "team_id": 96
+  },
+  {
+    "id": 2049,
+    "player_id": 1463,
+    "team_id": 96
+  },
+  {
+    "id": 2050,
+    "player_id": 1600,
+    "team_id": 96
+  },
+  {
+    "id": 2051,
+    "player_id": 1460,
+    "team_id": 96
+  },
+  {
+    "id": 2052,
+    "player_id": 1483,
+    "team_id": 96
+  },
+  {
+    "id": 2053,
+    "player_id": 1601,
+    "team_id": 96
+  },
+  {
+    "id": 2054,
+    "player_id": 1602,
+    "team_id": 96
+  },
+  {
+    "id": 2055,
+    "player_id": 1591,
+    "team_id": 97
+  },
+  {
+    "id": 2056,
+    "player_id": 1592,
+    "team_id": 97
+  },
+  {
+    "id": 2057,
+    "player_id": 1593,
+    "team_id": 97
+  },
+  {
+    "id": 2058,
+    "player_id": 1594,
+    "team_id": 97
+  },
+  {
+    "id": 2059,
+    "player_id": 1595,
+    "team_id": 97
+  },
+  {
+    "id": 2060,
+    "player_id": 1596,
+    "team_id": 97
+  },
+  {
+    "id": 2061,
+    "player_id": 1493,
+    "team_id": 97
+  },
+  {
+    "id": 2062,
+    "player_id": 1446,
+    "team_id": 97
+  },
+  {
+    "id": 2063,
+    "player_id": 1597,
+    "team_id": 97
+  },
+  {
+    "id": 2064,
+    "player_id": 1598,
+    "team_id": 97
+  },
+  {
+    "id": 2065,
+    "player_id": 1599,
+    "team_id": 97
+  },
+  {
+    "id": 2066,
+    "player_id": 1462,
+    "team_id": 97
+  },
+  {
+    "id": 2067,
+    "player_id": 1445,
+    "team_id": 97
+  },
+  {
+    "id": 2068,
+    "player_id": 1463,
+    "team_id": 97
+  },
+  {
+    "id": 2069,
+    "player_id": 1600,
+    "team_id": 97
+  },
+  {
+    "id": 2070,
+    "player_id": 1460,
+    "team_id": 97
+  },
+  {
+    "id": 2071,
+    "player_id": 1483,
+    "team_id": 97
+  },
+  {
+    "id": 2072,
+    "player_id": 1601,
+    "team_id": 97
+  },
+  {
+    "id": 2073,
+    "player_id": 1602,
+    "team_id": 97
+  },
+  {
+    "id": 2074,
+    "player_id": 1515,
+    "team_id": 98
+  },
+  {
+    "id": 2075,
+    "player_id": 1583,
+    "team_id": 98
+  },
+  {
+    "id": 2076,
+    "player_id": 1453,
+    "team_id": 98
+  },
+  {
+    "id": 2077,
+    "player_id": 1532,
+    "team_id": 98
+  },
+  {
+    "id": 2078,
+    "player_id": 1603,
+    "team_id": 98
+  },
+  {
+    "id": 2079,
+    "player_id": 1492,
+    "team_id": 98
+  },
+  {
+    "id": 2080,
+    "player_id": 1457,
+    "team_id": 98
+  },
+  {
+    "id": 2081,
+    "player_id": 1604,
+    "team_id": 98
+  },
+  {
+    "id": 2082,
+    "player_id": 1605,
+    "team_id": 98
+  },
+  {
+    "id": 2083,
+    "player_id": 1606,
+    "team_id": 98
+  },
+  {
+    "id": 2084,
+    "player_id": 1456,
+    "team_id": 98
+  },
+  {
+    "id": 2085,
+    "player_id": 1607,
+    "team_id": 98
+  },
+  {
+    "id": 2086,
+    "player_id": 1475,
+    "team_id": 98
+  },
+  {
+    "id": 2087,
+    "player_id": 1608,
+    "team_id": 98
+  },
+  {
+    "id": 2088,
+    "player_id": 1609,
+    "team_id": 98
+  },
+  {
+    "id": 2089,
+    "player_id": 1610,
+    "team_id": 98
+  },
+  {
+    "id": 2090,
+    "player_id": 1611,
+    "team_id": 98
+  },
+  {
+    "id": 2091,
+    "player_id": 1612,
+    "team_id": 98
+  },
+  {
+    "id": 2092,
+    "player_id": 1515,
+    "team_id": 99
+  },
+  {
+    "id": 2093,
+    "player_id": 1583,
+    "team_id": 99
+  },
+  {
+    "id": 2094,
+    "player_id": 1453,
+    "team_id": 99
+  },
+  {
+    "id": 2095,
+    "player_id": 1532,
+    "team_id": 99
+  },
+  {
+    "id": 2096,
+    "player_id": 1603,
+    "team_id": 99
+  },
+  {
+    "id": 2097,
+    "player_id": 1492,
+    "team_id": 99
+  },
+  {
+    "id": 2098,
+    "player_id": 1457,
+    "team_id": 99
+  },
+  {
+    "id": 2099,
+    "player_id": 1604,
+    "team_id": 99
+  },
+  {
+    "id": 2100,
+    "player_id": 1605,
+    "team_id": 99
+  },
+  {
+    "id": 2101,
+    "player_id": 1606,
+    "team_id": 99
+  },
+  {
+    "id": 2102,
+    "player_id": 1456,
+    "team_id": 99
+  },
+  {
+    "id": 2103,
+    "player_id": 1607,
+    "team_id": 99
+  },
+  {
+    "id": 2104,
+    "player_id": 1475,
+    "team_id": 99
+  },
+  {
+    "id": 2105,
+    "player_id": 1608,
+    "team_id": 99
+  },
+  {
+    "id": 2106,
+    "player_id": 1609,
+    "team_id": 99
+  },
+  {
+    "id": 2107,
+    "player_id": 1610,
+    "team_id": 99
+  },
+  {
+    "id": 2108,
+    "player_id": 1611,
+    "team_id": 99
+  },
+  {
+    "id": 2109,
+    "player_id": 1612,
+    "team_id": 99
+  },
+  {
+    "id": 2110,
+    "player_id": 1515,
+    "team_id": 100
+  },
+  {
+    "id": 2111,
+    "player_id": 1583,
+    "team_id": 100
+  },
+  {
+    "id": 2112,
+    "player_id": 1453,
+    "team_id": 100
+  },
+  {
+    "id": 2113,
+    "player_id": 1532,
+    "team_id": 100
+  },
+  {
+    "id": 2114,
+    "player_id": 1603,
+    "team_id": 100
+  },
+  {
+    "id": 2115,
+    "player_id": 1492,
+    "team_id": 100
+  },
+  {
+    "id": 2116,
+    "player_id": 1457,
+    "team_id": 100
+  },
+  {
+    "id": 2117,
+    "player_id": 1604,
+    "team_id": 100
+  },
+  {
+    "id": 2118,
+    "player_id": 1605,
+    "team_id": 100
+  },
+  {
+    "id": 2119,
+    "player_id": 1606,
+    "team_id": 100
+  },
+  {
+    "id": 2120,
+    "player_id": 1456,
+    "team_id": 100
+  },
+  {
+    "id": 2121,
+    "player_id": 1607,
+    "team_id": 100
+  },
+  {
+    "id": 2122,
+    "player_id": 1475,
+    "team_id": 100
+  },
+  {
+    "id": 2123,
+    "player_id": 1608,
+    "team_id": 100
+  },
+  {
+    "id": 2124,
+    "player_id": 1609,
+    "team_id": 100
+  },
+  {
+    "id": 2125,
+    "player_id": 1610,
+    "team_id": 100
+  },
+  {
+    "id": 2126,
+    "player_id": 1611,
+    "team_id": 100
+  },
+  {
+    "id": 2127,
+    "player_id": 1612,
+    "team_id": 100
+  },
+  {
+    "id": 2128,
+    "player_id": 1515,
+    "team_id": 101
+  },
+  {
+    "id": 2129,
+    "player_id": 1583,
+    "team_id": 101
+  },
+  {
+    "id": 2130,
+    "player_id": 1453,
+    "team_id": 101
+  },
+  {
+    "id": 2131,
+    "player_id": 1532,
+    "team_id": 101
+  },
+  {
+    "id": 2132,
+    "player_id": 1603,
+    "team_id": 101
+  },
+  {
+    "id": 2133,
+    "player_id": 1492,
+    "team_id": 101
+  },
+  {
+    "id": 2134,
+    "player_id": 1457,
+    "team_id": 101
+  },
+  {
+    "id": 2135,
+    "player_id": 1604,
+    "team_id": 101
+  },
+  {
+    "id": 2136,
+    "player_id": 1605,
+    "team_id": 101
+  },
+  {
+    "id": 2137,
+    "player_id": 1606,
+    "team_id": 101
+  },
+  {
+    "id": 2138,
+    "player_id": 1456,
+    "team_id": 101
+  },
+  {
+    "id": 2139,
+    "player_id": 1607,
+    "team_id": 101
+  },
+  {
+    "id": 2140,
+    "player_id": 1475,
+    "team_id": 101
+  },
+  {
+    "id": 2141,
+    "player_id": 1608,
+    "team_id": 101
+  },
+  {
+    "id": 2142,
+    "player_id": 1609,
+    "team_id": 101
+  },
+  {
+    "id": 2143,
+    "player_id": 1610,
+    "team_id": 101
+  },
+  {
+    "id": 2144,
+    "player_id": 1611,
+    "team_id": 101
+  },
+  {
+    "id": 2145,
+    "player_id": 1612,
+    "team_id": 101
+  },
+  {
+    "id": 2146,
+    "player_id": 1515,
+    "team_id": 102
+  },
+  {
+    "id": 2147,
+    "player_id": 1583,
+    "team_id": 102
+  },
+  {
+    "id": 2148,
+    "player_id": 1453,
+    "team_id": 102
+  },
+  {
+    "id": 2149,
+    "player_id": 1532,
+    "team_id": 102
+  },
+  {
+    "id": 2150,
+    "player_id": 1603,
+    "team_id": 102
+  },
+  {
+    "id": 2151,
+    "player_id": 1492,
+    "team_id": 102
+  },
+  {
+    "id": 2152,
+    "player_id": 1457,
+    "team_id": 102
+  },
+  {
+    "id": 2153,
+    "player_id": 1604,
+    "team_id": 102
+  },
+  {
+    "id": 2154,
+    "player_id": 1605,
+    "team_id": 102
+  },
+  {
+    "id": 2155,
+    "player_id": 1606,
+    "team_id": 102
+  },
+  {
+    "id": 2156,
+    "player_id": 1456,
+    "team_id": 102
+  },
+  {
+    "id": 2157,
+    "player_id": 1607,
+    "team_id": 102
+  },
+  {
+    "id": 2158,
+    "player_id": 1475,
+    "team_id": 102
+  },
+  {
+    "id": 2159,
+    "player_id": 1608,
+    "team_id": 102
+  },
+  {
+    "id": 2160,
+    "player_id": 1609,
+    "team_id": 102
+  },
+  {
+    "id": 2161,
+    "player_id": 1610,
+    "team_id": 102
+  },
+  {
+    "id": 2162,
+    "player_id": 1611,
+    "team_id": 102
+  },
+  {
+    "id": 2163,
+    "player_id": 1612,
+    "team_id": 102
+  },
+  {
+    "id": 2164,
+    "player_id": 1515,
+    "team_id": 103
+  },
+  {
+    "id": 2165,
+    "player_id": 1583,
+    "team_id": 103
+  },
+  {
+    "id": 2166,
+    "player_id": 1453,
+    "team_id": 103
+  },
+  {
+    "id": 2167,
+    "player_id": 1532,
+    "team_id": 103
+  },
+  {
+    "id": 2168,
+    "player_id": 1603,
+    "team_id": 103
+  },
+  {
+    "id": 2169,
+    "player_id": 1492,
+    "team_id": 103
+  },
+  {
+    "id": 2170,
+    "player_id": 1457,
+    "team_id": 103
+  },
+  {
+    "id": 2171,
+    "player_id": 1604,
+    "team_id": 103
+  },
+  {
+    "id": 2172,
+    "player_id": 1605,
+    "team_id": 103
+  },
+  {
+    "id": 2173,
+    "player_id": 1606,
+    "team_id": 103
+  },
+  {
+    "id": 2174,
+    "player_id": 1456,
+    "team_id": 103
+  },
+  {
+    "id": 2175,
+    "player_id": 1607,
+    "team_id": 103
+  },
+  {
+    "id": 2176,
+    "player_id": 1475,
+    "team_id": 103
+  },
+  {
+    "id": 2177,
+    "player_id": 1608,
+    "team_id": 103
+  },
+  {
+    "id": 2178,
+    "player_id": 1609,
+    "team_id": 103
+  },
+  {
+    "id": 2179,
+    "player_id": 1610,
+    "team_id": 103
+  },
+  {
+    "id": 2180,
+    "player_id": 1611,
+    "team_id": 103
+  },
+  {
+    "id": 2181,
+    "player_id": 1612,
+    "team_id": 103
+  },
+  {
+    "id": 2182,
+    "player_id": 1515,
+    "team_id": 104
+  },
+  {
+    "id": 2183,
+    "player_id": 1583,
+    "team_id": 104
+  },
+  {
+    "id": 2184,
+    "player_id": 1453,
+    "team_id": 104
+  },
+  {
+    "id": 2185,
+    "player_id": 1532,
+    "team_id": 104
+  },
+  {
+    "id": 2186,
+    "player_id": 1603,
+    "team_id": 104
+  },
+  {
+    "id": 2187,
+    "player_id": 1492,
+    "team_id": 104
+  },
+  {
+    "id": 2188,
+    "player_id": 1457,
+    "team_id": 104
+  },
+  {
+    "id": 2189,
+    "player_id": 1604,
+    "team_id": 104
+  },
+  {
+    "id": 2190,
+    "player_id": 1605,
+    "team_id": 104
+  },
+  {
+    "id": 2191,
+    "player_id": 1606,
+    "team_id": 104
+  },
+  {
+    "id": 2192,
+    "player_id": 1456,
+    "team_id": 104
+  },
+  {
+    "id": 2193,
+    "player_id": 1607,
+    "team_id": 104
+  },
+  {
+    "id": 2194,
+    "player_id": 1475,
+    "team_id": 104
+  },
+  {
+    "id": 2195,
+    "player_id": 1608,
+    "team_id": 104
+  },
+  {
+    "id": 2196,
+    "player_id": 1609,
+    "team_id": 104
+  },
+  {
+    "id": 2197,
+    "player_id": 1610,
+    "team_id": 104
+  },
+  {
+    "id": 2198,
+    "player_id": 1611,
+    "team_id": 104
+  },
+  {
+    "id": 2199,
+    "player_id": 1612,
+    "team_id": 104
+  },
+  {
+    "id": 2200,
+    "player_id": 1515,
+    "team_id": 105
+  },
+  {
+    "id": 2201,
+    "player_id": 1583,
+    "team_id": 105
+  },
+  {
+    "id": 2202,
+    "player_id": 1453,
+    "team_id": 105
+  },
+  {
+    "id": 2203,
+    "player_id": 1532,
+    "team_id": 105
+  },
+  {
+    "id": 2204,
+    "player_id": 1603,
+    "team_id": 105
+  },
+  {
+    "id": 2205,
+    "player_id": 1492,
+    "team_id": 105
+  },
+  {
+    "id": 2206,
+    "player_id": 1457,
+    "team_id": 105
+  },
+  {
+    "id": 2207,
+    "player_id": 1604,
+    "team_id": 105
+  },
+  {
+    "id": 2208,
+    "player_id": 1605,
+    "team_id": 105
+  },
+  {
+    "id": 2209,
+    "player_id": 1606,
+    "team_id": 105
+  },
+  {
+    "id": 2210,
+    "player_id": 1456,
+    "team_id": 105
+  },
+  {
+    "id": 2211,
+    "player_id": 1607,
+    "team_id": 105
+  },
+  {
+    "id": 2212,
+    "player_id": 1475,
+    "team_id": 105
+  },
+  {
+    "id": 2213,
+    "player_id": 1608,
+    "team_id": 105
+  },
+  {
+    "id": 2214,
+    "player_id": 1609,
+    "team_id": 105
+  },
+  {
+    "id": 2215,
+    "player_id": 1610,
+    "team_id": 105
+  },
+  {
+    "id": 2216,
+    "player_id": 1611,
+    "team_id": 105
+  },
+  {
+    "id": 2217,
+    "player_id": 1612,
+    "team_id": 105
+  },
+  {
+    "id": 2218,
+    "player_id": 1515,
+    "team_id": 106
+  },
+  {
+    "id": 2219,
+    "player_id": 1583,
+    "team_id": 106
+  },
+  {
+    "id": 2220,
+    "player_id": 1453,
+    "team_id": 106
+  },
+  {
+    "id": 2221,
+    "player_id": 1532,
+    "team_id": 106
+  },
+  {
+    "id": 2222,
+    "player_id": 1603,
+    "team_id": 106
+  },
+  {
+    "id": 2223,
+    "player_id": 1492,
+    "team_id": 106
+  },
+  {
+    "id": 2224,
+    "player_id": 1457,
+    "team_id": 106
+  },
+  {
+    "id": 2225,
+    "player_id": 1604,
+    "team_id": 106
+  },
+  {
+    "id": 2226,
+    "player_id": 1605,
+    "team_id": 106
+  },
+  {
+    "id": 2227,
+    "player_id": 1606,
+    "team_id": 106
+  },
+  {
+    "id": 2228,
+    "player_id": 1456,
+    "team_id": 106
+  },
+  {
+    "id": 2229,
+    "player_id": 1607,
+    "team_id": 106
+  },
+  {
+    "id": 2230,
+    "player_id": 1475,
+    "team_id": 106
+  },
+  {
+    "id": 2231,
+    "player_id": 1608,
+    "team_id": 106
+  },
+  {
+    "id": 2232,
+    "player_id": 1609,
+    "team_id": 106
+  },
+  {
+    "id": 2233,
+    "player_id": 1610,
+    "team_id": 106
+  },
+  {
+    "id": 2234,
+    "player_id": 1611,
+    "team_id": 106
+  },
+  {
+    "id": 2235,
+    "player_id": 1612,
+    "team_id": 106
+  }
+]
