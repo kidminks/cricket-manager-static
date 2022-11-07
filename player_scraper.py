@@ -40,10 +40,10 @@ for team in teams:
 		continue
 
 
-	nationality_index = 2
-	country = "Pakistan"
-	if nationality_index == -1:		
-		country = input("country : ")	
+	nationality_index = -1
+	country = "Sri Lanka"
+	# if nationality_index == -1:		
+	# 	country = input("country : ")	
 
 	with urllib.request.urlopen(team['link']) as response:
 		soup = BeautifulSoup(response, 'html.parser')
@@ -54,14 +54,10 @@ for team in teams:
 			if skip == "1":
 				continue
 
-			# name_index = int(input("name index :"))
-			# batting_style_index = int(input("Batting style index :"))
-			# bowling_style_index = int(input("Bowling stype index :"))	
-			# notes_index = int(input("notes index : "))
-			name_index = 1
-			batting_style_index = 5
-			bowling_style_index = 6
-			notes_index = 8
+			name_index = int(input("name index :"))
+			batting_style_index = int(input("Batting style index :"))
+			bowling_style_index = int(input("Bowling stype index :"))	
+			notes_index = int(input("notes index : "))
 
 			df=pd.read_html(str(table))
 			df=pd.DataFrame(df[0])

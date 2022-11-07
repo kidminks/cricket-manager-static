@@ -1850,13 +1850,13 @@
   },
   {
     "id": 182,
-    "name": "Javed Afridi",
+    "name": "Peshawar Zalmi",
     "type": "State",
     "country_id": 8,
     "level": "Domestic",
     "abbr": "Javed Afridi",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/Javed_Afridi"
+    "link": "https://en.wikipedia.org/wiki/Peshawar_Zalmi"
   },
   {
     "id": 183,
@@ -1976,7 +1976,8 @@
     "level": "Domestic",
     "abbr": "North West Dragons",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/North_West_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/North_West_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 195,
@@ -1986,7 +1987,8 @@
     "level": "Domestic",
     "abbr": "Boland",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Boland_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/Boland_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 196,
@@ -1996,7 +1998,8 @@
     "level": "Domestic",
     "abbr": "Western Province",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Western_Province_cricket_team_(South_Africa)"
+    "link": "https://en.wikipedia.org/wiki/Western_Province_cricket_team_(South_Africa)",
+    "defunct": true
   },
   {
     "id": 197,
@@ -2006,7 +2009,8 @@
     "level": "Domestic",
     "abbr": "South Western Districts",
     "hiring_cond": "Ameture",
-    "link": "https://en.wikipedia.org/wiki/South_Western_Districts_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/South_Western_Districts_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 198,
@@ -2016,7 +2020,8 @@
     "level": "Domestic",
     "abbr": "KwaZulu-Natal (Inland)",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/KwaZulu-Natal_Inland_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/KwaZulu-Natal_Inland_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 199,
@@ -2026,7 +2031,8 @@
     "level": "Domestic",
     "abbr": "Northern Cape",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Northern_Cape_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/Northern_Cape_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 200,
@@ -2036,7 +2042,8 @@
     "level": "Domestic",
     "abbr": "Limpopo",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Limpopo_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/Limpopo_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 201,
@@ -2046,7 +2053,8 @@
     "level": "Domestic",
     "abbr": "Easterns",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Easterns_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/Easterns_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 202,
@@ -2056,7 +2064,8 @@
     "level": "Domestic",
     "abbr": "Mpumalanga",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Mpumalanga_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/Mpumalanga_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 203,
@@ -2066,7 +2075,8 @@
     "level": "Domestic",
     "abbr": "Border",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Border_(cricket_team)"
+    "link": "https://en.wikipedia.org/wiki/Border_(cricket_team)",
+    "defunct": true
   },
   {
     "id": 204,
@@ -2106,7 +2116,8 @@
     "level": "Domestic",
     "abbr": "Galle Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Galle_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Galle_Cricket_Club",
+    "defunct": true
   },
   {
     "id": 208,
@@ -2116,7 +2127,8 @@
     "level": "Domestic",
     "abbr": "Kalutara Town Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Kalutara_Town_Club"
+    "link": "https://en.wikipedia.org/wiki/Kalutara_Town_Club",
+    "defunct": true
   },
   {
     "id": 209,
@@ -2126,7 +2138,8 @@
     "level": "Domestic",
     "abbr": "Kandy Customs Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Kandy_Customs_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Kandy_Customs_Cricket_Club",
+    "defunct": true
   },
   {
     "id": 210,
@@ -2136,7 +2149,8 @@
     "level": "Domestic",
     "abbr": "Kurunegala Youth Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Kurunegala_Youth_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Kurunegala_Youth_Cricket_Club",
+    "defunct": true
   },
   {
     "id": 211,
@@ -2166,7 +2180,8 @@
     "level": "Domestic",
     "abbr": "Police Sports Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Police_Sports_Club_(cricket)"
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Police_Sports_Club_(cricket)",
+    "defunct": true
   },
   {
     "id": 214,
@@ -2186,7 +2201,8 @@
     "level": "Domestic",
     "abbr": "Sebastianites Cricket and Athletic Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Sebastianites_Cricket_and_Athletic_Club"
+    "link": "https://en.wikipedia.org/wiki/Sebastianites_Cricket_and_Athletic_Club",
+    "defunct": true
   },
   {
     "id": 216,
@@ -2206,7 +2222,8 @@
     "level": "Domestic",
     "abbr": "Ace Capital Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Ace_Capital_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Ace_Capital_Cricket_Club",
+    "defunct": true
   },
   {
     "id": 218,
@@ -2246,7 +2263,8 @@
     "level": "Domestic",
     "abbr": "Negombo Cricket Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Negombo_Cricket_Club"
+    "link": "https://en.wikipedia.org/wiki/Negombo_Cricket_Club",
+    "defunct": true
   },
   {
     "id": 222,
@@ -2266,7 +2284,8 @@
     "level": "Domestic",
     "abbr": "Nugegoda Sports and Welfare Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Nugegoda_Sports_and_Welfare_Club"
+    "link": "https://en.wikipedia.org/wiki/Nugegoda_Sports_and_Welfare_Club",
+    "defunct": true
   },
   {
     "id": 224,
@@ -2276,7 +2295,8 @@
     "level": "Domestic",
     "abbr": "Panadura Sports Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Panadura_Sports_Club"
+    "link": "https://en.wikipedia.org/wiki/Panadura_Sports_Club",
+    "defunct": true
   },
   {
     "id": 225,
@@ -2296,7 +2316,8 @@
     "level": "Domestic",
     "abbr": "Sri Lanka Air Force Sports Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Air_Force_Sports_Club_(cricket)"
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Air_Force_Sports_Club_(cricket)",
+    "defunct": true
   },
   {
     "id": 227,
@@ -2316,7 +2337,8 @@
     "level": "Domestic",
     "abbr": "Sri Lanka Navy Sports Club",
     "hiring_cond": "Mature",
-    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Navy_Sports_Club_(cricket)"
+    "link": "https://en.wikipedia.org/wiki/Sri_Lanka_Navy_Sports_Club_(cricket)",
+    "defunct": true
   },
   {
     "id": 229,
@@ -2336,7 +2358,8 @@
     "level": "Domestic",
     "abbr": "Basnahira North",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Basnahira_North_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Basnahira_North_cricket_team",
+    "defunct": true
   },
   {
     "id": 231,
@@ -2346,7 +2369,8 @@
     "level": "Domestic",
     "abbr": "Basnahira South",
     "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Basnahira_South_cricket_team"
+    "link": "https://en.wikipedia.org/wiki/Basnahira_South_cricket_team",
+    "defunct": true
   },
   {
     "id": 232,
@@ -2357,16 +2381,6 @@
     "abbr": "Kandurata",
     "hiring_cond": "Skilled",
     "link": "https://en.wikipedia.org/wiki/Kandurata_cricket_team"
-  },
-  {
-    "id": 233,
-    "name": "Galle International Stadium",
-    "type": "State",
-    "country_id": 10,
-    "level": "Domestic",
-    "abbr": "Galle International Stadium",
-    "hiring_cond": "Skilled",
-    "link": "https://en.wikipedia.org/wiki/Galle_International_Stadium"
   },
   {
     "id": 234,

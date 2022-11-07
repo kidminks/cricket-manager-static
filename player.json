@@ -19960,5 +19960,5054 @@
     "bowling_style": "R fast-medium",
     "player_type": "Bowlers",
     "notes": ":::Bowlers"
+  },
+  {
+    "id": 2219,
+    "name": "Sohail Akhtar",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2220,
+    "name": "Fakhar Zaman",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2221,
+    "name": "Abdullah Shafique",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2222,
+    "name": "Mohammad Hafeez",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "All-rounders",
+    "notes": "Vice Captain:::All-rounders"
+  },
+  {
+    "id": 2223,
+    "name": "Dean Foxcroft",
+    "country": "South Africa",
+    "batting_style": "R",
+    "bowling_style": "R off-break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2224,
+    "name": "David Wiese",
+    "country": "Namibia",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2225,
+    "name": "Samit Patel",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2226,
+    "name": "Kamran Ghulam",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2227,
+    "name": "Harry Brook",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2228,
+    "name": "Phil Salt",
+    "country": "Wales",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2229,
+    "name": "Ben Dunk",
+    "country": "Australia",
+    "batting_style": "L",
+    "bowling_style": "R off break",
+    "player_type": "Wicket-keepers",
+    "notes": "Power-hitting coach; Replacement for Phil Salt for the first 4 matches[54]:::Wicket-keepers"
+  },
+  {
+    "id": 2230,
+    "name": "Zeeshan Ashraf",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "R off break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2231,
+    "name": "Ahmed Daniyal",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2232,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "L fast",
+    "player_type": "Bowlers",
+    "notes": "Captain:::Bowlers"
+  },
+  {
+    "id": 2233,
+    "name": "Maaz Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R leg-break googly",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2234,
+    "name": "Syed Faridoun",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L wrist spin",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2235,
+    "name": "Matty Potts",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": "Partial replacement for Harry Brook[55]:::Bowlers"
+  },
+  {
+    "id": 2236,
+    "name": "Fawad Ahmed",
+    "country": "Australia",
+    "batting_style": "R",
+    "bowling_style": "R leg break",
+    "player_type": "Bowlers",
+    "notes": "Replacement of Rashid Khan who will leave after team's 9 matches due to national duties:::Bowlers"
+  },
+  {
+    "id": 2237,
+    "name": "Akif Javed",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2238,
+    "name": "Haris Rauf",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast",
+    "player_type": "Bowlers",
+    "notes": "Ambassador:::Bowlers"
+  },
+  {
+    "id": 2239,
+    "name": "Zaman Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2240,
+    "name": "Salman Mirza",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2241,
+    "name": "Aamer Azmat",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2242,
+    "name": "Sohaib Maqsood",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2243,
+    "name": "Rizwan Hussain",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2244,
+    "name": "Rilee Rossouw",
+    "country": "South Africa",
+    "batting_style": "L",
+    "bowling_style": "R off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2245,
+    "name": "Johnson Charles",
+    "country": "Saint Lucia",
+    "batting_style": "R",
+    "bowling_style": "Left arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Full replacement for Odean Smith:::Batsmen"
+  },
+  {
+    "id": 2246,
+    "name": "Tim David",
+    "country": "Singapore",
+    "batting_style": "R",
+    "bowling_style": "R off-break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2247,
+    "name": "Anwar Ali",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2248,
+    "name": "Abbas Afridi",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2249,
+    "name": "Khushdil Shah",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Ambassador:::All-rounders"
+  },
+  {
+    "id": 2250,
+    "name": "Rovman Powell",
+    "country": "Jamaica",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2251,
+    "name": "Mohammad Rizwan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "Captain:::Wicket-keepers"
+  },
+  {
+    "id": 2252,
+    "name": "Ihsanullah",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2253,
+    "name": "Rumman Raees",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2254,
+    "name": "Shahnawaz Dahani",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2255,
+    "name": "Imran Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2256,
+    "name": "Asif Afridi",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2257,
+    "name": "Blessing Muzarabani",
+    "country": "Zimbabwe",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2258,
+    "name": "Imran Tahir",
+    "country": "South Africa",
+    "batting_style": "R",
+    "bowling_style": "R leg break",
+    "player_type": "Bowlers",
+    "notes": "Mentor:::Bowlers"
+  },
+  {
+    "id": 2259,
+    "name": "Dominic Drakes",
+    "country": "Barbados",
+    "batting_style": "L",
+    "bowling_style": "L medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Partial replacement for Rovman Powell:::Bowlers"
+  },
+  {
+    "id": 2260,
+    "name": "Odean Smith",
+    "country": "Jamaica",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2261,
+    "name": "Hazratullah Zazai",
+    "country": "Afghanistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2262,
+    "name": "Yasir Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2263,
+    "name": "Haider Ali",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2264,
+    "name": "Tayyab Tahir",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R Leg break googly",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2265,
+    "name": "Hussain Talat",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2266,
+    "name": "Shoaib Malik",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "All-rounders",
+    "notes": "Vice Captain:::All-rounders"
+  },
+  {
+    "id": 2267,
+    "name": "Ben Cutting",
+    "country": "Australia",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2268,
+    "name": "Amad Butt",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2269,
+    "name": "Khalid Usman",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2270,
+    "name": "Kamran Akmal",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2271,
+    "name": "Mohammad Haris",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2272,
+    "name": "Arish Ali Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Full replacement for Mohammad Amir Khan:::Bowlers"
+  },
+  {
+    "id": 2273,
+    "name": "Ali Majid",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2274,
+    "name": "Sameen Gul",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2275,
+    "name": "Mohammad Umar",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2276,
+    "name": "Mohammad Amir Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2277,
+    "name": "Sohail Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2278,
+    "name": "Arshad Iqbal",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2279,
+    "name": "Wahab Riaz",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L fast",
+    "player_type": "Bowlers",
+    "notes": "Captain:::Bowlers"
+  },
+  {
+    "id": 2280,
+    "name": "Matt Parkinson",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R leg-break",
+    "player_type": "Bowlers",
+    "notes": "Partial replacement for Saqib Mahmood:::Bowlers"
+  },
+  {
+    "id": 2281,
+    "name": "Usman Qadir",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "R leg-break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2282,
+    "name": "Salman Irshad",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2283,
+    "name": "Sirajuddin",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2284,
+    "name": "Abdul Bangalzai",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2285,
+    "name": "Ahsan Ali",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "Leg-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2286,
+    "name": "James Vince",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2287,
+    "name": "Dan Lawrence",
+    "country": "England",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2288,
+    "name": "Umar Akmal",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2289,
+    "name": "Ali Imran",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Batsmen",
+    "notes": "Partial replacement for Noor Ahmad:::Batsmen"
+  },
+  {
+    "id": 2290,
+    "name": "Shimron Hetmyer",
+    "country": "Guyana",
+    "batting_style": "L",
+    "bowling_style": "—",
+    "player_type": "Batsmen",
+    "notes": "Partial replacement for Jason Roy:::Batsmen"
+  },
+  {
+    "id": 2291,
+    "name": "Mohammad Shehzad",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Replacement for James Faulkner:::Batsmen"
+  },
+  {
+    "id": 2292,
+    "name": "Shahid Afridi",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R leg spin",
+    "player_type": "All-rounders",
+    "notes": "Mentor:::All-rounders"
+  },
+  {
+    "id": 2293,
+    "name": "Hasan Khan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Partial replacement for Shahid Afridi/Later fully replaced Muhammad Nawaz:::All-rounders"
+  },
+  {
+    "id": 2294,
+    "name": "Mohammad Nawaz",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Vice Captain:::All-rounders"
+  },
+  {
+    "id": 2295,
+    "name": "James Faulkner",
+    "country": "Australia",
+    "batting_style": "R",
+    "bowling_style": "L fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2296,
+    "name": "Iftikhar Ahmed",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2297,
+    "name": "Ben Duckett",
+    "country": "England",
+    "batting_style": "L",
+    "bowling_style": "R off-break",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2298,
+    "name": "Sarfaraz Ahmed",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "Captain:::Wicket-keepers"
+  },
+  {
+    "id": 2299,
+    "name": "Ghulam Mudassar",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2300,
+    "name": "Ashir Qureshi",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R leg-break googly",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2301,
+    "name": "Khurram Shahzad",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2302,
+    "name": "Sohail Tanvir",
+    "country": "Pakistan",
+    "batting_style": "L",
+    "bowling_style": "L medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2303,
+    "name": "Naseem Shah",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2304,
+    "name": "Mohammad Irfan",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "L fast",
+    "player_type": "Bowlers",
+    "notes": "Replacement for Muhammad Hasnain[71]:::Bowlers"
+  },
+  {
+    "id": 2305,
+    "name": "Mohammad Hasnain",
+    "country": "Pakistan",
+    "batting_style": "R",
+    "bowling_style": "R fast",
+    "player_type": "Bowlers",
+    "notes": "Ambassador:::Bowlers"
+  },
+  {
+    "id": 2306,
+    "name": "Akbar-ur-Rehman",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2307,
+    "name": "Ayaz Tasawwar",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2308,
+    "name": "Imran Farhat",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2309,
+    "name": "Ali Waqas",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2310,
+    "name": "Taimur Ali",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2311,
+    "name": "Azeem Ghumman",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2312,
+    "name": "Haris Sohail",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2313,
+    "name": "Awais Zia",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2314,
+    "name": "Imran Butt",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2315,
+    "name": "Imam-ul-Haq",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2316,
+    "name": "Bismillah Khan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keeper",
+    "notes": ":::Wicket-keeper"
+  },
+  {
+    "id": 2317,
+    "name": "Hidayatullah",
+    "country": "Pakistan",
+    "batting_style": "",
+    "bowling_style": "",
+    "player_type": "Wicket-keeper",
+    "notes": ":::Wicket-keeper"
+  },
+  {
+    "id": 2318,
+    "name": "Kashif Bhatti",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2319,
+    "name": "Jalat Khan",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2320,
+    "name": "Raza-ul-Hasan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2321,
+    "name": "Yasir Shah",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Spin Bowlers",
+    "notes": "Vice-Captain:::Spin Bowlers"
+  },
+  {
+    "id": 2322,
+    "name": "Taj Wali",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2323,
+    "name": "Gohar Faiz",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2324,
+    "name": "Junaid Khan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2325,
+    "name": "Saad Nasim",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2326,
+    "name": "Mohammad Saad",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2327,
+    "name": "Ali Zaryab",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2328,
+    "name": "Ahmed Shehzad",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2329,
+    "name": "Abid Ali",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2330,
+    "name": "Saif Badar",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2331,
+    "name": "Ahmed Safi Abdullah",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2332,
+    "name": "Ahmed Bashir",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2333,
+    "name": "Ehsan Adil",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2334,
+    "name": "Muhammad Faizan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2335,
+    "name": "Umar Amin",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2336,
+    "name": "Faizan Riaz",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2337,
+    "name": "Sarmad Bhatti",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2338,
+    "name": "Nauman Ali",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": "First-class Captain:::Spin Bowlers"
+  },
+  {
+    "id": 2339,
+    "name": "Mehran Mumtaz",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2340,
+    "name": "Aamer Jamal",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2341,
+    "name": "Kashif Ali",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2342,
+    "name": "Asad Shafiq",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2343,
+    "name": "Khurram Manzoor",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2344,
+    "name": "Saud Shakeel",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2345,
+    "name": "Saad Ali",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2346,
+    "name": "Omair Yousuf",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2347,
+    "name": "Hasan Mohsin",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2348,
+    "name": "Mohamamad Hasan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2349,
+    "name": "Mohammad Asghar",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2350,
+    "name": "Abrar Ahmed",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2351,
+    "name": "Tabish Khan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2352,
+    "name": "Mukhtar Ahmed",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2353,
+    "name": "Imran Rafiq",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2354,
+    "name": "Mohammad Umair",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2355,
+    "name": "Sharoon Siraj",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2356,
+    "name": "Zain Abbas",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2357,
+    "name": "Agha Salman",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2358,
+    "name": "Hassan Khan",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2359,
+    "name": "Umar Siddiq",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": "Captain:::Wicket-keepers"
+  },
+  {
+    "id": 2360,
+    "name": "Waqar Hussain",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2361,
+    "name": "Umer Khan",
+    "country": "Pakistan",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2362,
+    "name": "Zia-ul-Haq",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2363,
+    "name": "Bilawal Bhatti",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2364,
+    "name": "Ali Shafiq",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2365,
+    "name": "Mohammad Abbas",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2366,
+    "name": "Aaron Summers",
+    "country": "Pakistan",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas cricketer from Australia:::Pace Bowlers"
+  },
+  {
+    "id": 2367,
+    "name": "Marques Ackerman",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": "First-class Captain:::Batsmen"
+  },
+  {
+    "id": 2368,
+    "name": "Khaya Zondo",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2369,
+    "name": "Sarel Erwee",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2370,
+    "name": "Thamsanqa Khumalo",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2371,
+    "name": "Jason Smith",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2372,
+    "name": "Bryce Parsons",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2373,
+    "name": "Andile Phehlukwayo",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm fast",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2374,
+    "name": "Ruan de Swardt",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2375,
+    "name": "Keegan Petersen",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2376,
+    "name": "Grant Roelofsen",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2377,
+    "name": "Prenelan Subrayen",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Spin Bowlers",
+    "notes": "Twenty20 Captain:::Spin Bowlers"
+  },
+  {
+    "id": 2378,
+    "name": "Keshav Maharaj",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": "List A Captain:::Spin Bowlers"
+  },
+  {
+    "id": 2379,
+    "name": "Eathan Bosch",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2380,
+    "name": "Ottniel Baartman",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2381,
+    "name": "Kerwin Mungroo",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2382,
+    "name": "Daryn Dupavillon",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2383,
+    "name": "Grant Mokoena",
+    "country": "South Africa",
+    "batting_style": "(age 35)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Left arm fast medium:::Batsmen"
+  },
+  {
+    "id": 2384,
+    "name": "Raynard van Tonder",
+    "country": "South Africa",
+    "batting_style": "(age 24)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2385,
+    "name": "Luthando Mnyanda",
+    "country": "South Africa",
+    "batting_style": "(age 33)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm offbreak:::Batsmen"
+  },
+  {
+    "id": 2386,
+    "name": "Obus Pienaar",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Left arm medium:::Batsmen"
+  },
+  {
+    "id": 2387,
+    "name": "Pite van Biljon",
+    "country": "South Africa",
+    "batting_style": "(age 36)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium:::Batsmen"
+  },
+  {
+    "id": 2388,
+    "name": "Clyde Fortuin",
+    "country": "South Africa",
+    "batting_style": "(age 27)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket Keepers",
+    "notes": ":::Wicket Keepers"
+  },
+  {
+    "id": 2389,
+    "name": "Andries Gous",
+    "country": "South Africa",
+    "batting_style": "(age 28)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket Keepers",
+    "notes": ":::Wicket Keepers"
+  },
+  {
+    "id": 2390,
+    "name": "Wandile Makwetu",
+    "country": "South Africa",
+    "batting_style": "(age 23)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket Keepers",
+    "notes": ":::Wicket Keepers"
+  },
+  {
+    "id": 2391,
+    "name": "Gerald Coetzee",
+    "country": "South Africa",
+    "batting_style": "(age 22)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm fast:::All-rounders"
+  },
+  {
+    "id": 2392,
+    "name": "Patrick Kruger",
+    "country": "South Africa",
+    "batting_style": "(age 27)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm medium:::All-rounders"
+  },
+  {
+    "id": 2393,
+    "name": "Jacques Snyman",
+    "country": "South Africa",
+    "batting_style": "(age 28)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm offbreak:::All-rounders"
+  },
+  {
+    "id": 2394,
+    "name": "Aubrey Swanepoel",
+    "country": "South Africa",
+    "batting_style": "(age 33)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm offbreak:::All-rounders"
+  },
+  {
+    "id": 2395,
+    "name": "Romano Terblanche",
+    "country": "South Africa",
+    "batting_style": "(age 36)",
+    "bowling_style": "Left-handed",
+    "player_type": "All-rounders",
+    "notes": "Left arm fast medium:::All-rounders"
+  },
+  {
+    "id": 2396,
+    "name": "Shaun von Berg",
+    "country": "South Africa",
+    "batting_style": "(age 36)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm legbreak:::All-rounders"
+  },
+  {
+    "id": 2397,
+    "name": "Luvuyo Adam",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Left-handed",
+    "player_type": "Spin Bowlers",
+    "notes": "Left arm orthodox:::Spin Bowlers"
+  },
+  {
+    "id": 2398,
+    "name": "Tshepo Ntuli",
+    "country": "South Africa",
+    "batting_style": "(age 26)",
+    "bowling_style": "Right-handed",
+    "player_type": "Spin Bowlers",
+    "notes": "Right arm off break:::Spin Bowlers"
+  },
+  {
+    "id": 2399,
+    "name": "Mbulelo Budaza",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Left arm fast:::Seam Bowlers"
+  },
+  {
+    "id": 2400,
+    "name": "Corné Dry",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm medium-fast:::Seam Bowlers"
+  },
+  {
+    "id": 2401,
+    "name": "Thandolwethu Mnyaka",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm medium-fast:::Seam Bowlers"
+  },
+  {
+    "id": 2402,
+    "name": "Edward Moore",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Left-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm off break:::Batsmen"
+  },
+  {
+    "id": 2403,
+    "name": "Christiaan Jonker",
+    "country": "South Africa",
+    "batting_style": "(age 36)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2404,
+    "name": "Marco Marais",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2405,
+    "name": "Lesiba Ngoepe",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Left-handed",
+    "player_type": "Batsmen",
+    "notes": "Left arm orthodox:::Batsmen"
+  },
+  {
+    "id": 2406,
+    "name": "Yaseen Vallie",
+    "country": "South Africa",
+    "batting_style": "(age 33)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm off break:::Batsmen"
+  },
+  {
+    "id": 2407,
+    "name": "Matthew Breetzke",
+    "country": "South Africa",
+    "batting_style": "(age 24)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2408,
+    "name": "Gihahn Cloete",
+    "country": "South Africa",
+    "batting_style": "(age 30)",
+    "bowling_style": "Left-handed",
+    "player_type": "Wicket-keepers",
+    "notes": "Right arm off break:::Wicket-keepers"
+  },
+  {
+    "id": 2409,
+    "name": "Sinethemba Qeshile",
+    "country": "South Africa",
+    "batting_style": "(age 23)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2410,
+    "name": "Rudi Second",
+    "country": "South Africa",
+    "batting_style": "(age 33)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket-keepers",
+    "notes": "Right arm Off break:::Wicket-keepers"
+  },
+  {
+    "id": 2411,
+    "name": "Thomas Kaber",
+    "country": "South Africa",
+    "batting_style": "(age 30)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Left arm unorthodox:::All-rounders"
+  },
+  {
+    "id": 2412,
+    "name": "Onke Nyaku",
+    "country": "South Africa",
+    "batting_style": "(age 28)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2413,
+    "name": "JJ Smuts",
+    "country": "South Africa",
+    "batting_style": "(age 34)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Left arm orthodox:::All-rounders"
+  },
+  {
+    "id": 2414,
+    "name": "Jade de Klerk",
+    "country": "South Africa",
+    "batting_style": "(age 23)",
+    "bowling_style": "Right-handed",
+    "player_type": "Spin Bowlers",
+    "notes": "Left-arm Orthodox:::Spin Bowlers"
+  },
+  {
+    "id": 2415,
+    "name": "Andrew Birch",
+    "country": "South Africa",
+    "batting_style": "(age 37)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2416,
+    "name": "Ayabulela Gqamane",
+    "country": "South Africa",
+    "batting_style": "(age 33)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2417,
+    "name": "Sithembile Langa",
+    "country": "South Africa",
+    "batting_style": "(age 27)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast:::Seam Bowlers"
+  },
+  {
+    "id": 2418,
+    "name": "Sisanda Magala",
+    "country": "South Africa",
+    "batting_style": "(age 31)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2419,
+    "name": "Lutho Sipamla",
+    "country": "South Africa",
+    "batting_style": "(age 24)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast:::Seam Bowlers"
+  },
+  {
+    "id": 2420,
+    "name": "Glenton Stuurman",
+    "country": "South Africa",
+    "batting_style": "(age 30)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm medium:::Seam Bowlers"
+  },
+  {
+    "id": 2421,
+    "name": "Basheeru-Deen Walters",
+    "country": "South Africa",
+    "batting_style": "(age 36)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm medium-fast:::Seam Bowlers"
+  },
+  {
+    "id": 2422,
+    "name": "Andrea Agathangelou",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm leg break:::Batsmen"
+  },
+  {
+    "id": 2423,
+    "name": "Tony de Zorzi",
+    "country": "South Africa",
+    "batting_style": "(age 25)",
+    "bowling_style": "Left-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm off break:::Batsmen"
+  },
+  {
+    "id": 2424,
+    "name": "Gionne Koopman",
+    "country": "South Africa",
+    "batting_style": "(age 30)",
+    "bowling_style": "Left-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm legbreak:::Batsmen"
+  },
+  {
+    "id": 2425,
+    "name": "Victor Mahlangu",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium:::Batsmen"
+  },
+  {
+    "id": 2426,
+    "name": "Wesley Marshall",
+    "country": "South Africa",
+    "batting_style": "(age 28)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium:::Batsmen"
+  },
+  {
+    "id": 2427,
+    "name": "Farhaan Behardien",
+    "country": "South Africa",
+    "batting_style": "(age 39)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium:::Batsmen"
+  },
+  {
+    "id": 2428,
+    "name": "Henry Davids",
+    "country": "South Africa",
+    "batting_style": "(age 42)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2429,
+    "name": "Theunis de Bruyn",
+    "country": "South Africa",
+    "batting_style": "(age 30)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2430,
+    "name": "David Wiese",
+    "country": "South Africa",
+    "batting_style": "(age 37)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm leg break:::Batsmen"
+  },
+  {
+    "id": 2431,
+    "name": "Diego Rosier",
+    "country": "South Africa",
+    "batting_style": "(age 28)",
+    "bowling_style": "Right-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm leg break:::Batsmen"
+  },
+  {
+    "id": 2432,
+    "name": "Kabelo Sekhukhune",
+    "country": "South Africa",
+    "batting_style": "(age 25)",
+    "bowling_style": "Left-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm leg break:::Batsmen"
+  },
+  {
+    "id": 2433,
+    "name": "Jonathan Vandiar",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Left-handed",
+    "player_type": "Batsmen",
+    "notes": "Right arm leg break:::Batsmen"
+  },
+  {
+    "id": 2434,
+    "name": "Rubin Hermann",
+    "country": "South Africa",
+    "batting_style": "(age 25)",
+    "bowling_style": "Left-handed",
+    "player_type": "Wicket-keepers",
+    "notes": "—:::Wicket-keepers"
+  },
+  {
+    "id": 2435,
+    "name": "Heinrich Klaasen",
+    "country": "South Africa",
+    "batting_style": "(age 31)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket-keepers",
+    "notes": "—:::Wicket-keepers"
+  },
+  {
+    "id": 2436,
+    "name": "Sizwe Masondo",
+    "country": "South Africa",
+    "batting_style": "(age 35)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket-keepers",
+    "notes": "—:::Wicket-keepers"
+  },
+  {
+    "id": 2437,
+    "name": "Rivaldo Moonsamy",
+    "country": "South Africa",
+    "batting_style": "(age 26)",
+    "bowling_style": "Right-handed",
+    "player_type": "Wicket-keepers",
+    "notes": "—:::Wicket-keepers"
+  },
+  {
+    "id": 2438,
+    "name": "Matthew Arnold",
+    "country": "South Africa",
+    "batting_style": "(age 34)",
+    "bowling_style": "Left-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm fast-medium:::All-rounders"
+  },
+  {
+    "id": 2439,
+    "name": "Neil Brand",
+    "country": "South Africa",
+    "batting_style": "(age 26)",
+    "bowling_style": "Left-handed",
+    "player_type": "All-rounders",
+    "notes": "Left-arm orthodox:::All-rounders"
+  },
+  {
+    "id": 2440,
+    "name": "Dayyaan Galiem",
+    "country": "South Africa",
+    "batting_style": "(age 25)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2441,
+    "name": "Chris Morris",
+    "country": "South Africa",
+    "batting_style": "(age 35)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm fast-medium:::All-rounders"
+  },
+  {
+    "id": 2442,
+    "name": "Grant Thomson",
+    "country": "South Africa",
+    "batting_style": "(age 34)",
+    "bowling_style": "Right-handed",
+    "player_type": "All-rounders",
+    "notes": "Right arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2443,
+    "name": "Gregory Mahlokwana",
+    "country": "South Africa",
+    "batting_style": "(age 27)",
+    "bowling_style": "Left-handed",
+    "player_type": "Spin Bowlers",
+    "notes": "Left-arm orthodox spin:::Spin Bowlers"
+  },
+  {
+    "id": 2444,
+    "name": "Tabraiz Shamsi",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Right-handed",
+    "player_type": "Spin Bowlers",
+    "notes": "Slow left-arm wrist-spin:::Spin Bowlers"
+  },
+  {
+    "id": 2445,
+    "name": "Simon Harmer",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Right-handed",
+    "player_type": "Spin Bowlers",
+    "notes": "Right arm off break:::Spin Bowlers"
+  },
+  {
+    "id": 2446,
+    "name": "Clayton August",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Left-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Left Arm Fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2447,
+    "name": "Tshepo Moreki",
+    "country": "South Africa",
+    "batting_style": "(age 29)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2448,
+    "name": "Itumaleng Moseki",
+    "country": "South Africa",
+    "batting_style": "(age 31)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2449,
+    "name": "Alfred Mothoa",
+    "country": "South Africa",
+    "batting_style": "(age 32)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm fast-medium:::Seam Bowlers"
+  },
+  {
+    "id": 2450,
+    "name": "Marcello Piedt",
+    "country": "South Africa",
+    "batting_style": "(age 30)",
+    "bowling_style": "Right-handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm medium-fast:::Seam Bowlers"
+  },
+  {
+    "id": 2451,
+    "name": "Dale Steyn",
+    "country": "South Africa",
+    "batting_style": "(age 39)",
+    "bowling_style": "Right- handed",
+    "player_type": "Seam Bowlers",
+    "notes": "Right arm Fast:::Seam Bowlers"
+  },
+  {
+    "id": 2452,
+    "name": "Joshua Richards",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2453,
+    "name": "Dominic Hendricks",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "First-class Captain:::Batsmen"
+  },
+  {
+    "id": 2454,
+    "name": "Mitchell van Buuren",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2455,
+    "name": "Reeza Hendricks",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "List A Captain:::Batsmen"
+  },
+  {
+    "id": 2456,
+    "name": "Kagiso Rapulana",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2457,
+    "name": "Shane Dadswell",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2458,
+    "name": "Temba Bavuma",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2459,
+    "name": "Wiaan Mulder",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2460,
+    "name": "Ruan Haasbroek",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-Rounders",
+    "notes": ":::All-Rounders"
+  },
+  {
+    "id": 2461,
+    "name": "Ryan Rickelton",
+    "country": "South Africa",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": "Twenty20 Captain:::Wicket-keepers"
+  },
+  {
+    "id": 2462,
+    "name": "Bjorn Fortuin",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2463,
+    "name": "Malusi Siboto",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2464,
+    "name": "Duanne Olivier",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2465,
+    "name": "Codi Yusuf",
+    "country": "South Africa",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Seam Bowlers",
+    "notes": ":::Seam Bowlers"
+  },
+  {
+    "id": 2466,
+    "name": "Raminda Wijesooriya",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Batsmen",
+    "notes": "24:::Batsmen"
+  },
+  {
+    "id": 2467,
+    "name": "Lasith Lakshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "26:::Batsmen"
+  },
+  {
+    "id": 2468,
+    "name": "Nisal Francisco",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "25:::Batsmen"
+  },
+  {
+    "id": 2469,
+    "name": "Shanuka Dulaj",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "27:::Batsmen"
+  },
+  {
+    "id": 2470,
+    "name": "Shehan Nissanka",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "28:::Batsmen"
+  },
+  {
+    "id": 2471,
+    "name": "Hashen Ramanayake (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "27:::All-rounders"
+  },
+  {
+    "id": 2472,
+    "name": "Deshan Dias",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "30:::Wicket-keepers"
+  },
+  {
+    "id": 2473,
+    "name": "Lisula Lakshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "27:::Wicket-keepers"
+  },
+  {
+    "id": 2474,
+    "name": "Kevin Koththigoda",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Bowlers",
+    "notes": "24:::Bowlers"
+  },
+  {
+    "id": 2475,
+    "name": "Sohaibullah",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "26:::Bowlers"
+  },
+  {
+    "id": 2476,
+    "name": "Malindu Shehan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "28:::Bowlers"
+  },
+  {
+    "id": 2477,
+    "name": "Tharindu Kaushal",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "29:::Bowlers"
+  },
+  {
+    "id": 2478,
+    "name": "Chameera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "26:::Bowlers"
+  },
+  {
+    "id": 2479,
+    "name": "Duvindu Tillakaratne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "26:::Bowlers"
+  },
+  {
+    "id": 2480,
+    "name": "Mohamed Shiraz",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "27:::Bowlers"
+  },
+  {
+    "id": 2481,
+    "name": "Lasith Abeyratne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": "Vice-captain:::Batsmen"
+  },
+  {
+    "id": 2482,
+    "name": "Pavan Rathnayake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2483,
+    "name": "Nimesha Gunasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2484,
+    "name": "Ashan Priyanjan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "All-rounders",
+    "notes": "Captain:::All-rounders"
+  },
+  {
+    "id": 2485,
+    "name": "Pawantha Weerasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2486,
+    "name": "Chamindu Wijesinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2487,
+    "name": "Malinga Amarasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2488,
+    "name": "Lahiru Madushanka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2489,
+    "name": "Sonal Dinusha",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2490,
+    "name": "Minod Bhanuka",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keeper",
+    "notes": ":::Wicket-keeper"
+  },
+  {
+    "id": 2491,
+    "name": "Malinda Pushpakumara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2492,
+    "name": "Lakshan Sandakan",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm unorthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2493,
+    "name": "Lahiru Gamage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2494,
+    "name": "Vishwa Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2495,
+    "name": "Nuwan Thushara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2496,
+    "name": "Avishka Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2497,
+    "name": "Priyamal Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2498,
+    "name": "Hashan Dumindu",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2499,
+    "name": "Sangeeth Cooray",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2500,
+    "name": "Santhush Gunathilake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2501,
+    "name": "Dilruwan Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2502,
+    "name": "Dhananjaya Lakshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Right-arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2503,
+    "name": "Jehan Daniel",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Right-arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2504,
+    "name": "Nalin Priyadarshana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2505,
+    "name": "Sadeera Samarawickrama (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2506,
+    "name": "Kusal Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2507,
+    "name": "Akila Dananjaya",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2508,
+    "name": "Nipun Ransika",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2509,
+    "name": "Nipun Malinga",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2510,
+    "name": "Mahesh Theekshana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2511,
+    "name": "Sahan Peiris",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2512,
+    "name": "Methsith Jayamanna",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2513,
+    "name": "Lahiru Dilshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2514,
+    "name": "Kevin Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2515,
+    "name": "Damitha Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-Rounders",
+    "notes": "Slow left-arm orthodox:::All-Rounders"
+  },
+  {
+    "id": 2516,
+    "name": "Sahan Nanayakkare",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-Rounders",
+    "notes": "Slow left-arm orthodox:::All-Rounders"
+  },
+  {
+    "id": 2517,
+    "name": "Geeth Kumara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm wrist-spin",
+    "player_type": "All-Rounders",
+    "notes": "Slow left-arm wrist-spin:::All-Rounders"
+  },
+  {
+    "id": 2518,
+    "name": "Chanaka Ruwansiri (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-Rounders",
+    "notes": "Right-arm off-break:::All-Rounders"
+  },
+  {
+    "id": 2519,
+    "name": "Umesh Lakshan",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-Keepers",
+    "notes": "–:::Wicket-Keepers"
+  },
+  {
+    "id": 2520,
+    "name": "Kasun Abeyrathne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-Keepers",
+    "notes": "–:::Wicket-Keepers"
+  },
+  {
+    "id": 2521,
+    "name": "Udith Madushan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Right-arm medium-fast:::Pace Bowlers"
+  },
+  {
+    "id": 2522,
+    "name": "Keshan Wijerathne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Spin Bowlers",
+    "notes": "Right-arm off-break:::Spin Bowlers"
+  },
+  {
+    "id": 2523,
+    "name": "Tilaksha Sumanasiri",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2524,
+    "name": "Chamara Silva (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2525,
+    "name": "Adeesha Thilanchana",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Left-arm medium:::Batsmen"
+  },
+  {
+    "id": 2526,
+    "name": "Irosh Samarasooriya",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": "Right-arm fast-medium:::Batsmen"
+  },
+  {
+    "id": 2527,
+    "name": "Pabasara Waduge",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium:::Batsmen"
+  },
+  {
+    "id": 2528,
+    "name": "Sahan Wijeratne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2529,
+    "name": "Primosh Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2530,
+    "name": "Kosala Kulasekara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "Right-arm fast-medium:::All-rounders"
+  },
+  {
+    "id": 2531,
+    "name": "Supeshala Jayathilake",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Wicket-keepers",
+    "notes": "Slow left-arm orthodox:::Wicket-keepers"
+  },
+  {
+    "id": 2532,
+    "name": "Charitha Kumarasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2533,
+    "name": "Denuwan Rajakaruna",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2534,
+    "name": "Chanuka Dilshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2535,
+    "name": "Sahan Adeesha",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2536,
+    "name": "Nilanka Sandakan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2537,
+    "name": "Sajeewa Weerakoon",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2538,
+    "name": "Tharindu Ratnayake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2539,
+    "name": "Umesh Kasun",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2540,
+    "name": "Shiran Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2541,
+    "name": "Andrew Parays",
+    "country": "Sri Lanka",
+    "batting_style": "–",
+    "bowling_style": "–",
+    "player_type": "Bowlers",
+    "notes": "–:::Bowlers"
+  },
+  {
+    "id": 2542,
+    "name": "Saminda Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Batsmen",
+    "notes": "Vice-captain:::Batsmen"
+  },
+  {
+    "id": 2543,
+    "name": "Udara Jayasundera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2544,
+    "name": "Lahiru Thirimanne",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2545,
+    "name": "Avishka Tharindu",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2546,
+    "name": "Janith Liyanage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Captain:::All-rounders"
+  },
+  {
+    "id": 2547,
+    "name": "Dellon Peiris",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2548,
+    "name": "Sanjula Bandara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2549,
+    "name": "Yohan Liyanage",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2550,
+    "name": "Nishan Madushka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2551,
+    "name": "Lahiru Dawatage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2552,
+    "name": "Kalhara Senarathne",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2553,
+    "name": "Shashika Dulshan",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm unorthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2554,
+    "name": "Janaka Sampath",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg spin",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2555,
+    "name": "Ishan Jayaratne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2556,
+    "name": "Dimuth Karunaratne",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium:::Batsmen"
+  },
+  {
+    "id": 2557,
+    "name": "Shammu Ashan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2558,
+    "name": "Kavindu Kulasekara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2559,
+    "name": "Pasindu Sooriyabandara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Batsmen",
+    "notes": "–:::Batsmen"
+  },
+  {
+    "id": 2560,
+    "name": "Nuwanidu Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2561,
+    "name": "Dasun Shanaka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "Right-arm medium:::All-rounders"
+  },
+  {
+    "id": 2562,
+    "name": "Sachithra Senanayake (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2563,
+    "name": "Danushka Gunathilaka",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2564,
+    "name": "Charith Asalanka (Vice-captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2565,
+    "name": "Sandun Weerakkody",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicketkeepers",
+    "notes": "–:::Wicketkeepers"
+  },
+  {
+    "id": 2566,
+    "name": "Krishan Sanjula",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicketkeepers",
+    "notes": "–:::Wicketkeepers"
+  },
+  {
+    "id": 2567,
+    "name": "Dhammika Prasad",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Right-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2568,
+    "name": "Nuwan Pradeep",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Right-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2569,
+    "name": "Himesh Ramanayake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2570,
+    "name": "Kalana Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Left-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2571,
+    "name": "Kushan Weerakkody",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2572,
+    "name": "Jeffrey Vandersay",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm leg-break:::Bowlers"
+  },
+  {
+    "id": 2573,
+    "name": "Akash Senaratne",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2574,
+    "name": "Tharindu Rathnayake",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox, Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox, Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2575,
+    "name": "Kosala Ravindu",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2576,
+    "name": "Yashodha Lanka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Left-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2577,
+    "name": "Salinda Ushan",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2578,
+    "name": "Dushan Hemantha",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg-break",
+    "player_type": "All-Rounders",
+    "notes": "Right arm leg-break:::All-Rounders"
+  },
+  {
+    "id": 2579,
+    "name": "Tillakaratne Sampath",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-Rounders",
+    "notes": "Right-arm off-break:::All-Rounders"
+  },
+  {
+    "id": 2580,
+    "name": "Lahiru Milantha",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2581,
+    "name": "Damith Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2582,
+    "name": "Shehan Madushanka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": "Right-arm fast-medium:::Pace Bowlers"
+  },
+  {
+    "id": 2583,
+    "name": "Lahiru Samarakoon",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Right-arm medium-fast:::Pace Bowlers"
+  },
+  {
+    "id": 2584,
+    "name": "Sahan Jayawardene",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Left-arm medium-fast:::Pace Bowlers"
+  },
+  {
+    "id": 2585,
+    "name": "Buddika Sanjeewa",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Left-arm medium-fast:::Pace Bowlers"
+  },
+  {
+    "id": 2586,
+    "name": "Alankara Asanka Silva (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Spin Bowlers",
+    "notes": "Right-arm off-break:::Spin Bowlers"
+  },
+  {
+    "id": 2587,
+    "name": "Lahiru Jayakody",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2588,
+    "name": "Nipun Karunanayake (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2589,
+    "name": "Adeesha Nanayakkara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2590,
+    "name": "Chandimanthu Rodrigo",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2591,
+    "name": "Kasun Ekanayake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Batsmen",
+    "notes": "–:::Batsmen"
+  },
+  {
+    "id": 2592,
+    "name": "Sachin Jayawardena",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Slow left-arm orthodox:::Batsmen"
+  },
+  {
+    "id": 2593,
+    "name": "Ramesh Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2594,
+    "name": "Anuk Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Left-arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2595,
+    "name": "Pramud Hettiwatte",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Slow left-arm orthodox:::All-rounders"
+  },
+  {
+    "id": 2596,
+    "name": "Nipun Haggalla",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2597,
+    "name": "Thiran Dhanapala",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2598,
+    "name": "Imran Khan",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Right-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2599,
+    "name": "Lahiru Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm leg-break:::Bowlers"
+  },
+  {
+    "id": 2600,
+    "name": "Kasun Rajitha",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2601,
+    "name": "Malith de Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2602,
+    "name": "Koshan Dhanushka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2603,
+    "name": "Kasun Vidura",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2604,
+    "name": "Dilshan Sanjeewa",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2605,
+    "name": "Anuj Jotin",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2606,
+    "name": "Harindu Jayasekera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2607,
+    "name": "Pulina Tharanga",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg spin",
+    "player_type": "All-rounders",
+    "notes": "Captain:::All-rounders"
+  },
+  {
+    "id": 2608,
+    "name": "Raveen Yasas",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2609,
+    "name": "Thikshila de Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2610,
+    "name": "Gaurav Jathar",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2611,
+    "name": "Kavindu Dilhara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2612,
+    "name": "Chamod Sandaru",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2613,
+    "name": "Kemira Wijenayake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2614,
+    "name": "Irosh Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keeper",
+    "notes": "Vice-captain:::Wicket-keeper"
+  },
+  {
+    "id": 2615,
+    "name": "Avindu Theekshana",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm unorthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2616,
+    "name": "Sheshan Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off spin",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2617,
+    "name": "Charuka Tharindu",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2618,
+    "name": "Charith Jayampathi",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2619,
+    "name": "Upul Tharanga",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": "Vice-captain:::Batsmen"
+  },
+  {
+    "id": 2620,
+    "name": "Ahan Wickramasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2621,
+    "name": "Kaveen Bandara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2622,
+    "name": "Pathum Nissanka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2623,
+    "name": "Kamil Mishara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2624,
+    "name": "Sahan Arachchige",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2625,
+    "name": "Asel Sigera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2626,
+    "name": "Amshi de Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2627,
+    "name": "Johanne de Zilva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2628,
+    "name": "Lahiru Udara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keeper",
+    "notes": "Captain:::Wicket-keeper"
+  },
+  {
+    "id": 2629,
+    "name": "Niroshan Dickwella",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keeper",
+    "notes": ":::Wicket-keeper"
+  },
+  {
+    "id": 2630,
+    "name": "Sachindu Colombage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2631,
+    "name": "Ashian Daniel",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2632,
+    "name": "Lasith Embuldeniya",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2633,
+    "name": "Yugeesha Dishan",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2634,
+    "name": "Wanuja Sahan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2635,
+    "name": "Lahiru Kumara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2636,
+    "name": "Chamika Gunasekara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2637,
+    "name": "Sampath Nishshanka",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2638,
+    "name": "Milinda Siriwardana",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Leftt-arm Slow left-arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Leftt-arm Slow left-arm orthodox:::Batsmen"
+  },
+  {
+    "id": 2639,
+    "name": "Ruvindu Gunasekera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2640,
+    "name": "Ashen Bandara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2641,
+    "name": "Gamindu Kanishka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium:::Batsmen"
+  },
+  {
+    "id": 2642,
+    "name": "Mishen Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "Right-arm medium-fast:::Batsmen"
+  },
+  {
+    "id": 2643,
+    "name": "Minhaj Jaleel",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2644,
+    "name": "Atif Ali",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2645,
+    "name": "Rizwan Haider",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Left-arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2646,
+    "name": "Andy Solomons",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "Right-arm fast-medium:::All-rounders"
+  },
+  {
+    "id": 2647,
+    "name": "Saliya Saman",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Right-arm medium-fast:::All-rounders"
+  },
+  {
+    "id": 2648,
+    "name": "Thanuka Dabare",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2649,
+    "name": "Harsha Cooray (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Wicket-keepers",
+    "notes": "Right-arm off-break:::Wicket-keepers"
+  },
+  {
+    "id": 2650,
+    "name": "Navindu Vithanage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2651,
+    "name": "Promod Maduwantha",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "–:::Wicket-keepers"
+  },
+  {
+    "id": 2652,
+    "name": "Sachithra Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm leg-break:::Bowlers"
+  },
+  {
+    "id": 2653,
+    "name": "Chathura Randunu",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2654,
+    "name": "Roshan Jayatissa",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Bowlers",
+    "notes": "Right-arm off-break:::Bowlers"
+  },
+  {
+    "id": 2655,
+    "name": "Chanaka Devinda",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2656,
+    "name": "Ranitha Liyanarachchi",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Right-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2657,
+    "name": "Mohomed Dilshad",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Left-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2658,
+    "name": "Lakshan Edirisinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2659,
+    "name": "Himasha Liyanage",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2660,
+    "name": "Ashan Randika",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2661,
+    "name": "Thulina Dilshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2662,
+    "name": "Thisara Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Batsmen",
+    "notes": "List A and Twenty20 Captain:::Batsmen"
+  },
+  {
+    "id": 2663,
+    "name": "Shehan Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2664,
+    "name": "Asela Gunaratne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "First-class Captain:::All-rounders"
+  },
+  {
+    "id": 2665,
+    "name": "Suminda Lakshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2666,
+    "name": "Janith Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2667,
+    "name": "Mahesh Kumara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2668,
+    "name": "Dinesh Chandimal",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2669,
+    "name": "Seekkuge Prasanna",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2670,
+    "name": "Gayan Bandara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2671,
+    "name": "Yashoda Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2672,
+    "name": "Heshan Hettiarachchi",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2673,
+    "name": "Lakshan Gamage",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2674,
+    "name": "Asanka Manoj",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2675,
+    "name": "Rashmika Siriwardhana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2676,
+    "name": "Kithuruwan Vithanage",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm leg-break:::Batsmen"
+  },
+  {
+    "id": 2677,
+    "name": "Tharanga Paranavitana",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2678,
+    "name": "Prasansana Jayammanne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2679,
+    "name": "Ranmith Jayasena",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2680,
+    "name": "Yohan Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "Batsmen",
+    "notes": "Right-arm off-break:::Batsmen"
+  },
+  {
+    "id": 2681,
+    "name": "Dhananjaya de Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2682,
+    "name": "Ramith Rambukwella (Captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2683,
+    "name": "Jeevan Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm leg-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm leg-break:::All-rounders"
+  },
+  {
+    "id": 2684,
+    "name": "Maduka Liyanapathiranage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "player_type": "All-rounders",
+    "notes": "Right-arm off-break:::All-rounders"
+  },
+  {
+    "id": 2685,
+    "name": "Manoj Sarathchandra (Vice-captain)",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicketkeepers",
+    "notes": "–:::Wicketkeepers"
+  },
+  {
+    "id": 2686,
+    "name": "Kamesh Nirmal",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicketkeepers",
+    "notes": "–:::Wicketkeepers"
+  },
+  {
+    "id": 2687,
+    "name": "Leo Fransisco",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicketkeepers",
+    "notes": "–:::Wicketkeepers"
+  },
+  {
+    "id": 2688,
+    "name": "Pramod Madushan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Right-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2689,
+    "name": "Sadish Pathiranage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2690,
+    "name": "Thilanga Udeshana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": "Right-arm medium-fast:::Bowlers"
+  },
+  {
+    "id": 2691,
+    "name": "Kasun Madushanka",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Right-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2692,
+    "name": "Devind Pathmanathan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": "Slow left-arm orthodox:::Bowlers"
+  },
+  {
+    "id": 2693,
+    "name": "Vimukthi Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Left-arm fast-medium:::Bowlers"
+  },
+  {
+    "id": 2694,
+    "name": "Chamara Kapugedera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium pace",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2695,
+    "name": "Jeewan Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2696,
+    "name": "Indika Senaratne",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2697,
+    "name": "Kanchana Gunawardene",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2698,
+    "name": "Chinthaka Jayasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium pace",
+    "player_type": "All-rounders",
+    "notes": "T20i Representative only:::All-rounders"
+  },
+  {
+    "id": 2699,
+    "name": "Suresh Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2700,
+    "name": "Thilan Samaraweera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2701,
+    "name": "Thilan Thushara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2702,
+    "name": "Kaushalya Weeraratne",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2703,
+    "name": "GASK Gangodawila",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2704,
+    "name": "Kumar Sangakkara",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "Club captain:::Wicket-keepers"
+  },
+  {
+    "id": 2705,
+    "name": "Muttiah Muralitharan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2706,
+    "name": "Dilhara Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2707,
+    "name": "Chaminda Vidanapathirana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2708,
+    "name": "Michael Vandort",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right arm medium pace",
+    "player_type": "Batsmen",
+    "notes": "Not Included in CLT20 15-man Squad:::Batsmen"
+  },
+  {
+    "id": 2709,
+    "name": "Jeevantha Kulatunga",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium pace",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2710,
+    "name": "Mahela Jayawardene",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm medium pace",
+    "player_type": "Batsmen",
+    "notes": "Captain:::Batsmen"
+  },
+  {
+    "id": 2711,
+    "name": "Kaushal Lokuarachchi",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2712,
+    "name": "Farveez Maharoof",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2713,
+    "name": "Shalika Karunanayake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2714,
+    "name": "Sameera de Zoysa",
+    "country": "Sri Lanka",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2715,
+    "name": "Damitha Hunukumbura",
+    "country": "Sri Lanka",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2716,
+    "name": "Chanaka Welegedara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2717,
+    "name": "Rangana Herath",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2718,
+    "name": "Isuru Udana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left arm medium-fast",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2719,
+    "name": "Ajantha Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm off break, leg break",
+    "player_type": "Bowlers",
+    "notes": ":::Bowlers"
+  },
+  {
+    "id": 2720,
+    "name": "Ishara Amerasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right arm fast-medium",
+    "player_type": "Bowlers",
+    "notes": "Not Included in CLT20 15-man Squad:::Bowlers"
+  },
+  {
+    "id": 2721,
+    "name": "Charith Asalanka",
+    "country": "Sri Lanka",
+    "batting_style": "Left - handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2722,
+    "name": "Asif Ali",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2723,
+    "name": "Chathuranga Kumara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2724,
+    "name": "Navod Paranavithana",
+    "country": "Sri Lanka",
+    "batting_style": "Left - handed",
+    "bowling_style": "Left arm Slow medium",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2725,
+    "name": "Angelo Mathews",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "All-rounders",
+    "notes": "Captain:::All-rounders"
+  },
+  {
+    "id": 2726,
+    "name": "Dwaine Pretorius",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2727,
+    "name": "Karim Janat",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2728,
+    "name": "Muditha Lakshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2729,
+    "name": "Lakshitha Manasinghe",
+    "country": "Sri Lanka",
+    "batting_style": "Left - handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2730,
+    "name": "Chamod Battage",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2731,
+    "name": "Fazalhaq Farooqi",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2732,
+    "name": "Naveen-ul-Haq",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2733,
+    "name": "Dominic Drakes",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2734,
+    "name": "D'Arcy Short",
+    "country": "Sri Lanka",
+    "batting_style": "Left - handed",
+    "bowling_style": "Left-arm unorthodox spin",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2735,
+    "name": "Haider Ali",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2736,
+    "name": "Sacha De Alwis",
+    "country": "Sri Lanka",
+    "batting_style": "Left- handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2737,
+    "name": "Lasith Croospulle",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2738,
+    "name": "Ben Cutting",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast medium",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2739,
+    "name": "Chaturanga de Silva",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2740,
+    "name": "Sachitha Jayathilake",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2741,
+    "name": "Ravindu Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2742,
+    "name": "Tim Seifert",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "Overseas player:::Wicket-keepers"
+  },
+  {
+    "id": 2743,
+    "name": "Sandeep Lamichhane",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Spin Bowlers",
+    "notes": "Overseas player:::Spin Bowlers"
+  },
+  {
+    "id": 2744,
+    "name": "Dilum Sudeera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2745,
+    "name": "Sheldon Cottrell",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm fast medium",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2746,
+    "name": "Janneman Malan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2747,
+    "name": "Sherfane Rutherford",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2748,
+    "name": "Imad Wasim",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2749,
+    "name": "Faheem Ashraf",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2750,
+    "name": "Nimesh Vimukthi",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2751,
+    "name": "Movin Subasingha",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2752,
+    "name": "Kusal Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Wicket-keepers",
+    "notes": "Captain:::Wicket-keepers"
+  },
+  {
+    "id": 2753,
+    "name": "Sarfaraz Ahmed",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Wicket-keepers",
+    "notes": "Overseas player:::Wicket-keepers"
+  },
+  {
+    "id": 2754,
+    "name": "Azam Khan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": "Overseas player:::Wicket-keepers"
+  },
+  {
+    "id": 2755,
+    "name": "Evin Lewis",
+    "country": "Sri Lanka",
+    "batting_style": "Left- handed",
+    "bowling_style": "Right-arm medium",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2756,
+    "name": "Shoaib Malik",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2757,
+    "name": "Nipun Dananjaya",
+    "country": "Sri Lanka",
+    "batting_style": "Left- handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2758,
+    "name": "Dunith Wellalage",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2759,
+    "name": "Theivendiram Dinoshan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2760,
+    "name": "Rahmanullah Gurbaz",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": "Overseas player:::Wicket-keepers"
+  },
+  {
+    "id": 2761,
+    "name": "Sadeera Samarawickrama",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "–",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2762,
+    "name": "Tristan Stubbs",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Wicket-keepers",
+    "notes": "Overseas player:::Wicket-keepers"
+  },
+  {
+    "id": 2763,
+    "name": "Praveen Jayawickrama",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2764,
+    "name": "Vijayakanth Viyaskanth",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2765,
+    "name": "Theesan Vithushan",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "player_type": "Spin Bowlers",
+    "notes": ":::Spin Bowlers"
+  },
+  {
+    "id": 2766,
+    "name": "Binura Fernando",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2767,
+    "name": "Hardus Viljoen",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2768,
+    "name": "Shahnawaz Dahani",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast medium",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2769,
+    "name": "Dilshan Madushanka",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
+  },
+  {
+    "id": 2770,
+    "name": "Dewald Brevis",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm leg break",
+    "player_type": "Batsmen",
+    "notes": "Overseas player:::Batsmen"
+  },
+  {
+    "id": 2771,
+    "name": "Kavin Bandara",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "Batsmen",
+    "notes": ":::Batsmen"
+  },
+  {
+    "id": 2772,
+    "name": "Kamindu Mendis",
+    "country": "Sri Lanka",
+    "batting_style": "Left-handed",
+    "bowling_style": "Ambidextrous off break",
+    "player_type": "All-rounders",
+    "notes": ":::All-rounders"
+  },
+  {
+    "id": 2773,
+    "name": "Carlos Brathwaite",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2774,
+    "name": "Fabian Allen",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Slow left arm orthodox",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2775,
+    "name": "Chris Green",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "player_type": "All-rounders",
+    "notes": "Overseas player:::All-rounders"
+  },
+  {
+    "id": 2776,
+    "name": "Andre Fletcher",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Wicket-keepers",
+    "notes": "Overseas player:::Wicket-keepers"
+  },
+  {
+    "id": 2777,
+    "name": "Avishka Perera",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "—",
+    "player_type": "Wicket-keepers",
+    "notes": ":::Wicket-keepers"
+  },
+  {
+    "id": 2778,
+    "name": "Ahmed Daniyal",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": "Overseas player:::Pace Bowlers"
+  },
+  {
+    "id": 2779,
+    "name": "Matheesha Pathirana",
+    "country": "Sri Lanka",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "player_type": "Pace Bowlers",
+    "notes": ":::Pace Bowlers"
   }
 ]
